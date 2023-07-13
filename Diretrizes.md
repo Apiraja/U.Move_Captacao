@@ -1,5 +1,79 @@
 # Diretrizes
 
+# 13/07
+## Cadastro de páginas
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d50f7bf5-fa7e-412d-a55f-28c422db65a9)
+
+### Paginação
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/6b1df233-897e-41eb-a0ab-4dc8112bfce8)
+
+### Leilão x Lote
+
+Um leilão pode ter vários lotes, um lote é um item a ser leiloado. Em muitas páginas os quadros podem representar tanto leilões quanto lotes.
+
+### Leilão
+Neste caso a página dos leilões se chama:
+
+https://agostinholeiloes.com.br/leilao/570/lotes
+
+Iremos inserir a informação no campo de leilão da seguinte maneira: 
+
+https://agostinholeiloes.com.br/leilao/{slug}/lotes
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/af7d8c78-fcd4-4422-aff1-5850973f96eb)
+
+### Lotes
+
+Neste caso a página dos lotes se chama:
+
+https://agostinholeiloes.com.br/item/2339/detalhes?page=1
+
+Iremos inserir a informação no campo de leilão da seguinte maneira: 
+
+https://agostinholeiloes.com.br/item/{slug}/detalhes?page=1
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/f0df703b-918a-4546-96fe-2c74f08a01c0)
+
+### Outros Exemplos
+
+### https://www.deonizialeiloes.com.br
+
+#### URL Inicial: https://www.deonizialeiloes.com.br
+
+https://www.deonizialeiloes.com.br/externo/
+
+#### URL Paginação: https://www.deonizialeiloes.com.br/externo/
+
+https://www.deonizialeiloes.com.br/externo/lotes/39856
+
+#### URL Leilão: https://www.deonizialeiloes.com.br/externo/lotes/{slug}
+
+https://www.deonizialeiloes.com.br/externo/lote/detalhes/2541212
+
+#### URL Lote: https://www.deonizialeiloes.com.br/externo/lote/detalhes/{slug}
+
+### https://www.hastavip.com.br/
+#### URL Inicial: https://www.hastavip.com.br/
+
+#### URL Paginação: https://www.hastavip.com.br/pesquisa?
+
+https://www.hastavip.com.br/leilao/3207-190720-00
+#### URL Leilão: https://www.hastavip.com.br/leilao/{slug}
+
+https://www.hastavip.com.br/lote/imovel-lotes-capivari-campos-do-jordao-sao-paulo-608952
+#### URL Lote: https://www.hastavip.com.br/lote/{slug}
+
+Interessante procurar leilão com 2 lotes
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/5a683114-fd12-458b-a4b6-e67049cb3a13)
+
+### Próximos Exemplos
+#### URL Inicial:
+#### URL Paginação:
+#### URL Leilão:
+#### URL Lote: 
+
 
 # 12/07
 ## Cadastro de leiloeiros com problema
