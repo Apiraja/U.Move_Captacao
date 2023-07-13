@@ -149,7 +149,7 @@ Lote 8	Dedaloleiloes	https://www.dedaloleiloes.com.br/ - Erro - Ajax em branco
 Lote 8	Jonasdellatonia	https://jonasdellatonia.com.br/ - Site não possui leilão
 Lote 8	Mundodoleilao	https://mundodoleilao.com.br/ - Site não possui leilão
 
-------Lote 9 - Marcos ------
+------Lote 9 - Marcos------
 Lote 9	Plazaleiloes	https://plazaleiloes.com.br/ - Ok 
 Lote 9	Sumareleiloes	https://sumareleiloes.com.br/ - Site fora do ar
 Lote 9	Venetoleiloes	https://venetoleiloes.com.br/ - Erro - Site em branco
@@ -159,7 +159,7 @@ Lote 9	Bastonleiloes	www.bastonleiloes.com.br - Ok
 Lote 9	Carloferrarileiloes	www.carloferrarileiloes.com.br - Ok - Links precisam ser tratados 
 Lote 9	Iarremate	www.iarremate.com - Erro - 403 forbidden
 Lote 9	Liderleiloes	www.liderleiloes.com.br - Pendente - Sem documentos - Sem nome/ultimo lance
-Lote 9	Melhorleiloes	www.melhorleiloes.com.br - 
+Lote 9	Melhorleiloes	www.melhorleiloes.com.br - Pendente - Sem endereço - Sem nome/ultimo lance 
 
 ------Lote 10 - Josh------
 Lote 10	Moralesleiloes	www.moralesleiloes.com.br - Sem lotes de imoveis
@@ -258,23 +258,23 @@ Lote 17	Mrleiloes	www.mrleiloes.com.br
 Lote 17	Mzmleiloes	www.mzmleiloes.com.br
 
 ------Lote 18 - Marcos------
-Lote 18	Niltonbrancalliao	www.niltonbrancalliao.com.br
-Lote 18	Nogueiraleiloes	www.nogueiraleiloes.com.br
-Lote 18	Olivirogerioleiloes	www.olivirogerioleiloes.com.br
-Lote 18	Originarteleiloes	www.originarteleiloes.com.br
-Lote 18	Paquesleiloeiro	www.paquesleiloeiro.com.br
-Lote 18	Peixotoleiloes	www.peixotoleiloes.com.br
-Lote 18	Projudleiloes	www.projudleiloes.com.br
-Lote 18	Pupioleiloes	www.pupioleiloes.com
-Lote 18	Rfleiloes	www.rfleiloes.com.br
-Lote 18	Rmgouvealeiloes	www.rmgouvealeiloes.com.br
+Lote 18	Niltonbrancalliao	www.niltonbrancalliao.com.br - Site fora do ar
+Lote 18	Nogueiraleiloes	www.nogueiraleiloes.com.br - Erro site nao cadastrado
+Lote 18	Olivirogerioleiloes www.olivirogerioleiloes.com.br - Pendente - Sem endereço
+Lote 18	Originarteleiloes	www.originarteleiloes.com.br - Erro site nao cadastrado
+Lote 18	Paquesleiloeiro	www.paquesleiloeiro.com.br - Erro site nao cadastrado
+Lote 18	Peixotoleiloes	www.peixotoleiloes.com.br - Ok - Links precisam ser tratados
+Lote 18	Projudleiloes	www.projudleiloes.com.br - Erro site nao cadastrado
+Lote 18	Pupioleiloes	www.pupioleiloes.com - Site não possui leilão
+Lote 18	Rfleiloes	www.rfleiloes.com.br - Erro site nao cadastrado
+Lote 18	Rmgouvealeiloes	www.rmgouvealeiloes.com.br - Erro site nao cadastrado
 
 ------Lote 19 - Marcos------
-Lote 19	Sagresleiloes	www.sagresleiloes.com.br
-Lote 19	Salgadoleiloes	www.salgadoleiloes.com.br
-Lote 19	Sanchesleiloes	www.sanchesleiloes.com.br
-Lote 19	Siteleiloes	www.siteleiloes.com.br
-Lote 19	Superdiasleiloes	www.superdiasleiloes.com.br
+Lote 19	Sagresleiloes	www.sagresleiloes.com.br - Erro site nao cadastrado
+Lote 19	Salgadoleiloes	www.salgadoleiloes.com.br - Site não possui leilão
+Lote 19	Sanchesleiloes	www.sanchesleiloes.com.br - Ok - Links precisam ser tratados
+Lote 19	Siteleiloes	www.siteleiloes.com.br - Ok - Links precisam ser tratados
+Lote 19	Superdiasleiloes www.superdiasleiloes.com.br
 Lote 19	Tableau	www.tableau.com.br
 Lote 19	Tahaleiloes	www.tahaleiloes.com.br
 Lote 19	Troof	www.troof.com.br
