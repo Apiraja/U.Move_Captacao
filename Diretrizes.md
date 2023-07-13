@@ -7,7 +7,7 @@
 
 ### Paginação
 
-![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/6b1df233-897e-41eb-a0ab-4dc8112bfce8)
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/0d83d047-ed12-4f94-942d-2feda304f407)
 
 ### Leilão x Lote
 
@@ -22,7 +22,7 @@ Iremos inserir a informação no campo de leilão da seguinte maneira:
 
 https://agostinholeiloes.com.br/leilao/{slug}/lotes
 
-![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/af7d8c78-fcd4-4422-aff1-5850973f96eb)
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/09bc9ee9-9e37-4a03-b3a8-6781bd6a47c6)
 
 ### Lotes
 
@@ -34,7 +34,7 @@ Iremos inserir a informação no campo de leilão da seguinte maneira:
 
 https://agostinholeiloes.com.br/item/{slug}/detalhes?page=1
 
-![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/f0df703b-918a-4546-96fe-2c74f08a01c0)
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d99dde08-640f-467f-83ba-efe9f3760124)
 
 ### Outros Exemplos
 
