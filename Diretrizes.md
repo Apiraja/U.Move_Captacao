@@ -61,6 +61,7 @@ URL Leilão: https://www.hastavip.com.br/leilao/{slug}
 URL Lote: https://www.hastavip.com.br/lote/{slug}
 
 Interessante procurar leilão com 2 lotes
+
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/5a683114-fd12-458b-a4b6-e67049cb3a13)
 
 ### Próximos Exemplos
