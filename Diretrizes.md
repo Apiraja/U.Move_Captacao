@@ -1,4 +1,5 @@
 # Diretrizes
+Pirmeira diretriz: Ler do Final para o Começo
 
 # 13/07
 ## Leiloeiros com erro de carregamento e visualização
@@ -7,6 +8,23 @@ Vamos dar andamento nos seletores de leiloeiros com problema de visualização p
 Preenchimento no controle:
 
 Parâmetros - ok, Paginação - ok, Carregamento - Erro (especificar o erro, como vêm fazendo, ou colocar o ok se der certo)
+
+## Botão testar
+
+Ao clicar no botão testar, o "crawler" irá rodar e capturar todos os links conforme indicado na paginação. Será identificado o que é lote, o que é leilão.
+
+Ele mostra disponibiliza no final 5 páginas cadastradas.
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/967469e1-e3e6-4a70-8627-e4421ad75615)
+
+Ao clicar será exibida a página em nosso servidor
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/e0cda1ec-8850-4c10-a746-c8b8db93bc17)
+
+Na planilha disponível no fim da página em download, podemos ver alguns links e o resultado da busca dos seletores.
+
+Colocar a informação de paginação ok no controle, quando o resultado do botão testar for correto.
+
 
 ## Cadastro de páginas
 
