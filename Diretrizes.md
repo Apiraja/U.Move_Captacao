@@ -23,6 +23,8 @@ Ao clicar neles será exibida a página em nosso servidor. (não precisa ficar t
 
 Na planilha disponível no fim da página em download, podemos ver alguns links e o resultado da busca dos seletores. (Esse é legal ver)
 
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/a4efa3b4-38c6-4e34-85e1-0007cda86627)
+
 Colocar a informação de paginação ok no controle, quando o resultado do botão testar for correto.
 
 Usar só com o cadastro de página concluído conforme item abaixo.
