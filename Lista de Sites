@@ -230,8 +230,8 @@ Lote 15	Jbiglesias	www.jbiglesias.com.br - Sem Lotes
 Lote 15	Jmesquitaleiloes	www.jmesquitaleiloes.com.br - Sem Lotes
 Lote 15	Jonas	www.jonas.lel.br - Sem Lotes
 Lote 15	Jorgemolgado	www.jorgemolgado.com.br - ok
-Lote 15	Jpjoiasepedrasleiloes	www.jpjoiasepedrasleiloes.com.br
-Lote 15	Lancenow	www.lancenow.com.br
+Lote 15	Jpjoiasepedrasleiloes	www.jpjoiasepedrasleiloes.com.br - Sem Lotes
+Lote 15	Lancenow	www.lancenow.com.br - Ok
 
 ------Lote 16 - Matheus------
 Lote 16	Lancetotal	www.lancetotal.com.br - Erro - Internal Server Error
@@ -330,28 +330,30 @@ Lote 23	Newtonleiloes	www.newtonleiloes.com.br
 Lote 23	Pbcastro	www.pbcastro.com.br
 
 ------Lote 24 - Lucas------
-Lote 24	Rubenshcastro	www.rubenshcastro.com.br
-Lote 24	Santosmoraesleiloes	www.santosmoraesleiloes.com.br
-Lote 24	Vardanaleiloes	www.vardanaleiloes.com.br
-Lote 24	Zemarchiottoleiloes	www.zemarchiottoleiloes.com.br
-Lote 24	Acleiloes	www.acleiloes.com.br
-Lote 24	Donhaleiloes	www.donhaleiloes.com
-Lote 24	Marangoni	https://marangoni.canaljudicial.com.br/
-Lote 24	Odarlicanezinleiloes	https://odarlicanezinleiloes.com.br/
-Lote 24	Cordeiroleiloes	www.cordeiroleiloes.com.br
-Lote 24	Drrleiloes	www.drrleiloes.com.br
+Lote 24	Rubenshcastro	www.rubenshcastro.com.br - Sem Lotes
+Lote 24	Santosmoraesleiloes	www.santosmoraesleiloes.com.br - Ok
+Lote 24	Vardanaleiloes	www.vardanaleiloes.com.br - Erro - Ajax em branco
+Lote 24	Zemarchiottoleiloes	www.zemarchiottoleiloes.com.br - Erro - Domínio não encontrado
+Lote 24	Acleiloes	www.acleiloes.com.br - Preenchido - Poucas informações do Lote na página, variáveis funcionam em algumas páginas e não em outras
+Lote 24	Donhaleiloes	www.donhaleiloes.com - Sem Lotes
+Lote 24	Marangoni	https://marangoni.canaljudicial.com.br/ - Sem Lotes
+Lote 24	Odarlicanezinleiloes	https://odarlicanezinleiloes.com.br/ - Preenchido - Poucas informações do Lote na página
+Lote 24	Cordeiroleiloes	www.cordeiroleiloes.com.br - Erro - Não é possível aceder a este site
+Lote 24	Drrleiloes	www.drrleiloes.com.br - Erro - Não é possível aceder a este site
 
-------Lote 25/26 - Lucas------
-Lote 25	Machadoleiloes	https://machadoleiloes.com.br/
-Lote 25	Alanleiloeiro	www.alanleiloeiro.com.br
-Lote 25	Izabellaferreiraleiloes	https://izabellaferreiraleiloes.com.br/index.php
-Lote 25	Marcoscostaleiloeiro	https://marcoscostaleiloeiro.com.br/
-Lote 25	Mauriciokronemberg	https://mauriciokronemberg.com.br/index.php#
-Lote 25	Ricardoperrirazleiloes	https://www.ricardoperrirazleiloes.com.br/
-Lote 25	Schulmannleiloes	https://schulmannleiloes.com.br/leilao/
+------Lote 25 - Lucas------
+Lote 25	Machadoleiloes	https://machadoleiloes.com.br/ - Ok
+Lote 25	Alanleiloeiro	www.alanleiloeiro.com.br - Sem Lotes
+Lote 25	Izabellaferreiraleiloes	https://izabellaferreiraleiloes.com.br/index.php - Erro - Não é possível aceder a este site
+Lote 25	Marcoscostaleiloeiro	https://marcoscostaleiloeiro.com.br/ - Preenchido - Alguns comandos funcionam no console do navegador, mas não funcionam no painel
+Lote 25	Mauriciokronemberg	https://mauriciokronemberg.com.br/index.php# - Erro - Popup
+Lote 25	Ricardoperrirazleiloes	https://www.ricardoperrirazleiloes.com.br/ - Erro - SISTEMA INDISPONÍVEL NO MOMENTO
+Lote 25	Schulmannleiloes	https://schulmannleiloes.com.br/leilao/ - Ok
 Lote 25	alexandrecostaleiloes	https://ssl1.visar.com.br/alexandrecostaleiloes.com.br/Principal.asp
 Lote 25	gpleilao	https://ssl1.visar.com.br/gpleilao.com.br/Principal.asp
 Lote 25	leiloeirasilvani	https://ssl1.visar.com.br/leiloeirasilvani.com.br/Principal.asp
+
+------Lote 26 - Lucas------
 Lote 26	leiloeirolegentil	https://ssl1.visar.com.br/leiloeirolegentil.com.br/Principal.asp
 Lote 26	octaviovianna	https://ssl1.visar.com.br/octaviovianna.lel.br/Principal.asp
 Lote 26	ricardocorrealeiloes	https://ssl1.visar.com.br/ricardocorrealeiloes.com.br/Principal.asp
