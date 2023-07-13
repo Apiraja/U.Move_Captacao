@@ -17,14 +17,15 @@ Ele mostra disponibiliza no final 5 páginas cadastradas.
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/967469e1-e3e6-4a70-8627-e4421ad75615)
 
-Ao clicar será exibida a página em nosso servidor
+Ao clicar neles será exibida a página em nosso servidor. (não precisa ficar testando)
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/e0cda1ec-8850-4c10-a746-c8b8db93bc17)
 
-Na planilha disponível no fim da página em download, podemos ver alguns links e o resultado da busca dos seletores.
+Na planilha disponível no fim da página em download, podemos ver alguns links e o resultado da busca dos seletores. (Esse é legal ver)
 
 Colocar a informação de paginação ok no controle, quando o resultado do botão testar for correto.
 
+Usar só com o cadastro de página concluído conforme item abaixo.
 
 ## Cadastro de páginas
 
