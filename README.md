@@ -1,1 +1,0 @@
-# U.Move_Capta-o
