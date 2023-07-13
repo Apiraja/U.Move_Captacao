@@ -4,7 +4,9 @@
 ## Leiloeiros com erro de carregamento e visualização
 Vamos dar andamento nos seletores de leiloeiros com problema de visualização pegando os seletores pelo console mesmo
 
-Ai coloquem seletores OK - Páginas Ok - Erro Visualização
+Preenchimento no controle:
+
+Parâmetros - ok, Paginação - ok, Carregamento - Erro (especificar o erro, como vêm fazendo, ou colocar o ok se der certo)
 
 ## Cadastro de páginas
 
