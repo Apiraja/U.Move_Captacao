@@ -1,6 +1,9 @@
 # Diretrizes
 
 # 13/07
+## Leiloeiros com erro de carregamento e visualização
+Vamos dar andamento nos seletores de leiloeiros com problema de visualização pegando os seletores pelo console mesmo.
+
 ## Cadastro de páginas
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d50f7bf5-fa7e-412d-a55f-28c422db65a9)
