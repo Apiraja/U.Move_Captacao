@@ -272,14 +272,14 @@ Lote 18	Rmgouvealeiloes	www.rmgouvealeiloes.com.br - Erro site nao cadastrado
 ------Lote 19 - Marcos------
 Lote 19	Sagresleiloes	www.sagresleiloes.com.br - Erro site nao cadastrado
 Lote 19	Salgadoleiloes	www.salgadoleiloes.com.br - Site não possui leilão
-Lote 19	Sanchesleiloes	www.sanchesleiloes.com.br - Ok - Links precisam ser tratados
-Lote 19	Siteleiloes	www.siteleiloes.com.br - Ok - Links precisam ser tratados
-Lote 19	Superdiasleiloes www.superdiasleiloes.com.br
-Lote 19	Tableau	www.tableau.com.br
-Lote 19	Tahaleiloes	www.tahaleiloes.com.br
-Lote 19	Troof	www.troof.com.br
-Lote 19	Unileiloes	www.unileiloes.com.br
-Lote 19	Uonleiloes	www.uonleiloes.com.br
+Lote 19	Sanchesleiloes	www.sanchesleiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
+Lote 19	Siteleiloes	www.siteleiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
+Lote 19	Superdiasleiloes www.superdiasleiloes.com.br - Erro site nao cadastrado
+Lote 19	Tableau	www.tableau.com.br - Erro site nao cadastrado
+Lote 19	Tahaleiloes	www.tahaleiloes.com.br - Parâmetros - Pendente - Sem documentos/endereço , Paginação - Ok, Carregamento - Ok
+Lote 19	Troof	www.troof.com.br - Site fora do ar
+Lote 19	Unileiloes	www.unileiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
+Lote 19	Uonleiloes	www.uonleiloes.com.br - Site fora do ar
 
 ------Lote 20 - Josh------
 Lote 20	Venturelileiloes	www.venturelileiloes.com.br - Sem lotes de imoveis
@@ -390,25 +390,25 @@ Lote 28	Jvleiloes	www.jvleiloes.lel.br
 Lote 28	Lagemmeleiloes	www.lagemmeleiloes.com.br
 
 ------Lote 29 - Marcos------
-Lote 29	Levyleiloeiro	www.levyleiloeiro.com.br
-Lote 29	Lilileiloeira	www.lilileiloeira.com.br
-Lote 29	Luizsergiopereira	www.luizsergiopereira.lel.br
-Lote 29	Marciopinho	www.marciopinho.com.br
-Lote 29	Marthapadilhaleiloes	www.marthapadilhaleiloes.com
-Lote 29	Meloleiloeiro	www.meloleiloeiro.com.br
-Lote 29	Michelangeloleiloes	www.michelangeloleiloes.com.br
-Lote 29	Murilochaves	www.murilochaves.com.br
-Lote 29	Nelsonleiloeiro	www.nelsonleiloeiro.com.br
-Lote 29	Pedroalmeidaleiloeiro	www.pedroalmeidaleiloeiro.rio.br
+Lote 29	Levyleiloeiro	www.levyleiloeiro.com.br - Erro site nao cadastrado
+Lote 29	Lilileiloeira	www.lilileiloeira.com.br - Erro site nao cadastrado
+Lote 29	Luizsergiopereira	www.luizsergiopereira.lel.br - Erro site nao cadastrado
+Lote 29	Marciopinho	www.marciopinho.com.br - Erro site nao cadastrado
+Lote 29	Marthapadilhaleiloes	www.marthapadilhaleiloes.com - Erro site nao cadastrado
+Lote 29	Meloleiloeiro	www.meloleiloeiro.com.br - Erro site nao cadastrado
+Lote 29	Michelangeloleiloes	www.michelangeloleiloes.com.br - Erro site nao cadastrado
+Lote 29	Murilochaves	www.murilochaves.com.br - Erro - Seletores não funcionam
+Lote 29	Nelsonleiloeiro	www.nelsonleiloeiro.com.br  - Erro site nao cadastrado
+Lote 29	Pedroalmeidaleiloeiro	www.pedroalmeidaleiloeiro.rio.br - Parâmetros - Pendente - Sem endereço, , Paginação - Ok, Carregamento - Ok
 
 ------Lote 30 - Marcos------
-Lote 30	Pedrosilvaleiloeiro	www.pedrosilvaleiloeiro.com.br
-Lote 30	Raulbarbosa	www.raulbarbosa.lel.br
-Lote 30	Robertohaddad	www.robertohaddad.com.br
-Lote 30	Rodrigocostaleiloeiro	www.rodrigocostaleiloeiro.com.br
-Lote 30	Rogeriomenezes	www.rogeriomenezes.com.br
-Lote 30	Rtleiloes	www.rtleiloes.com.br
-Lote 30	Rymerleiloes	www.rymerleiloes.com.br
+Lote 30	Pedrosilvaleiloeiro	www.pedrosilvaleiloeiro.com.br - Erro site nao cadastrado
+Lote 30	Raulbarbosa	www.raulbarbosa.lel.br - Erro site nao cadastrado
+Lote 30	Robertohaddad	www.robertohaddad.com.br - Erro site nao cadastrado
+Lote 30	Rodrigocostaleiloeiro	www.rodrigocostaleiloeiro.com.br - Parâmetros - Ok , Paginação - Ok, Carregamento - Ok
+Lote 30	Rogeriomenezes	www.rogeriomenezes.com.br - Parâmetros - Ok , Paginação - Ok, Carregamento - Ok
+Lote 30	Rtleiloes	www.rtleiloes.com.br - Erro site nao cadastrado
+Lote 30	Rymerleiloes	www.rymerleiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
 Lote 30	Sergiorepresasleiloes	www.sergiorepresasleiloes.com.br
 Lote 30	Sevidanesleiloeira	www.sevidanesleiloeira.com.br
 Lote 30	Tassianamenezes	www.tassianamenezes.com.br
