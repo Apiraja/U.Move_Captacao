@@ -39,31 +39,26 @@ https://agostinholeiloes.com.br/item/{slug}/detalhes?page=1
 ### Outros Exemplos
 
 ### https://www.deonizialeiloes.com.br
-
 #### URL Inicial: https://www.deonizialeiloes.com.br
 
-https://www.deonizialeiloes.com.br/externo/
+#### Onde estão os lotes: https://www.deonizialeiloes.com.br/externo/
+URL Paginação: https://www.deonizialeiloes.com.br/externo/
 
-#### URL Paginação: https://www.deonizialeiloes.com.br/externo/
+#### Como se chamam os leilões: https://www.deonizialeiloes.com.br/externo/lotes/39856
+URL Leilão: https://www.deonizialeiloes.com.br/externo/lotes/{slug}
 
-https://www.deonizialeiloes.com.br/externo/lotes/39856
-
-#### URL Leilão: https://www.deonizialeiloes.com.br/externo/lotes/{slug}
-
-https://www.deonizialeiloes.com.br/externo/lote/detalhes/2541212
-
-#### URL Lote: https://www.deonizialeiloes.com.br/externo/lote/detalhes/{slug}
+#### Como se chamam os lotes: https://www.deonizialeiloes.com.br/externo/lote/detalhes/2541212
+URL Lote: https://www.deonizialeiloes.com.br/externo/lote/detalhes/{slug}
 
 ### https://www.hastavip.com.br/
 #### URL Inicial: https://www.hastavip.com.br/
-
 #### URL Paginação: https://www.hastavip.com.br/pesquisa?
 
-https://www.hastavip.com.br/leilao/3207-190720-00
-#### URL Leilão: https://www.hastavip.com.br/leilao/{slug}
+#### Como se chamam os leilões: https://www.hastavip.com.br/leilao/3207-190720-00
+URL Leilão: https://www.hastavip.com.br/leilao/{slug}
 
-https://www.hastavip.com.br/lote/imovel-lotes-capivari-campos-do-jordao-sao-paulo-608952
-#### URL Lote: https://www.hastavip.com.br/lote/{slug}
+#### Como se chamam os lotes: https://www.hastavip.com.br/lote/imovel-lotes-capivari-campos-do-jordao-sao-paulo-608952
+URL Lote: https://www.hastavip.com.br/lote/{slug}
 
 Interessante procurar leilão com 2 lotes
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/5a683114-fd12-458b-a4b6-e67049cb3a13)
