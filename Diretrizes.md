@@ -13,6 +13,8 @@ Quando o leiloeiro não possuir lotes, ou lotes alheios (gado, livros..), vamos 
 
 Seja apenas o título, ou o título, da e preço... por que se algum desses leiloeiros oficiais um dia tiver um imóvel teremos essa informação.
 
+*Não precisa fazer o que já passou, vamos adotar essa premissa daqui para frente.
+
 # 13/07
 ## Leiloeiros com erro de carregamento e visualização
 Vamos dar andamento nos seletores de leiloeiros com problema de visualização pegando os seletores pelo console mesmo
