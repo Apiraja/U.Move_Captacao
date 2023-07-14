@@ -2,13 +2,22 @@
 Pirmeira diretriz: Ler do Final para o Começo
 
 # 14/07
-## Atualizada diretriz de paginação:
 
+## Captura de informação de endereço a partir do iframe do maps.
+Quando não tiver a informação de endereço (Lembrando que endereço deve conter além da rua o município pelo menos), podemos capturar a informação através do iframe do google maps.
+
+Sempre que necessário usar este método, capturar o link do maps, depois trataremos ele no backend para extrair o endereço.
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/f63d2e97-533b-415a-88cc-7dd0fbfd1881)
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/a7409706-b020-4f35-b5f5-392e06b88bf7)
+
+
+## Atualizada diretriz de paginação:
 Devemos preencher o campo de paginação da seguinte maneira, com {pagina} substituindo o número da página. Anteriormente havia falado para colocar {n}
 #### Paginação: https://agostinholeiloes.com.br/lotes/imovel?tipo=imovel&page={pagina}
 
 ## Atualizada diretriz de leileiro com conteúdo diverso:
-
 Quando o leiloeiro não possuir lotes, ou lotes alheios (gado, livros..), vamos cadastrar o que tiver de informação.
 
 Seja apenas o título, ou o título, da e preço... por que se algum desses leiloeiros oficiais um dia tiver um imóvel teremos essa informação.
