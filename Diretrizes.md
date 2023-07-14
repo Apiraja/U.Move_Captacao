@@ -43,7 +43,8 @@ Usar só com o cadastro de página concluído conforme item abaixo.
 
 ## Cadastro de páginas
 
-![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d50f7bf5-fa7e-412d-a55f-28c422db65a9)
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/ee680ddc-db02-470a-8b67-7323ad1d604b)
+
 
 ### Paginação
 
