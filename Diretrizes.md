@@ -1,6 +1,18 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
 
+# 14/07
+## Atualizada diretriz de paginação:
+
+Devemos preencher o campo de paginação da seguinte maneira, com {pagina} substituindo o número da página. Anteriormente havia falado para colocar {n}
+#### Paginação: https://agostinholeiloes.com.br/lotes/imovel?tipo=imovel&page={pagina}
+
+## Atualizada diretriz de leileiro com conteúdo diverso:
+
+Quando o leiloeiro não possuir lotes, ou lotes alheios (gado, livros..), vamos cadastrar o que tiver de informação.
+
+Seja apenas o título, ou o título, da e preço... por que se algum desses leiloeiros oficiais um dia tiver um imóvel teremos essa informação.
+
 # 13/07
 ## Leiloeiros com erro de carregamento e visualização
 Vamos dar andamento nos seletores de leiloeiros com problema de visualização pegando os seletores pelo console mesmo
@@ -35,7 +47,17 @@ Usar só com o cadastro de página concluído conforme item abaixo.
 
 ### Paginação
 
-![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/0d83d047-ed12-4f94-942d-2feda304f407)
+As páginas onde estão os lotes tem a seguinte nomeclatura:
+
+https://agostinholeiloes.com.br/lotes/imovel?tipo=imovel&page=1
+
+https://agostinholeiloes.com.br/lotes/imovel?tipo=imovel&page=2
+
+https://agostinholeiloes.com.br/lotes/imovel?tipo=imovel&page=3
+
+Devemos preencher o campo de paginação da seguinte maneira, com {pagina} substituindo o número da página. 
+
+#### Paginação: https://agostinholeiloes.com.br/lotes/imovel?tipo=imovel&page={pagina}
 
 ### Leilão x Lote
 
@@ -113,10 +135,10 @@ Ai podem inserir apenas no controle "- Erro site não cadastrado", assim perdemo
 # 11/07
 
 ## Nomeclatura de leiloeiros aleatórios
-Quando o leiloeiro não possuir lotes, ou lotes alheios (gado, livros..): Z_SL_Nome_do Leiloeiro, ou apenas inserir no controle.
+<s> Quando o leiloeiro não possuir lotes, ou lotes alheios (gado, livros..): Z_SL_Nome_do Leiloeiro, ou apenas inserir no controle.
 Carros e eletronicos, vamos cadastrar.
 Se tiver dúvidas, pergunte
-
+<\s>
 # 10/07
 
 ## Nunca utilizar data de abertura, sempre encerramento
