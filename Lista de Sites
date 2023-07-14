@@ -1,744 +1,807 @@
-------Anterior------
-Zuk - Ok
-Biasi - Ok
-Brame - Ok
-Agostinho - Ok
-argonetworkleiloes.com.br - Erro - Ajax em Branco
-webleiloes.com.br - Errp Cloudflare
-d1lance.com.br - Erro - Cloudflare
-destakleiloes.com.br - Erro - Cloudflare
-AMLeiloeiro.com.br - Erro - Cloudflare
-agsleiloes.com.br - Erro - Cloudflare
-leilaooficialonline.com.br - Erro - Cloudflare
-oaleiloes.com.br - Erro - Ajax
-gaialeiloes.com.br - Erro - Ajax
-franklinleiloes.com - Erro - Cloudflare
-felipefrazao.com.br - Erro - Internal server error
-
-------Lote 0 - Josh------
-www.leilaovip.com.br	Leilaovip - OK
-https://leiloariasmart.com.br/imovel/130	leiloariasmart - OK
-https://mercado.bomvalor.com.br/judicial/	Mercado.Bomvalor - Erro - Ajax em Branco
-www.superbid.net	Superbid - Erro - Internal server error
-www.alfaleiloes.com	Alfaleiloes - OK
-www.megaleiloes.com.br	Megaleiloes - Erro - Internal server error
-https://topoleiloes.com.br/	Topoleiloes - Erro - Ajax em Branco
-www.frazaoleiloes.com.br	Frazaoleiloes - OK
-www.jeleiloes.com.br	Jeleiloes - OK
-www.leilaobrasil.com.br		Leilaobrasil - OK
-www.lancejudicial.com.br 	Lancejudicial - OK
-https://resale.com.br/imovel/IDR176284	resale - Erro
-https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=10011955	Venda-Imoveis.Caixa Erro 403
-www.gpleiloes.com.br	Gpleiloes - Erro
-www.centralsuldeleiloes.com.br	Centralsuldeleiloes - Erro
-www.destakleiloes.com.br	Destakleiloes - CLOUDFLARE
-www.psnleiloes.com.br	Psnleiloes - Erro
-https://www.judhastas.com.br/externo/lote/24052/gleba-de-terras-22-526-86m-no	judhastas - OK
-https://www.fidalgoleiloes.com.br/lote.php?idLote=50657	Fidalgoleiloes - OK
-www.vivaleiloes.com.br	Vivaleiloes - Erro
-www.mgl.com.br	Mgl - CLOUFLARE
-www.cravoleiloes.com.br	Cravoleiloes - OK
-www.leje.com.br	Leje - Erro não carrega os dados
-https://oleiloes.com.br/ Oleiloes - Erro - Erro tela branca - seletores concluido - arrumar preço leilão único
-www.moraesleiloes.com.br Moraesleiloes - OK
-https://www.lut.com.br/lote/leilao/97662 Lut - Erro - Tela Branca - seletores concluido
-www.jikalleiloes.com.br	Jikalleiloes - OK
-https://www.sublimeleiloes.com.br/lote/sobrado-em-campinas/2322/ 	Sublimeleiloes - Erro Ajax 
-www.paulobotelholeiloeiro.com.br	Paulobotelholeiloeiro - OK 
-https://imoveis.bancointer.com.br/imovel/72910992776583fb04c6a9069945a3e7734ad963.html	Imoveis.Bancointer - OK
-https://vegasleiloes.com.br/item/4976/detalhes?page=1	vegasleiloes - OK
-www.sfrazao.com.br	Sfrazao - OK
-www.drleiloes.com.br	Drleiloes - OK
-www.leiloesjudiciaisrs.com.br	Leiloesjudiciaisrs - OK
-https://spencerleiloes.com.br/	Spencerleiloes - OK
-www.gilsonleiloes.com.br	Gilsonleiloes - OK
-
-------Lote 1 - Marcos------
-01	Casareisleiloes	www.casareisleiloes.com.br - Cloudflare		
-LOTE 01	Multipliqueleiloes	www.multipliqueleiloes.com.br - Cloudflare
-LOTE 01	Saraivaleiloes	www.saraivaleiloes.com.br Ok - pendente - Sem Endereço
-LOTE 01	Legisleiloes	www.legisleiloes.com.br Cloudflare - 
-LOTE 01	Picellileiloes	www.picellileiloes.com.br - Ok - Links precisam ser tratados -
-LOTE 01	Satoleiloes	www.satoleiloes.com.br - Ajax em branco
-LOTE 01	Satoleiloes	https://satoleiloes.com.br/externo/ - Ajax em branco
-LOTE 01	Leilaooficialonline	https://www.leilaooficialonline.com.br/ - Cloudflare
-LOTE 01	Freitasleiloeiro	www.freitasleiloeiro.com.br - Erro - Alguns comandados funcionam no console do navegador, mas não funcionam no painel
-LOTE 01	Vendasjudiciais	https://www.vendasjudiciais.com.br/ - Erro - Alguns comandados funcionam no console do navegador, mas não funcionam no painel
-
-------Lote 2 - Breno------
-LOTE 02	Hastavip	www.hastavip.com.br - OK
-LOTE 02	Iniciativabr	www.iniciativabr.com - OK
-LOTE 02	Sodresantoro	www.sodresantoro.com.br - OK
-LOTE 02	Teza	www.teza.com.br - OK
-LOTE 02	Delanoleiloes	https://www.delanoleiloes.com.br/externo/lote/23485/terrenos-em-santa-rosa-de - Pendente - Apenas o documento não é retirado, e o código e suas variações funcionam no console
-LOTE 02	Pecinileiloes	www.pecinileiloes.com.br - Erro - CloudFlare
-LOTE 02	Comprei.Pgfn	https://comprei.pgfn.gov.br/anuncio/detalhe/1654 - Erro - Ajax em branco
-LOTE 02	Fabioleiloes	www.fabioleiloes.com.br - Ok
-LOTE 02	Rmcleiloes	www.rmcleiloes.com.br - Ok - pendente - sem endereço e documento
-LOTE 02	Lancenoleilao	www.lancenoleilao.com.br - Erro - CloudFlare
-
-------Lote 3 - Lucas------
-LOTE 03	Calilleiloes	www.calilleiloes.com.br - Erro - Ajax em Branco
-LOTE 03	Fvleiloes	https://www.fvleiloes.com.br/lotes/657-03-casa-area-total-1-960m-santo-amaro - Ok
-LOTE 03	Krobelleiloes	https://www.krobelleiloes.com.br/pregao/62314d22de807a0c2a4f5eaf/62314de29c91420b77754394 - Erro - Ajax em Branco
-LOTE 03	Mirandacarvalholeiloes	www.mirandacarvalholeiloes.com.br - Ok
-LOTE 03	Saleiloes	www.saleiloes.com.br - Erro - Popup
-LOTE 03	Startupleiloes	www.startupleiloes.com.br - Ok - pendente - Sem Endereço
-LOTE 03	Arremax	https://www.arremax.com.br/lote/area-de-628572-m/1038/ - Erro - - Cloudflare
-LOTE 03	Centraljudicial	www.centraljudicial.com.br - Erro - Alguns comandos funcionam no console do navegador, mas não funcionam no painel
-LOTE 03	Leiloes	www.leiloes.com.br - Erro - Ajax em branco
-LOTE 03	Mazzollileiloes	https://www.mazzollileiloes.com.br/pregao/64404831a7d0d08893753302/64404876a7d0d08893753326 - Erro - Ajax em branco
-
-------Lote 4 - Josh------
-LOTE 04	Amaralleiloes	www.amaralleiloes.com.br - OK
-LOTE 04	Arenaleilao	www.arenaleilao.com.br - OK
-LOTE 04	Cidafixerleiloes	www.cidafixerleiloes.com.br - OK
-LOTE 04	Fabiobarbosaleiloes	www.fabiobarbosaleiloes.com.br - OK
-LOTE 04	Giordanoleiloes	www.giordanoleiloes.com.br - OK
-LOTE 04	Nakakogueleiloes	www.nakakogueleiloes.com.br - Erro - Não carrega dados
-LOTE 04	Rioleiloes	www.rioleiloes.com.br - OK
-LOTE 04	Douglasleiloeiro	www.douglasleiloeiro.com.br - Erro - Não carrega dados
-LOTE 04	Fabianoayuppleiloeiro	https://fabianoayuppleiloeiro.com.br/ - Site fora do ar
-LOTE 04	Fbleiloes	www.fbleiloes.com.br - Erro - Não carrega dados
-
-------Lote 5 - Marcos------
-LOTE 05 Fgleiloes https://www.fgleiloes.com.br/ - Erro - Site não abre
-LOTE 05 Grupoarremateleiloes www.grupoarremateleiloes.com.br - Cloudfare
-LOTE 05 Impactoleiloes https://www.impactoleiloes.com.br/ - Pendente - sem endereço - links precisam ser tratados -
-LOTE 05 Leiloesrei www.leiloesrei.com.br - Erro
-LOTE 05 Mauriciomarizleiloes https://www.mauriciomarizleiloes.com.br/ - Ok - links precisam ser tratados - 
-LOTE 05 tribunaleiloes https://www.tribunaleiloes.com.br/ - Ok -
-LOTE 05 123Leiloes www.123leiloes.com.br -  Ok - links precisam ser tratados -
-LOTE 05 Agleiloes www.agleiloes.com.br - Pendente - sem endereço - links precisam ser tratados -
-LOTE 05 Alleiloes https://alleiloes.com.br/ - Erro - em branco
-LOTE 05 Apiceleiloes https://apiceleiloes.com.br/ - Ok
-
-------Lote 6 - Breno------
-Lote 6	Aragaoleiloes	www.aragaoleiloes.com.br - Ok
-Lote 6	Baldisseraleiloeiros	www.baldisseraleiloeiros.com.br - Erro - Pagina não carrega os dados
-Lote 6	Bcoleiloes	www.bcoleiloes.com.br - Erro - CloudFlare
-Lote 6	Delttaleiloes	www.delttaleiloes.com.br - Erro - Erro - Pagina não carrega os dados
-Lote 6	Deonizialeiloes	www.deonizialeiloes.com.br - Ok
-Lote 6	Depaulaonline	www.depaulaonline.com.br - Erro - Site não entra
-Lote 6	Kronbergleiloes	www.kronbergleiloes.com.br - Pendente - resolver erros url sql
-Lote 6	Leiloeirasilvani	https://www.leiloeirasilvani.com.br/Leilao.asp?zz=20050858201532006090001 - Ok
-Lote 6	Leiloeiro.online	www.leiloeiro.online - Ok
-Lote 6	Mariaclariceleiloes	https://mariaclariceleiloes.com.br/ - OK
-
-------Lote 7 - Josh------
-Lote 7	Monzonleiloes	www.monzonleiloes.com.br - Não está puxando algumas informações
-Lote 7	Nacionalleiloes	www.nacionalleiloes.com.br - Site sem Leiloes cadastrado
-Lote 7	Nogarileiloes	www.nogarileiloes.com.br - OK
-Lote 7	Portellaleiloes	www.portellaleiloes.com.br - Site fora do ar
-Lote 7	Rossileiloes	www.rossileiloes.com.br - OK
-Lote 7	Selectleiloes	https://www.selectleiloes.com.br/leilao/detalhe_leilao/489#conteudo - Site fora do ar
-Lote 7	Silveiraleiloes	www.silveiraleiloes.com.br - OK
-Lote 7	Superlanceleilao	https://www.superlanceleilao.com.br - OK
-Lote 7	Vicenteleiloes	www.vicenteleiloes.com.br - OK
-Lote 7	Borbolaleiloes	http://borbolaleiloes.tempsite.ws/index - Erro - Site sem Leiloes cadastrado
-
-------Lote 8 - Marcos------
-Lote 8	Dutraleiloes	http://dutraleiloes.com.br/principal.htm - Erro - 403 forbidden
-Lote 8	Mfrancaleiloes	http://mfrancaleiloes.tempsite.ws/index - Ok 
-Lote 8	Suenagaleiloes	http://suenagaleiloes.com.br/ - Site não possui leilão
-Lote 8	Aloisiocravo	https://aloisiocravo.com.br/ - Erro - 403 forbidden
-Lote 8	Bankleiloes	https://bankleiloes.com.br/ - Site não abre
-Lote 8	Batistaleiloes	https://batistaleiloes.com.br/ - Erro - Ajax em branco
-Lote 8	Dbmleiloes	https://dbmleiloes.com.br/ - Erro - Ajax em branco
-Lote 8	Dedaloleiloes	https://www.dedaloleiloes.com.br/ - Erro - Ajax em branco 
-Lote 8	Jonasdellatonia	https://jonasdellatonia.com.br/ - Site não possui leilão
-Lote 8	Mundodoleilao	https://mundodoleilao.com.br/ - Site não possui leilão
-
-------Lote 9 - Marcos------
-Lote 9	Plazaleiloes	https://plazaleiloes.com.br/ - Ok 
-Lote 9	Sumareleiloes	https://sumareleiloes.com.br/ - Site fora do ar
-Lote 9	Venetoleiloes	https://venetoleiloes.com.br/ - Erro - Site em branco
-Lote 9	Mouraazevedoleiloes	www.mouraazevedoleiloes.lel.br - Site não possui leilão
-Lote 9	3Rleiloes	www.3rleiloes.net - Site não possui leilão
-Lote 9	Bastonleiloes	www.bastonleiloes.com.br - Ok
-Lote 9	Carloferrarileiloes	www.carloferrarileiloes.com.br - Ok - Links precisam ser tratados 
-Lote 9	Iarremate	www.iarremate.com - Erro - 403 forbidden
-Lote 9	Liderleiloes	www.liderleiloes.com.br - Pendente - Sem documentos - Sem nome/ultimo lance
-Lote 9	Melhorleiloes	www.melhorleiloes.com.br - Pendente - Sem endereço - Sem nome/ultimo lance 
-
-------Lote 10 - Josh------
-Lote 10	Moralesleiloes	www.moralesleiloes.com.br - Sem lotes de imoveis
-Lote 10	Raicherleiloes	www.raicherleiloes.com.br - Ajax em Branco
-Lote 10	Rigolonleiloes	www.rigolonleiloes.com.br - OK
-Lote 10	Savoyleiloes	www.savoyleiloes.com.br - Sem lotes de imoveis
-Lote 10	Sumareleiloes	www.sumareleiloes.com.br - OK
-Lote 10	Albertomacedoleiloes	www.albertomacedoleiloes.com.br - OK
-Lote 10	Alexandridisleiloes	www.alexandridisleiloes.com.br - OK
-Lote 10	Alienajud	www.alienajud.com.br - OK
-Lote 10	Altitcasadearteeleiloes	www.altitcasadearteeleiloes.com.br - Sem lotes de imoveis
-Lote 10	Ams10Leiloes	www.ams10leiloes.com.br - Site fora do ar
-
-------Lote 11 - Josh------
-Lote 11	Anaclaraleiloes	www.anaclaraleiloes.lel.br - Sem lotes de imoveis
-Lote 11	Andraleiloes	www.andraleiloes.com.br - Site fora do ar
-Lote 11	Arieldesouzaleiloes	www.arieldesouzaleiloes.com.br - Site fora do ar
-Lote 11	Arremateleilao	www.arremateleilao.com.br - OK
-Lote 11	Arteprintsleiloes	www.arteprintsleiloes.com.br - Sem lotes de imoveis
-Lote 11	Bidmax	www.bidmax.com.br - Sem lotes de imoveis
-Lote 11	Bnleiloes	www.bnleiloes.com.br - Sem lotes de imoveis
-Lote 11	Borgesleiloes	www.borgesleiloes.com.br - Sem lotes de imoveis
-Lote 11	Budanoleiloeiro	www.budanoleiloeiro.com.br - Sem lotes de imoveis
-Lote 11	Camargonet	www.camargonet.com - Sem lotes de imoveis
-
-------Lote 12 - Breno------
-Lote 12	Canaldosleiloes	www.canaldosleiloes.com.br - Erro - SL
-Lote 12	Casa8Leiloes	www.casa8leiloes.com.br - Erro - SL
-Lote 12	Casaamarelaleiloes	www.casaamarelaleiloes.net.br - Erro - SL
-Lote 12	Centrodeleiloes	www.centrodeleiloes.lel.br - Fora do Ar
-Lote 12	Chuileiloes	www.chuileiloes.com.br - Ajax em branco
-Lote 12	Cianacionalleiloes	www.cianacionalleiloes.com.br - Site fora do ar
-Lote 12	Crepaldileiloes	www.crepaldileiloes.com.br - Erro - Pagina em branco
-Lote 12	Crisleiloes	www.crisleiloes.com.br - CloudFlare
-Lote 12	Cunhaleiloeiro	www.cunhaleiloeiro.com.br - Erro - Pagina em branco
-Lote 12	Dalricalefficorsi	www.dalricalefficorsi.com.br - Fora do ar
-
-------Lote 13 - Breno------
-Lote 13	Dantasleiloes	www.dantasleiloes.com.br - Sem Lotes
-Lote 13	Darioleiloes	www.darioleiloes.com.br - Site sem leilão
-Lote 13	Desantileiloes	www.desantileiloes.com.br - OK
-Lote 13	Deseulance	www.deseulance.com - Erro - Não é possivel pegar os lotes
-Lote 13	Destroleiloes	www.destroleiloes.com.br - Sem lotes
-Lote 13	Dinizmartinsleiloes	www.dinizmartinsleiloes.com.br - Sem lotes
-Lote 13	Domingosleiloes	www.domingosleiloes.com.br - Sem lotes
-Lote 13	Dreisleiloes	www.dreisleiloes.com.br - Fora do ar
-Lote 13	E-Confianca	www.e-confianca.com.br - OK
-Lote 13	Euamoleilao	www.euamoleilao.com.br - Sem Leiloes
-
-------Lote 14 - Lucas------
-Lote 14	Fakianileiloes	www.fakianileiloes.com.br - Sem Lotes
-Lote 14	Familiarosaleiloes	www.familiarosaleiloes.com.br - Sem Lotes
-Lote 14	Faroonline	www.faroonline.com.br - Ok
-Lote 14	Flaviacardososoaresleiloes	www.flaviacardososoaresleiloes.com.br - Sem Lotes
-Lote 14	Ganikoleiloes	www.ganikoleiloes.com.br - Sem Lotes
-Lote 14	Glleiloes	www.glleiloes.com.br - Preenchido/não roda outros links
-Lote 14	Gmleiloes	www.gmleiloes.com.br - Sem Lotes
-Lote 14	Gondololeiloes	www.gondololeiloes.lel.br - Sem Lotes
-Lote 14	Gpaleiloes	www.gpaleiloes.com.br - Sem Lotes
-Lote 14	Gualeiloes	www.gualeiloes.com.br - Não foi possível encontrar o endereço IP do servidor
-
-------Lote 15 - Lucas------
-Lote 15	Guariglialeiloes	www.guariglialeiloes.com.br - Ok
-Lote 15	Guiadearte	www.guiadearte.com.br - Sem Lotes
-Lote 15	Hamouileiloes	www.hamouileiloes.com.br - Erro - Ajax em branco
-Lote 15	Hirasawaleiloes	www.hirasawaleiloes.com.br - Erro - Ajax em branco
-Lote 15	Jbiglesias	www.jbiglesias.com.br - Sem Lotes
-Lote 15	Jmesquitaleiloes	www.jmesquitaleiloes.com.br - Sem Lotes
-Lote 15	Jonas	www.jonas.lel.br - Sem Lotes
-Lote 15	Jorgemolgado	www.jorgemolgado.com.br - ok
-Lote 15	Jpjoiasepedrasleiloes	www.jpjoiasepedrasleiloes.com.br - Sem Lotes
-Lote 15	Lancenow	www.lancenow.com.br - Ok
-
-------Lote 16 - Matheus------
-Lote 16	Lancetotal	www.lancetotal.com.br - Erro - Internal Server Error
-Lote 16	Leilaodearte	www.leilaodearte.com - Sem lotes
-Lote 16	Leilaoinvestment	www.leilaoinvestment.com.br - Ok
-Lote 16	Leilaoonline	www.leilaoonline.net - Ok
-Lote 16	Leiloaria	www.leiloaria.com.br - Erro - Não é possivel pegar os lotes
-Lote 16	Leiloei	www.leiloei.com - Erro - Ajax em branco
-Lote 16	Leiloeirosp	www.leiloeirosp.com.br  - Erro - Página não carrega
-Lote 16	Leiloesalbino	www.leiloesalbino.com.br - Erro - Seletores não funcionam
-Lote 16	Leiloesburiham	www.leiloesburiham.com.br - Sem Lotes
-Lote 16	Leiloesdasartes	www.leiloesdasartes.com.br - Sem Lotes
-
-------Lote 17 - Matheus------
-Lote 17	Leiloesmager	www.leiloesmager.com.br - Ok
-Lote 17	Lottileiloes	www.lottileiloes.com.br - Ok - Tratar links
-Lote 17	Ltjleiloes	www.ltjleiloes.com.br - Sem Lotes
-Lote 17	Maisleilao	www.maisleilao.com.br -OK
-Lote 17	Manrubialeiloes	www.manrubialeiloes.com.br - Erro - Ajax em Branco
-Lote 17	Mazinottoleiloes	www.mazinottoleiloes.com.br - Erro - Página não carrega
-Lote 17	Milanleiloes	www.milanleiloes.com.br
-Lote 17	Mouzarbastonleiloes	www.mouzarbastonleiloes.com.br
-Lote 17	Mrleiloes	www.mrleiloes.com.br
-Lote 17	Mzmleiloes	www.mzmleiloes.com.br
-
-------Lote 18 - Marcos------
-Lote 18	Niltonbrancalliao	www.niltonbrancalliao.com.br - Site fora do ar
-Lote 18	Nogueiraleiloes	www.nogueiraleiloes.com.br - Erro site nao cadastrado
-Lote 18	Olivirogerioleiloes www.olivirogerioleiloes.com.br - Pendente - Sem endereço
-Lote 18	Originarteleiloes	www.originarteleiloes.com.br - Erro site nao cadastrado
-Lote 18	Paquesleiloeiro	www.paquesleiloeiro.com.br - Erro site nao cadastrado
-Lote 18	Peixotoleiloes	www.peixotoleiloes.com.br - Ok - Links precisam ser tratados
-Lote 18	Projudleiloes	www.projudleiloes.com.br - Erro site nao cadastrado
-Lote 18	Pupioleiloes	www.pupioleiloes.com - Site não possui leilão
-Lote 18	Rfleiloes	www.rfleiloes.com.br - Erro site nao cadastrado
-Lote 18	Rmgouvealeiloes	www.rmgouvealeiloes.com.br - Erro site nao cadastrado
-
-------Lote 19 - Marcos------
-Lote 19	Sagresleiloes	www.sagresleiloes.com.br - Erro site nao cadastrado
-Lote 19	Salgadoleiloes	www.salgadoleiloes.com.br - Site não possui leilão
-Lote 19	Sanchesleiloes	www.sanchesleiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
-Lote 19	Siteleiloes	www.siteleiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
-Lote 19	Superdiasleiloes www.superdiasleiloes.com.br - Erro site nao cadastrado
-Lote 19	Tableau	www.tableau.com.br - Erro site nao cadastrado
-Lote 19	Tahaleiloes	www.tahaleiloes.com.br - Parâmetros - Pendente - Sem documentos/endereço , Paginação - Ok, Carregamento - Ok
-Lote 19	Troof	www.troof.com.br - Site fora do ar
-Lote 19	Unileiloes	www.unileiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
-Lote 19	Uonleiloes	www.uonleiloes.com.br - Site fora do ar
-
-------Lote 20 - Josh------
-Lote 20	Venturelileiloes	www.venturelileiloes.com.br - Sem lotes de imoveis
-Lote 20	Vieiraleiloes	www.vieiraleiloes.com.br - Sem lotes de imoveis
-Lote 20	Vonbrusky	www.vonbrusky.com.br - Sem lotes de imoveis
-Lote 20	Willianleiloes	www.willianleiloes.com.br - Não puxa dados pelo Ajax
-Lote 20	Wleiloes	www.wleiloes.com.br - OK
-Lote 20	Wmleiloes	www.wmleiloes.com.br - Sem lotes de imoveis
-Lote 20	Zaccarino	www.zaccarino.com.br - Sem lotes de imoveis
-Lote 20	Cristianoferreiraleiloes	https://cristianoferreiraleiloes.com.br/ - Site fora do ar
-Lote 20	Rafaelaferreiraleiloes	https://rafaelaferreiraleiloes.com.br/ - Site fora do ar
-Lote 20	Rochaleiloes	https://rochaleiloes.com.br/ - OK
-
-------Lote 21 - Breno------
-Lote 21	Dsleiloes	www.dsleiloes.com.br - Fora do ar 
-Lote 21	Marangonileiloes	www.marangonileiloes.com.br - Erro - Pagina em branco
-Lote 21	Vmleiloes	www.vmleiloes.com.br - Ok
-Lote 21	Rmmleiloes	www.rmmleiloes.com.br - Faltando informaçoes no site
-Lote 21	Andreluizleiloes	www.andreluizleiloes.com.br - Sem lotes
-Lote 21	Danieloliveiraleiloes	www.danieloliveiraleiloes.com.br  - OK
-Lote 21	Hoppeleiloes	www.hoppeleiloes.com.br - OK
-Lote 21	Jmfleiloes	www.jmfleiloes.com.br - Sem Leiloes
-Lote 21	Kleiloes	www.kleiloes.com.br
-Lote 21	Lbleiloes	www.lbleiloes.com.br
-
-------Lote 22 - Breno------
-Lote 22	Rgomesleiloes	www.rgomesleiloes.com.br - Fora do Ar
-Lote 22	Sfleiloes	www.sfleiloes.com.br - Leiloes desatualizados
-Lote 22	Simonleiloes	www.simonleiloes.com.br - Informaçoẽs importantes apenas disponibilizadas no edital pdf.
-Lote 22	Lancejusto	https://lancejusto.com.br/ - OK
-Lote 22	Marianalangleiloes	https://marianalangleiloes.com.br/ - Fora do Ar
-Lote 22	Rdleiloes	https://rdleiloes.com.br/  - OK
-Lote 22	Claudiokussleiloes	www.claudiokussleiloes.com.br - Sem Leiloes
-Lote 22	Dallagnolleiloes	www.dallagnolleiloes.com.br - Sem Leiloes
-Lote 22	Favaretoleiloes	www.favaretoleiloes.com.br - Sem Leiloes
-Lote 22	Gdleiloes	www.gdleiloes.com.br - Sem Leiloes
-
-------Lote 23 - Breno------
-Lote 23	Gomesleiloes	www.gomesleiloes.com.br - Ferramenta de Fazer site de Leilao 
-Lote 23	Kronberg	www.kronberg.lel.br - OK
-Lote 23	Leiloeiroqueiroz	www.leiloeiroqueiroz.com.br - Seletor não funciona
-Lote 23	Lelialenz	www.lelialenz.com.br
-Lote 23	Marcosleiloes	www.marcosleiloes.com.br
-Lote 23	Marcotulioleiloes	www.marcotulioleiloes.com.br
-Lote 23	Marquesleiloes	www.marquesleiloes.com.br
-Lote 23	Milanileiloes	www.milanileiloes.com.br
-Lote 23	Newtonleiloes	www.newtonleiloes.com.br
-Lote 23	Pbcastro	www.pbcastro.com.br
-
-------Lote 24 - Lucas------
-Lote 24	Rubenshcastro	www.rubenshcastro.com.br - Sem Lotes
-Lote 24	Santosmoraesleiloes	www.santosmoraesleiloes.com.br - Ok
-Lote 24	Vardanaleiloes	www.vardanaleiloes.com.br - Erro - Ajax em branco
-Lote 24	Zemarchiottoleiloes	www.zemarchiottoleiloes.com.br - Erro - Domínio não encontrado
-Lote 24	Acleiloes	www.acleiloes.com.br - Preenchido - Poucas informações do Lote na página, variáveis funcionam em algumas páginas e não em outras
-Lote 24	Donhaleiloes	www.donhaleiloes.com - Sem Lotes
-Lote 24	Marangoni	https://marangoni.canaljudicial.com.br/ - Sem Lotes
-Lote 24	Odarlicanezinleiloes	https://odarlicanezinleiloes.com.br/ - Preenchido - Poucas informações do Lote na página
-Lote 24	Cordeiroleiloes	www.cordeiroleiloes.com.br - Erro - Não é possível aceder a este site
-Lote 24	Drrleiloes	www.drrleiloes.com.br - Erro - Não é possível aceder a este site
-
-------Lote 25 - Lucas------
-Lote 25	Machadoleiloes	https://machadoleiloes.com.br/ - Ok
-Lote 25	Alanleiloeiro	www.alanleiloeiro.com.br - Sem Lotes
-Lote 25	Izabellaferreiraleiloes	https://izabellaferreiraleiloes.com.br/index.php - Erro - Não é possível aceder a este site
-Lote 25	Marcoscostaleiloeiro	https://marcoscostaleiloeiro.com.br/ - Preenchido - Alguns comandos funcionam no console do navegador, mas não funcionam no painel
-Lote 25	Mauriciokronemberg	https://mauriciokronemberg.com.br/index.php# - Erro - Popup
-Lote 25	Ricardoperrirazleiloes	https://www.ricardoperrirazleiloes.com.br/ - Erro - SISTEMA INDISPONÍVEL NO MOMENTO
-Lote 25	Schulmannleiloes	https://schulmannleiloes.com.br/leilao/ - Ok
-Lote 25	alexandrecostaleiloes	https://ssl1.visar.com.br/alexandrecostaleiloes.com.br/Principal.asp
-Lote 25	gpleilao	https://ssl1.visar.com.br/gpleilao.com.br/Principal.asp
-Lote 25	leiloeirasilvani	https://ssl1.visar.com.br/leiloeirasilvani.com.br/Principal.asp
-
-------Lote 26 - Lucas------
-Lote 26	leiloeirolegentil	https://ssl1.visar.com.br/leiloeirolegentil.com.br/Principal.asp
-Lote 26	octaviovianna	https://ssl1.visar.com.br/octaviovianna.lel.br/Principal.asp
-Lote 26	ricardocorrealeiloes	https://ssl1.visar.com.br/ricardocorrealeiloes.com.br/Principal.asp
-Lote 26	silasleiloeiro	https://ssl1.visar.com.br/silasleiloeiro.lel.br/Principal.asp
-Lote 26	Albertolopesleiloeiro	www.albertolopesleiloeiro.com.br
-Lote 26	Alvaroferreiraleiloeiro	www.alvaroferreiraleiloeiro.com.br
-Lote 26	Anamelloleiloeira	www.anamelloleiloeira.com.br
-Lote 26	Andreadiniz	www.andreadiniz.com.br
-Lote 26	Antonioferreira	www.antonioferreira.lel.br
-Lote 26	Bruceangeirasleiloeiro	www.bruceangeirasleiloeiro.com.br
-
-------Lote 27 - Josh------
-Lote 27	Camilaleiloes	www.camilaleiloes.com.br - Sem lotes de imoveis
-Lote 27	Carlostourinholeiloeiro	www.carlostourinholeiloeiro.com.br - Site fora do ar
-Lote 27	Carlucioleite	www.carlucioleite.com.br - Sem lotes de imoveis
-Lote 27	Castrolealleiloes	www.castrolealleiloes.com.br - Sem lotes de imoveis
-Lote 27	Conradoleiloeiro	www.conradoleiloeiro.com.br - Sem lotes de imoveis
-Lote 27	Danielbastosleiloeiro	www.danielbastosleiloeiro.com.br - Site fora do ar
-Lote 27	Drartesleiloes	www.drartesleiloes.com.br - Sem lotes de imoveis
-Lote 27	Dudagoesleiloes	www.dudagoesleiloes.com.br - Site fora do ar
-Lote 27	Duplaleiloes	www.duplaleiloes.com.br - Sem lotes de imoveis
-Lote 27	Edgarcarvalholeiloeiro	www.edgarcarvalholeiloeiro.com.br - OK
-
-------Lote 28 - Josh------
-Lote 28	Ernanileiloeiro	www.ernanileiloeiro.com.br - OK
-Lote 28	Facanhaleiloes	www.facanhaleiloes.com.br
-Lote 28	Fernandobraga	www.fernandobraga.lel.br
-Lote 28	Fredericoleiloes	www.fredericoleiloes.com.br
-Lote 28	Galeriaalphaville	www.galeriaalphaville.com.br
-Lote 28	Jfleiloeira	www.jfleiloeira.com.br
-Lote 28	Joaodefrancoleiloeiro	www.joaodefrancoleiloeiro.com.br
-Lote 28	Joaoemilio	www.joaoemilio.com.br
-Lote 28	Jvleiloes	www.jvleiloes.lel.br
-Lote 28	Lagemmeleiloes	www.lagemmeleiloes.com.br
-
-------Lote 29 - Marcos------
-Lote 29	Levyleiloeiro	www.levyleiloeiro.com.br - Erro site nao cadastrado
-Lote 29	Lilileiloeira	www.lilileiloeira.com.br - Erro site nao cadastrado
-Lote 29	Luizsergiopereira	www.luizsergiopereira.lel.br - Erro site nao cadastrado
-Lote 29	Marciopinho	www.marciopinho.com.br - Erro site nao cadastrado
-Lote 29	Marthapadilhaleiloes	www.marthapadilhaleiloes.com - Erro site nao cadastrado
-Lote 29	Meloleiloeiro	www.meloleiloeiro.com.br - Erro site nao cadastrado
-Lote 29	Michelangeloleiloes	www.michelangeloleiloes.com.br - Erro site nao cadastrado
-Lote 29	Murilochaves	www.murilochaves.com.br - Erro - Seletores não funcionam
-Lote 29	Nelsonleiloeiro	www.nelsonleiloeiro.com.br  - Erro site nao cadastrado
-Lote 29	Pedroalmeidaleiloeiro	www.pedroalmeidaleiloeiro.rio.br - Parâmetros - Pendente - Sem endereço, , Paginação - Ok, Carregamento - Ok
-
-------Lote 30 - Marcos------
-Lote 30	Pedrosilvaleiloeiro	www.pedrosilvaleiloeiro.com.br - Erro site nao cadastrado
-Lote 30	Raulbarbosa	www.raulbarbosa.lel.br - Erro site nao cadastrado
-Lote 30	Robertohaddad	www.robertohaddad.com.br - Erro site nao cadastrado
-Lote 30	Rodrigocostaleiloeiro	www.rodrigocostaleiloeiro.com.br - Parâmetros - Ok , Paginação - Ok, Carregamento - Ok
-Lote 30	Rogeriomenezes	www.rogeriomenezes.com.br - Parâmetros - Ok , Paginação - Ok, Carregamento - Ok
-Lote 30	Rtleiloes	www.rtleiloes.com.br - Erro site nao cadastrado
-Lote 30	Rymerleiloes	www.rymerleiloes.com.br - Parâmetros - Ok - Links precisam ser tratados , Paginação - Ok, Carregamento - Ok
-Lote 30	Sergiorepresasleiloes	www.sergiorepresasleiloes.com.br
-Lote 30	Sevidanesleiloeira	www.sevidanesleiloeira.com.br
-Lote 30	Tassianamenezes	www.tassianamenezes.com.br
-
-------Lote 31 - Breno------
-Lote 31	Tavaresleiloes	www.tavaresleiloes.com.br
-Lote 31	Thaisqueirozleiloeira	www.thaisqueirozleiloeira.com.br
-Lote 31	Valdirteixeiraleiloeiro	www.valdirteixeiraleiloeiro.com.br
-Lote 31	Valeriamilhenaleiloeira	www.valeriamilhenaleiloeira.com.br
-Lote 31	Valmirmatos	www.valmirmatos.lel.br
-Lote 31	Veratostesleiloes	www.veratostesleiloes.com.br
-Lote 31	Barretoleiloes	www.barretoleiloes.com.br
-Lote 31	Ericoleiloes	www.ericoleiloes.com.br
-Lote 31	Ericosobral	www.ericosobral.com.br
-Lote 31	Leiloesgoias	www.leiloesgoias.com.br
-
-------Lote 32 - Breno------
-Lote 32	Marcaleiloes	www.marcaleiloes.com.br
-Lote 32	Mikedutraleiloeiro	www.mikedutraleiloeiro.com.br
-Lote 32	Dearaujoleiloes	https://dearaujoleiloes.com.br/externo/
-Lote 32	Arrematabem	www.arrematabem.com.br
-Lote 32	Caiapoleiloes	www.caiapoleiloes.com.br
-Lote 32	Escavador	www.escavador.com
-Lote 32	Leiloesbrasil	www.leiloesbrasil.com.br
-Lote 32	Leiloescentrooeste	www.leiloescentrooeste.com.br
-Lote 32	Leiloesfederal	www.leiloesfederal.com.br
-Lote 32	Leilomaster	www.leilomaster.com.br
-
-
-------Lote 33 - Matheus------
-Lote 33	Luizleiloes	www.luizleiloes.com.br
-Lote 33	Mgrleiloes	www.mgrleiloes.com.br
-Lote 33	Ismenialeiloeira	http://ismenialeiloeira.com.br/externo/
-Lote 33	Isacleiloes	https://isacleiloes.com.br/
-Lote 33	Leiloesbrasilcassiano	https://leiloesbrasilcassiano.com.br/
-Lote 33	Leilofarm	https://leilofarm.com.br/
-Lote 33	Marcusviniciusleiloes	https://marcusviniciusleiloes.com.br/
-Lote 33	Stefanellileiloes	https://stefanellileiloes.com.br/
-Lote 33	Wernerleiloes	https://wernerleiloes.com.br/
-Lote 33	Aazevedoleiloes	www.aazevedoleiloes.com.br
-
-------Lote 34 - Matheus------
-Lote 34	Arquimedesleiloes	www.arquimedesleiloes.com.br
-Lote 34	Bessaleiloes	www.bessaleiloes.com.br
-Lote 34	Bolsadeleiloes	www.bolsadeleiloes.com.br
-Lote 34	Falleirosleiloes	www.falleirosleiloes.com.br
-Lote 34	Ferreiraleiloes	www.ferreiraleiloes.com.br
-Lote 34	Jdleiloes	www.jdleiloes.com.br
-Lote 34	Leiloesjudiciaismg	www.leiloesjudiciaismg.com.br
-Lote 34	Leiloesjudiciaismgnorte	www.leiloesjudiciaismgnorte.com.br
-Lote 34	Leiloesuberlandia	www.leiloesuberlandia.com.br
-Lote 34	Lilianportugal	www.lilianportugal.com.br
-Lote 35	Luizcampolina	www.luizcampolina.com.br
-Lote 35	Luzialeiloeira	www.luzialeiloeira.com.br
-Lote 35	Marcoantonioleiloeiro	www.marcoantonioleiloeiro.com.br
-Lote 35	Mozarleiloeseimoveis	www.mozarleiloeseimoveis.com.br
-Lote 35	Openleiloes	www.openleiloes.com.br
-Lote 35	Patricialeiloeira	www.patricialeiloeira.com.br
-Lote 35	Rafaelleiloeiro	www.rafaelleiloeiro.com.br
-Lote 35	Rochaleiloesbrasil	www.rochaleiloesbrasil.com.br
-Lote 35	Simoesleiloes	www.simoesleiloes.com.br
-Lote 35	Vitorcalableiloes	www.vitorcalableiloes.com.br
-Lote 36	Williamleiloeiro	www.williamleiloeiro.com.br
-Lote 36	Wsleiloes	www.wsleiloes.com.br
-Lote 36	Oesteleiloes	www.oesteleiloes.com.br
-Lote 36	Peterlongoleiloes	www.peterlongoleiloes.com.br
-Lote 36	Abaleiloes	www.abaleiloes.com.br
-Lote 36	Amazonasleiloes	www.amazonasleiloes.com.br
-Lote 36	Dmleiloesesjudiciais	www.dmleiloesesjudiciais.com.br
-Lote 36	Francoleiloes	www.francoleiloes.com.br
-Lote 36	Galvanileiloes	www.galvanileiloes.com.br
-Lote 36	Leiloesjudiciaisdf	www.leiloesjudiciaisdf.com.br
-Lote 37	Mariafixerleiloes	www.mariafixerleiloes.com.br
-Lote 37	Morescoleiloes	www.morescoleiloes.com.br
-Lote 37	Mundoadvogados	www.mundoadvogados.com.br
-Lote 37	Norteleiloes	www.norteleiloes.com.br
-Lote 37	Wrleiloes	www.wrleiloes.com.br
-Lote 37	Emgeaimoveis	https://www.emgeaimoveis.com.br/
-Lote 37	Araujoleiloes	https://araujoleiloes.com.br/ 
-Lote 37	Araujoleiloes	https://araujoleiloes.com.br/sobre.php 
-Lote 37	Lorgamikejevs	https://lorgamikejevs.com.br/home/poliana 
-Lote 37	Ajleiloes	www.ajleiloes.com.br
-Lote 38	Alvaroantonioleiloes	www.alvaroantonioleiloes.com.br
-Lote 38	Balbinoleiloes	www.balbinoleiloes.com.br
-Lote 38	Chbarbosaleiloes	www.chbarbosaleiloes.com.br
-Lote 38	Dasilvaleiloes	www.dasilvaleiloes.com.br
-Lote 38	Dl7Leiloes	www.dl7leiloes.com.br
-Lote 38	Econodata	www.econodata.com.br
-Lote 38	Idleiloes	www.idleiloes.com.br
-Lote 38	Kleiberleiloes	www.kleiberleiloes.com.br
-Lote 38	Kleiberleiloes	www.kleiberleiloes.com.br 
-Lote 38	Lumussaleiloes	www.lumussaleiloes.com.br
-Lote 39	Matogrossoleiloes	www.matogrossoleiloes.com.br
-Lote 39	Mlleiloes	www.mlleiloes.com.br 
-Lote 39	Navesleiloes	www.navesleiloes.com.br
-Lote 39	Pantanalleiloesjudiciais	www.pantanalleiloesjudiciais.com.br
-Lote 39	Paulobrasil	www.paulobrasil.com.br
-Lote 39	Rgsleiloes	www.rgsleiloes.com.br
-Lote 39	Valdeirpereiraleiloeiro	www.valdeirpereiraleiloeiro.com.br
-Lote 39	Braunaleiloes	http://braunaleiloes.blogspot.com.br
-Lote 39	Casadosdados	https://casadosdados.com.br/solucao/cnpj/maik-nunes-de-oliveira-leiloes-42331659000170
-Lote 39	Guiafacil	https://guiafacil.com/site/saulo-luiz-bastos/anapolis/go/6233145043/
-Lote 40	Vecchileiloes	https://vecchileiloes.com.br/
-Lote 40	Aleiloeira	www.aleiloeira.com.br
-Lote 40	Bernardinileiloes	www.bernardinileiloes.com.br
-Lote 40	Innovaleiloes	www.innovaleiloes.com.br
-Lote 40	Jussiaraleiloes	www.jussiaraleiloes.com
-Lote 40	Leilaoimovel	www.leilaoimovel.com.br
-Lote 40	Leiloesanapolis	www.leiloesanapolis.com.br
-Lote 40	Leiloesjudiciaisgo	www.leiloesjudiciaisgo.com.br
-Lote 40	Lkleiloes	www.lkleiloes.com.br
-Lote 40	Mclances	www.mclances.com
-Lote 41	Vecchileiloes	www.vecchileiloes.com.br
-Lote 41	Batistaregisleiloes	https://batistaregisleiloes.com.br/externo/
-Lote 41	Leiloestaniaabreu	https://leiloestaniaabreu.wixsite.com/leiloes/clients
-Lote 41	Aguialeiloes	www.aguialeiloes.com.br
-Lote 41	Bezerraleiloes	www.bezerraleiloes.com.br
-Lote 41	Brandelleiloes	www.brandelleiloes.com.br
-Lote 41	Centraldosleiloes	www.centraldosleiloes.com.br
-Lote 41	Erleiloes	www.erleiloes.com.br
-Lote 41	Hastaleiloes	www.hastaleiloes.com.br
-Lote 41	Hatoryleiloes	www.hatoryleiloes.com.br
-Lote 42	Kcleiloes	www.kcleiloes.com.br
-Lote 42	Leiloescostaesilva	www.leiloescostaesilva.com.br
-Lote 42	Leiloesjudiciaisbahia	www.leiloesjudiciaisbahia.com.br
-Lote 42	Mpleiloes	www.mpleiloes.com.br
-Lote 42	Nordesteleiloes	www.nordesteleiloes.com.br
-Lote 42	Nortebahialeiloes	www.nortebahialeiloes.com.br
-Lote 42	Leiloeirolunelli	http://leiloeirolunelli.com.br/
-Lote 42	Rittaleiloes	http://rittaleiloes.leiloeiros.lel.br/site.php?action=index
-Lote 42	Alencastroleiloes	https://alencastroleiloes.com.br/
-Lote 42	Fauthleiloes	https://fauthleiloes.com.br/
-Lote 43	Ferotta	https://ferotta.wixsite.com/feliperottaleiloes
-Lote 43	Pineiroleiloes	https://pineiroleiloes.com.br/
-Lote 43	Swleiloes	https://swleiloes.com.br/?pg=principal
-Lote 43	Abpleiloes	www.abpleiloes.com
-Lote 43	Alexsandroleiloes	www.alexsandroleiloes.com.br
-Lote 43	Arremate	www.arremate.lel.br
-Lote 43	Awleiloes	www.awleiloes.com.br
-Lote 43	Benedettoleiloes	www.benedettoleiloes.com.br
-Lote 43	Bertoncello	www.bertoncello.lel.br
-Lote 43	Bolzanleiloes	www.bolzanleiloes.com.br
-Lote 44	Callegaroleiloes	www.callegaroleiloes.lel.br
-Lote 44	Carlosleiloes	www.carlosleiloes.com.br
-Lote 44	Clicleilao	www.clicleilao.com.br
-Lote 44	Correaleiloes	www.correaleiloes.com.br
-Lote 44	Cristianoescolaleiloes	www.cristianoescolaleiloes.com.br
-Lote 44	Ctsleiloes	www.ctsleiloes.com.br
-Lote 44	Feldensleiloes	www.feldensleiloes.lel.br
-Lote 44	Finattoleiloes	www.finattoleiloes.com.br
-Lote 44	Fumagallileiloes	www.fumagallileiloes.com.br
-Lote 44	Ineuleiloes	www.ineuleiloes.com.br
-Lote 45	Jorgebrasil	www.jorgebrasil.lel.br
-Lote 45	Kielleiloes	www.kielleiloes.com.br
-Lote 45	Kriegerleiloes	www.kriegerleiloes.com.br
-Lote 45	Leilaobutia	www.leilaobutia.com
-Lote 45	Leiloeiraoficial	www.leiloeiraoficial.com
-Lote 45	Leiloeirobonatto	www.leiloeirobonatto.com.br
-Lote 45	Leiloeirolunelli	www.leiloeirolunelli.com.br
-Lote 45	Leiloesbonfadini	www.leiloesbonfadini.com.br
-Lote 45	Leiloescb	www.leiloescb.com.br
-Lote 45	Lucianleiloes	www.lucianleiloes.com.br
-Lote 46	Marcelocemin	www.marcelocemin.lel.br
-Lote 46	Mateusleiloes	www.mateusleiloes.com.br
-Lote 46	Michellileiloes	www.michellileiloes.com.br
-Lote 46	Miottileiloes	www.miottileiloes.com.br
-Lote 46	Muckleiloes	www.muckleiloes.com.br
-Lote 46	Oroleiloes	www.oroleiloes.lel.br
-Lote 46	Qleilao	www.qleilao.lel.br
-Lote 46	Raotaleiloes	www.raotaleiloes.com.br
-Lote 46	Rechleiloes	www.rechleiloes.com.br
-Lote 46	Ruipintoleiloeiro	www.ruipintoleiloeiro.com.br
-Lote 47	Santoseborinleiloes	www.santoseborinleiloes.com.br
-Lote 47	Sulleiloes	www.sulleiloes.com.br
-Lote 47	Tradeleiloes	www.tradeleiloes.com.br
-Lote 47	Turanileiloes	www.turanileiloes.com.br
-Lote 47	Zagoleiloes	www.zagoleiloes.com.br
-Lote 47	Leiloesfreire	www.leiloesfreire.com.br
-Lote 47	Ebleiloes	http://ebleiloes.com.br/
-Lote 47	Anandaleiloes	https://anandaleiloes.com.br/
-Lote 47	Arnaldoleiloes	https://arnaldoleiloes.com.br/home/
-Lote 47	Asleiloeiros	https://asleiloeiros.com.br/site/index.php
-Lote 48	Franciscodavidleiloeiro	https://franciscodavidleiloeiro.com.br/
-Lote 48	Albuquerquelins	www.albuquerquelins.com.br
-Lote 48	Brfleiloes	www.brfleiloes.com.br
-Lote 48	Casaleiloeira	www.casaleiloeira.com.br
-Lote 48	Crleiloes	www.crleiloes.com.br
-Lote 48	Errolflynnleiloes	www.errolflynnleiloes.com.br
-Lote 48	Gcnleiloes	www.gcnleiloes.com.br
-Lote 48	Leilaodoesporte	www.leilaodoesporte.com.br
-Lote 48	Marianoleiloes	www.marianoleiloes.com.br
-Lote 48	Vitorbraga	www.vitorbraga.com.br
-Lote 49	Guiaja	https://guiaja.net/pt/empresas/ma/sao-luis/leiloeiros/wesley-durval-palhais-a-pereira_6760385+4.html
-Lote 49	Dcmleiloes	www.dcmleiloes.com.br
-Lote 49	Lealleiloes	www.lealleiloes.com.br
-Lote 49	Ipcleiloes	www.ipcleiloes.com.br 
-Lote 49	Andrearaujoleiloes	www.andrearaujoleiloes.com.br
-Lote 49	Britoleiloes	www.britoleiloes.com.br
-Lote 49	Desouzaleiloes	www.desouzaleiloes.com.br
-Lote 49	Euroleiloes	www.euroleiloes.com.br
-Lote 49	Hcleiloes	www.hcleiloes.com.br
-Lote 49	Ipcleiloes	www.ipcleiloes.com.br
-Lote 50	Lanceja	www.lanceja.com.br
-Lote 50	Leiloesonlinems	www.leiloesonlinems.com.br
-Lote 50	Mariafixerleiloes	www.mariafixerleiloes.com.br 
-Lote 50	Planaltoleiloes	www.planaltoleiloes.com.br
-Lote 50	Vialeiloes	www.vialeiloes.com.br
-Lote 50	Torresleiloes	http://torresleiloes.com.br/quemsomos.html
-Lote 50	Urlm	http://urlm.com.br/www.getulioleiloes.com.br
-Lote 50	Armandogrelloadvocacia	https://armandogrelloadvocacia.com.br/
-Lote 50	Autopinheiro	https://autopinheiro.com/inicial/
-Lote 50	Transparencia	https://transparencia.cc/dados/socios/337143/eveline-chaves-lages-albuquerque-costa/
-Lote 51	Maestroleiloes	www.maestroleiloes.com.br
-Lote 51	Pamplonaleiloes	www.pamplonaleiloes.com.br
-Lote 51	Leiloes-Maia	https://leiloes-maia.ueniweb.com/
-Lote 51	Brittoleiloes	www.brittoleiloes.com.br
-Lote 51	Cassianoleiloes	www.cassianoleiloes.com.br
-Lote 51	Coliseumleiloes	www.coliseumleiloes.com.br
-Lote 51	Gracieleiloes	www.gracieleiloes.com.br
-Lote 51	Hastaleilao	www.hastaleilao.com.br
-Lote 51	Inovaleilao	www.inovaleilao.com.br
-Lote 51	Lancecertoleiloes	www.lancecertoleiloes.com.br
-Lote 52	Leiloeselo	www.leiloeselo.com.br
-Lote 52	Liderancaleiloes	www.liderancaleiloes.com.br
-Lote 52	Sergiooliveiraleiloes	www.sergiooliveiraleiloes.com.br
-Lote 52	Rondonialeiloes	www.rondonialeiloes.com.br
-Lote 52	Veraleiloes	www.veraleiloes.com.br
-Lote 52	Guilhermeibagy	http://guilhermeibagy.com.br/
-Lote 52	Carmencapellaleiloes	https://carmencapellaleiloes.com/
-Lote 52	Correaquinhonesleiloes	https://correaquinhonesleiloes.com.br/
-Lote 52	Donizetteleiloes	https://donizetteleiloes.com.br/app/home/
-Lote 52	Ghisimachadoleiloes	https://ghisimachadoleiloes.com.br/
-Lote 53	Leiloesulsc	https://leiloesulsc.com/Default
-Lote 53	Ramosleiloes	https://ramosleiloes.com.br/app/home/
-Lote 53	Zampierileiloeiro	https://zampierileiloeiro.com.br/
-Lote 53	Bampileiloes	www.bampileiloes.com.br
-Lote 53	Casadoleilao	www.casadoleilao.com
-Lote 53	Catarinaleiloes	www.catarinaleiloes.com.br
-Lote 53	Celioleiloeiro	www.celioleiloeiro.com.br
-Lote 53	Damianileiloes	www.damianileiloes.com.br
-Lote 53	Daux	www.daux.com.br
-Lote 53	Espressoleiloes	www.espressoleiloes.com.br
-Lote 54	Fabriccaleiloes	www.fabriccaleiloes.com.br
-Lote 54	Gustavoreisleiloes	www.gustavoreisleiloes.com.br
-Lote 54	Leialeiloes	www.leialeiloes.com.br
-Lote 54	Leiloesalarcon	www.leiloesalarcon.com.br
-Lote 54	Magarte	www.magarte.com.br
-Lote 54	Marcoleiloes	www.marcoleiloes.com.br
-Lote 54	Maxxleiloes	www.maxxleiloes.com.br
-Lote 54	Nelcileiloes	www.nelcileiloes.com.br
-Lote 54	Omega1Leiloes	www.omega1leiloes.com.br
-Lote 54	Sampaioleiloes	www.sampaioleiloes.com.br
-Lote 55	Serpaleiloes	www.serpaleiloes.com.br
-Lote 55	Terramarleiloes	www.terramarleiloes.com.br
-Lote 55	Topleiloes	www.topleiloes.com.br
-Lote 55	Zampierileiloes	www.zampierileiloes.com.br
-Lote 55	Leiloesmarcoantonio	http://leiloesmarcoantonio.com.br/
-Lote 55	Arrematabem	https://arrematabem.com.br/
-Lote 55	Leiloesbrasilto	https://leiloesbrasilto.com.br/clientes
-Lote 55	Baraodosleiloes	www.baraodosleiloes.com.br
-Lote 55	Leiloeiroeduardo	www.leiloeiroeduardo.com.br
-Lote 55	Leiloesmwd	www.leiloesmwd.com.br
-Lote 56	Buaizleiloes	www.buaizleiloes.com.br
-Lote 56	Cearaleiloes	https://cearaleiloes.com.br/index/quem-somos 
-Lote 56	Memeleiloes	https://memeleiloes.blogspot.com
-Lote 56	Olianileiloes	https://olianileiloes.com.br/
-Lote 56	Realleiloes	https://realleiloes.com.br/
-Lote 56	Abrantesleiloes	www.abrantesleiloes.com
-Lote 56	Adringleiloes	www.adringleiloes.com.br
-Lote 56	Anabrasilleiloes	www.anabrasilleiloes.com.br
-Lote 56	Apolianaleiloes	www.apolianaleiloes.com.br
-Lote 56	Araujoleiloes	www.araujoleiloes.com.br
-Lote 57	Arremateleiloes	www.arremateleiloes.com.br
-Lote 57	Asamileiloes	www.asamileiloes.com.br
-Lote 57	Ascleiloes	www.ascleiloes.com.br
-Lote 57	Brasilialeiloes	www.brasilialeiloes.com.br
-Lote 57	Brunoleiloes	www.brunoleiloes.com.br
-Lote 57	Canezinleiloes	www.canezinleiloes.com
-Lote 57	Celsocunhaleiloes	www.celsocunhaleiloes.com.br
-Lote 57	Colossoleiloes	www.colossoleiloes.com.br
-Lote 57	Consultasocio	www.consultasocio.com
-Lote 57	Costanetoleiloeiro	www.costanetoleiloeiro.com.br
-Lote 58	Djanirleiloes	www.djanirleiloes.com.br
-Lote 58	E-Leiloeiro	www.e-leiloeiro.com.br
-Lote 58	Emesleiloes	www.emesleiloes.com.br
-Lote 58	Emleilao	www.emleilao.com.br
-Lote 58	Emleiloes	www.emleiloes.com.br
-Lote 58	Esleiloes	www.esleiloes.com.br
-Lote 58	Flexleiloes	www.flexleiloes.com.br
-Lote 58	Gbleiloes	www.gbleiloes.com.br
-Lote 58	Hdleiloes	www.hdleiloes.com.br
-Lote 58	Joelcocenzaleiloeiro	www.joelcocenzaleiloeiro.com.br
-Lote 59	Jotaerreleiloes	www.jotaerreleiloes.com.br
-Lote 59	Lancecertoleiloes	www.lancecertoleiloes.com.br 
-Lote 59	Leilaomanaus	www.leilaomanaus.lel.br
-Lote 59	Leilaoseguro	www.leilaoseguro.org.br
-Lote 59	Leilaovip10	www.leilaovip10.com.br 
-Lote 59	Leilobras	www.leilobras.lel.br
-Lote 59	Leiloeirosdebrasilia	www.leiloeirosdebrasilia.com.br
-Lote 59	Leiloes61	www.leiloes61.com.br
-Lote 59	Leiloesaraujo	www.leiloesaraujo.com.br
-Lote 59	Leiloesdonorte	www.leiloesdonorte.com.br
-Lote 60	Leiloes-Es	www.leiloes-es.com.br
-Lote 60	Leiloesfreitas	www.leiloesfreitas.lel.br
-Lote 60	Leiloesnazareth	www.leiloesnazareth.com.br
-Lote 60	Leiloespb	www.leiloespb.com.br
-Lote 60	Leilofacil	www.leilofacil.lel.br
-Lote 60	Loteleiloes	www.loteleiloes.com.br
-Lote 60	Mariavitorinoleiloira@Gmail	www.mariavitorinoleiloira@gmail.com
-Lote 60	Marquesbarretoleiloes	www.marquesbarretoleiloes.com.br
-Lote 60	Maycosantos	www.maycosantos.lel.br
-Lote 60	Mmleiloes	www.mmleiloes.com
-Lote 61	Moacira	www.moacira.lel.br
-Lote 61	Montenegroleiloes	www.montenegroleiloes.com.br
-Lote 61	Nasarleiloes	www.nasarleiloes.com.br
-Lote 61	Nolileiloes	www.nolileiloes.com.br
-Lote 61	Parquedosleiloes	www.parquedosleiloes.com.br
-Lote 61	Paulotolentino	www.paulotolentino.com.br
-Lote 61	Raildacosta	www.raildacosta.com.br
-Lote 61	Realizaleiloes	www.realizaleiloes.com.br
-Lote 61	Realizeleiloes	www.realizeleiloes.com.br
-Lote 61	Rotadosleiloes	www.rotadosleiloes.com.br
-Lote 62	Suedpeterleiloes	www.suedpeterleiloes.com.br
-Lote 62	Sydneyleiloes	www.sydneyleiloes.com.br
-Lote 62	Tophouseleiloes	www.tophouseleiloes.com
-Lote 62	Unicoleiloes	www.unicoleiloes.com.br
-Lote 62	Universodosleiloes	www.universodosleiloes.com.br
-Lote 62	Vixleiloes	www.vixleiloes.com.br
-Lote 62	Vlleiloes	www.vlleiloes.com.br
-Lote 62	Leiloeiro.lel	www.leiloeiro.lel.br
-Lote 62	alveseyoshiy	https://www.alveseyoshiy.com.br
-Lote 62	ambraleiloes	https://www.ambraleiloes.com.br
-Lote 62	dalcanaleleiloes	https://dalcanaleleiloes.com.br/
+1 | JOSH | LOTE 00 | Portalzuk | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | https://www.portalzuk.com.br/imovel/sp/barueri/residencial-tambore/avenida-sao-paulo-894-938/26820-172525
+23 | JOSH | LOTE 00 | Biasileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.biasileiloes.com.br
+77 | JOSH | LOTE 00 | Brameleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.brameleiloes.com.br
+87 | JOSH | LOTE 00 | Agostinholeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.agostinholeiloes.com.br
+261 | JOSH | LOTE 00 | 3Torresleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.3torresleiloes.com.br
+376 | JOSH | LOTE 00 | Clicleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.clicleiloes.com.br
+487 | JOSH | LOTE 00 | Hammer | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hammer.lel.br
+596 | JOSH | LOTE 00 | Oscarleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.oscarleiloes.com.br
+612 | JOSH | LOTE 00 | Cargneluttileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.cargneluttileiloes.com.br
+621 | JOSH | LOTE 00 | Grandesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.grandesleiloes.com.br
+638 | JOSH | LOTE 00 | Nortonleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nortonleiloes.com.br
+705 | JOSH | LOTE 00 | Nortonleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://nortonleiloes.com.br/externo/
+726 | JOSH | LOTE 00 | Sopranoleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.sopranoleilao.com.br
+804 | JOSH | LOTE 00 | neteditaisleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://www.neteditaisleiloes.com.br/buscar
+2 | JOSH | LOTE 00 | Leilaovip | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.leilaovip.com.br
+3 | JOSH | LOTE 00 | leiloariasmart | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://leiloariasmart.com.br/imovel/130
+4 | JOSH | LOTE 00 | Mercado.Bomvalor | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | https://mercado.bomvalor.com.br/judicial/
+5 | JOSH | LOTE 00 | Superbid | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Internal server error | www.superbid.net
+6 | JOSH | LOTE 00 | Alfaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.alfaleiloes.com
+7 | JOSH | LOTE 00 | Megaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Internal server error | www.megaleiloes.com.br
+9 | JOSH | LOTE 00 | Topoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | https://topoleiloes.com.br/
+10 | JOSH | LOTE 00 | Frazaoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.frazaoleiloes.com.br
+11 | JOSH | LOTE 00 | Jeleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.jeleiloes.com.br
+12 | JOSH | LOTE 00 | Leilaobrasil | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.leilaobrasil.com.br
+13 | JOSH | LOTE 00 | Lancejudicial | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.lancejudicial.com.br
+15 | JOSH | LOTE 00 | resale | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro  | https://resale.com.br/imovel/IDR176284
+16 | JOSH | LOTE 00 | Venda-Imoveis.Caixa | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior: Erro 403 | https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=10011955
+17 | JOSH | LOTE 00 | Gpleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro  | www.gpleiloes.com.br
+18 | JOSH | LOTE 00 | Centralsuldeleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro  | www.centralsuldeleiloes.com.br
+21 | JOSH | LOTE 00 | Destakleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  CLOUDFLARE  | www.destakleiloes.com.br
+22 | JOSH | LOTE 00 | Psnleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro  | www.psnleiloes.com.br
+24 | JOSH | LOTE 00 | judhastas | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior: OK | https://www.judhastas.com.br/externo/lote/24052/gleba-de-terras-22-526-86m-no
+25 | JOSH | LOTE 00 | Fidalgoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://www.fidalgoleiloes.com.br/lote.php?idLote=50657
+26 | JOSH | LOTE 00 | Vivaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro  | www.vivaleiloes.com.br
+27 | JOSH | LOTE 00 | Mgl | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  CLOUFLARE  | www.mgl.com.br
+28 | JOSH | LOTE 00 | Cravoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.cravoleiloes.com.br
+29 | JOSH | LOTE 00 | Leje | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro não carrega os dados  | www.leje.com.br
+31 | JOSH | LOTE 00 | Oleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Erro tela branca  seletores concluido  arrumar preço leilão único | https://oleiloes.com.br/
+33 | JOSH | LOTE 00 | Moraesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.moraesleiloes.com.br
+34 | JOSH | LOTE 00 | Lut | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Tela Branca  seletores concluido | https://www.lut.com.br/lote/leilao/97662
+35 | JOSH | LOTE 00 | Jikalleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.jikalleiloes.com.br
+37 | JOSH | LOTE 00 | Sublimeleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro Ajax  | https://www.sublimeleiloes.com.br/lote/sobrado-em-campinas/2322/
+38 | JOSH | LOTE 00 | Paulobotelholeiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK   | www.paulobotelholeiloeiro.com.br
+39 | JOSH | LOTE 00 | Imoveis.Bancointer | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://imoveis.bancointer.com.br/imovel/72910992776583fb04c6a9069945a3e7734ad963.html
+50 | JOSH | LOTE 00 | vegasleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://vegasleiloes.com.br/item/4976/detalhes?page=1
+67 | JOSH | LOTE 00 | Sfrazao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.sfrazao.com.br
+69 | JOSH | LOTE 00 | Drleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.drleiloes.com.br
+74 | JOSH | LOTE 00 | Leiloesjudiciaisrs | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.leiloesjudiciaisrs.com.br
+75 | JOSH | LOTE 00 | Spencerleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://spencerleiloes.com.br/
+80 | JOSH | LOTE 00 | Gilsonleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.gilsonleiloes.com.br
+40 | Marcos | LOTE 01 | Casareisleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Cloudflare  | www.casareisleiloes.com.br
+41 | Marcos | LOTE 01 | Multipliqueleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Cloudflare  | www.multipliqueleiloes.com.br
+42 | Marcos | LOTE 01 | Saraivaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  pendente   Sem Endereço | www.saraivaleiloes.com.br
+43 | Marcos | LOTE 01 | Legisleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior: CLOUFLARE | www.legisleiloes.com.br
+45 | Marcos | LOTE 01 | Picellileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   Links precisam ser tratados  | www.picellileiloes.com.br
+47 | Marcos | LOTE 01 | Satoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ajax em branco  | www.satoleiloes.com.br
+47 | Marcos | LOTE 01 | Satoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ajax em branco  | https://satoleiloes.com.br/externo/
+48 | Marcos | LOTE 01 | Leilaooficialonline | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Cloudflare  | https://www.leilaooficialonline.com.br/lote/imovel-comercial-880m/1786/
+51 | Marcos | LOTE 01 | Freitasleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Alguns comandados funcionam no console do navegador, mas não funcionam no painel | www.freitasleiloeiro.com.br
+53 | Marcos | LOTE 01 | Vendasjudiciais | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Alguns comandados funcionam no console do navegador, mas não funcionam no painel | https://www.vendasjudiciais.com.br/lote/direitos-sala-1124-freguesia-da-lagoa/83/
+55 | Breno | LOTE 02 | Hastavip | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.hastavip.com.br
+56 | Breno | LOTE 02 | Iniciativabr | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.iniciativabr.com
+57 | Breno | LOTE 02 | Sodresantoro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.sodresantoro.com.br
+58 | Breno | LOTE 02 | Teza | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.teza.com.br
+61 | Breno | LOTE 02 | Delanoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente  Apenas o documento não é retirado, e o código e suas variações funcionam no console | https://www.delanoleiloes.com.br/externo/lote/23485/terrenos-em-santa-rosa-de
+62 | Breno | LOTE 02 | Pecinileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   CloudFlare | www.pecinileiloes.com.br
+63 | Breno | LOTE 02 | Comprei.Pgfn | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | https://comprei.pgfn.gov.br/anuncio/detalhe/1654
+64 | Breno | LOTE 02 | Fabioleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.fabioleiloes.com.br
+66 | Breno | LOTE 02 | Rmcleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   pendente  | www.rmcleiloes.com.br
+71 | Breno | LOTE 02 | Lancenoleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   CloudFlare | www.lancenoleilao.com.br
+78 | Lucas | LOTE 03 | Calilleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | www.calilleiloes.com.br
+79 | Lucas | LOTE 03 | Fvleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok | https://www.fvleiloes.com.br/lotes/657-03-casa-area-total-1-960m-santo-amaro
+81 | Lucas | LOTE 03 | Krobelleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | https://www.krobelleiloes.com.br/pregao/62314d22de807a0c2a4f5eaf/62314de29c91420b77754394
+83 | Lucas | LOTE 03 | Mirandacarvalholeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.mirandacarvalholeiloes.com.br
+85 | Lucas | LOTE 03 | Saleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Popup | www.saleiloes.com.br
+86 | Lucas | LOTE 03 | Startupleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   pendente  | www.startupleiloes.com.br
+89 | Lucas | LOTE 03 | Arremax | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Cloudflare | https://www.arremax.com.br/lote/area-de-628572-m/1038/
+90 | Lucas | LOTE 03 | Centraljudicial | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Alguns comandos funcionam no console do navegador, mas não funcionam no painel | www.centraljudicial.com.br
+91 | Lucas | LOTE 03 | Leiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | www.leiloes.com.br
+93 | Lucas | LOTE 03 | Mazzollileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | https://www.mazzollileiloes.com.br/pregao/64404831a7d0d08893753302/64404876a7d0d08893753326
+95 | Josh | LOTE 04 | Amaralleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.amaralleiloes.com.br
+96 | Josh | LOTE 04 | Arenaleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.arenaleilao.com.br
+97 | Josh | LOTE 04 | Cidafixerleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.cidafixerleiloes.com.br
+98 | Josh | LOTE 04 | Fabiobarbosaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.fabiobarbosaleiloes.com.br
+99 | Josh | LOTE 04 | Giordanoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.giordanoleiloes.com.br
+100 | Josh | LOTE 04 | Nakakogueleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não carrega dados | www.nakakogueleiloes.com.br
+102 | Josh | LOTE 04 | Rioleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.rioleiloes.com.br
+103 | Josh | LOTE 04 | Douglasleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não carrega dados | www.douglasleiloeiro.com.br
+104 | Josh | LOTE 04 | Fabianoayuppleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | https://fabianoayuppleiloeiro.com.br/
+105 | Josh | LOTE 04 | Fbleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não carrega dados | www.fbleiloes.com.br
+106 | Marcos | LOTE 05 | Fgleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Site não abre | https://www.fgleiloes.com.br/venda-direta/bem_id/30
+107 | Marcos | LOTE 05 | Grupoarremateleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Cloudfare  | www.grupoarremateleiloes.com.br
+109 | Marcos | LOTE 05 | Impactoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente   sem endereço  | https://www.impactoleiloes.com.br/lotes/211-1-lote-1-imovel-esquina-comercial-e-residencial-548m-artur-alvim
+110 | Marcos | LOTE 05 | Leiloesrei | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro  | www.leiloesrei.com.br
+111 | Marcos | LOTE 05 | Mauriciomarizleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   links precisam ser tratados  | https://www.mauriciomarizleiloes.com.br/leilao/detalhe_leilao/71#conteudo
+114 | Marcos | LOTE 05 | tribunaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   | https://www.tribunaleiloes.com.br/item/133/detalhes?page=1
+115 | Marcos | LOTE 05 | 123Leiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:   Ok   links precisam ser tratados  | www.123leiloes.com.br
+116 | Marcos | LOTE 05 | Agleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente   sem endereço  | www.agleiloes.com.br
+117 | Marcos | LOTE 05 | Alleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   em branco | https://alleiloes.com.br/lote/733/imovel-situado-na-rua-sete-de-setembro-no-270-em-colombo-pr-objeto-da-matricula-no-33310-do-cartorio-de-registro-de-imoveis-de-colombo-pr
+119 | Marcos | LOTE 05 | Apiceleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | https://apiceleiloes.com.br/
+120 | Breno | Lote 6 | Aragaoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.aragaoleiloes.com.br
+121 | Breno | Lote 6 | Baldisseraleiloeiros | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Pagina não carrega os dados | www.baldisseraleiloeiros.com.br
+122 | Breno | Lote 6 | Bcoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   CloudFlare | www.bcoleiloes.com.br
+124 | Breno | Lote 6 | Delttaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Erro  | www.delttaleiloes.com.br
+125 | Breno | Lote 6 | Deonizialeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.deonizialeiloes.com.br
+126 | Breno | Lote 6 | Depaulaonline | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Site não entra | www.depaulaonline.com.br
+130 | Breno | Lote 6 | Kronbergleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente   resolver erros url sql | www.kronbergleiloes.com.br
+132 | Breno | Lote 6 | Leiloeirasilvani | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | https://www.leiloeirasilvani.com.br/Leilao.asp?zz=20050858201532006090001
+133 | Breno | Lote 6 | Leiloeiro.online | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.leiloeiro.online
+134 | Breno | Lote 6 | Mariaclariceleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://mariaclariceleiloes.com.br/
+136 | Josh | Lote 7 | Monzonleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Não está puxando algumas informações  | www.monzonleiloes.com.br
+138 | Josh | Lote 7 | Nacionalleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site sem Leiloes cadastrado  | www.nacionalleiloes.com.br
+139 | Josh | Lote 7 | Nogarileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.nogarileiloes.com.br
+141 | Josh | Lote 7 | Portellaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.portellaleiloes.com.br
+143 | Josh | Lote 7 | Rossileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.rossileiloes.com.br
+146 | Josh | Lote 7 | Selectleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | https://www.selectleiloes.com.br/leilao/detalhe_leilao/489#conteudo
+147 | Josh | Lote 7 | Silveiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.silveiraleiloes.com.br
+148 | Josh | Lote 7 | Superlanceleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://www.superlanceleilao.com.br/leilao/apartamento-com-area-total-de-515-46-m2-no-morumbi-14-11-2022-21-20-40/lote_id/50
+149 | Josh | Lote 7 | Vicenteleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.vicenteleiloes.com.br
+245 | Josh | Lote 7 | Borbolaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Site sem Leiloes cadastrado | http://borbolaleiloes.tempsite.ws/index
+246 | Marcos | Lote 8 | Dutraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   403 forbidden | http://dutraleiloes.com.br/principal.htm
+247 | Marcos | Lote 8 | Mfrancaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   | http://mfrancaleiloes.tempsite.ws/index
+248 | Marcos | Lote 8 | Suenagaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não possui leilão  | http://suenagaleiloes.com.br/
+249 | Marcos | Lote 8 | Aloisiocravo | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   403 forbidden | https://aloisiocravo.com.br/
+250 | Marcos | Lote 8 | Bankleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não abre  | https://bankleiloes.com.br/
+251 | Marcos | Lote 8 | Batistaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | https://batistaleiloes.com.br/
+252 | Marcos | Lote 8 | Dbmleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | https://dbmleiloes.com.br/
+253 | Marcos | Lote 8 | Dedaloleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco  | https://www.dedaloleiloes.com.br/
+254 | Marcos | Lote 8 | Jonasdellatonia | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não possui leilão  | https://jonasdellatonia.com.br/
+255 | Marcos | Lote 8 | Mundodoleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não possui leilão  | https://mundodoleilao.com.br/#
+256 | Marcos | Lote 9 | Plazaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   | https://plazaleiloes.com.br/
+257 | Marcos | Lote 9 | Sumareleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | https://sumareleiloes.com.br/
+258 | Marcos | Lote 9 | Venetoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Site em branco | https://venetoleiloes.com.br/
+259 | Marcos | Lote 9 | Mouraazevedoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não possui leilão  | www.mouraazevedoleiloes.lel.br
+260 | Marcos | Lote 9 | 3Rleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não possui leilão  | www.3rleiloes.net
+262 | Marcos | Lote 9 | Bastonleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.bastonleiloes.com.br
+263 | Marcos | Lote 9 | Carloferrarileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   Links precisam ser tratados  | www.carloferrarileiloes.com.br
+264 | Marcos | Lote 9 | Iarremate | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   403 forbidden | www.iarremate.com
+265 | Marcos | Lote 9 | Liderleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente   Sem documentos  | www.liderleiloes.com.br
+266 | Marcos | Lote 9 | Melhorleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente   Sem endereço  | www.melhorleiloes.com.br
+267 | Josh | Lote 10 | Moralesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.moralesleiloes.com.br
+268 | Josh | Lote 10 | Raicherleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ajax em Branco  | www.raicherleiloes.com.br
+269 | Josh | Lote 10 | Rigolonleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.rigolonleiloes.com.br
+270 | Josh | Lote 10 | Savoyleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.savoyleiloes.com.br
+271 | Josh | Lote 10 | Sumareleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.sumareleiloes.com.br
+272 | Josh | Lote 10 | Albertomacedoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.albertomacedoleiloes.com.br
+273 | Josh | Lote 10 | Alexandridisleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.alexandridisleiloes.com.br
+274 | Josh | Lote 10 | Alienajud | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.alienajud.com.br
+275 | Josh | Lote 10 | Altitcasadearteeleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.altitcasadearteeleiloes.com.br
+276 | Josh | Lote 10 | Ams10Leiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.ams10leiloes.com.br
+277 | Josh | Lote 11 | Anaclaraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.anaclaraleiloes.lel.br
+278 | Josh | Lote 11 | Andraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.andraleiloes.com.br
+279 | Josh | Lote 11 | Arieldesouzaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.arieldesouzaleiloes.com.br
+280 | Josh | Lote 11 | Arremateleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.arremateleilao.com.br
+281 | Josh | Lote 11 | Arteprintsleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.arteprintsleiloes.com.br
+282 | Josh | Lote 11 | Bidmax | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.bidmax.com.br
+283 | Josh | Lote 11 | Bnleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.bnleiloes.com.br
+284 | Josh | Lote 11 | Borgesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.borgesleiloes.com.br
+285 | Josh | Lote 11 | Budanoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.budanoleiloeiro.com.br
+286 | Josh | Lote 11 | Camargonet | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.camargonet.com
+287 | Breno | Lote 12 | Canaldosleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   SL | www.canaldosleiloes.com.br
+288 | Breno | Lote 12 | Casa8Leiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   SL | www.casa8leiloes.com.br
+289 | Breno | Lote 12 | Casaamarelaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   SL | www.casaamarelaleiloes.net.br
+290 | Breno | Lote 12 | Centrodeleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do Ar  | www.centrodeleiloes.lel.br
+291 | Breno | Lote 12 | Chuileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ajax em branco  | www.chuileiloes.com.br
+292 | Breno | Lote 12 | Cianacionalleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.cianacionalleiloes.com.br
+293 | Breno | Lote 12 | Crepaldileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Pagina em branco | www.crepaldileiloes.com.br
+294 | Breno | Lote 12 | Crisleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  CloudFlare  | www.crisleiloes.com.br
+295 | Breno | Lote 12 | Cunhaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Pagina em branco | www.cunhaleiloeiro.com.br
+296 | Breno | Lote 12 | Dalricalefficorsi | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do ar  | www.dalricalefficorsi.com.br
+297 | Breno | Lote 13 | Dantasleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.dantasleiloes.com.br
+298 | Breno | Lote 13 | Darioleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site sem leilão  | www.darioleiloes.com.br
+299 | Breno | Lote 13 | Desantileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.desantileiloes.com.br
+300 | Breno | Lote 13 | Deseulance | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não é possivel pegar os lotes | www.deseulance.com
+301 | Breno | Lote 13 | Destroleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.destroleiloes.com.br
+302 | Breno | Lote 13 | Dinizmartinsleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.dinizmartinsleiloes.com.br
+303 | Breno | Lote 13 | Domingosleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.domingosleiloes.com.br
+304 | Breno | Lote 13 | Dreisleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do ar  | www.dreisleiloes.com.br
+305 | Breno | Lote 13 | E-Confianca | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior: Confiancawww.e confianca.com.br  | www.e-confianca.com.br
+306 | Breno | Lote 13 | Euamoleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.euamoleilao.com.br
+307 | Lucas | Lote 14 | Fakianileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.fakianileiloes.com.br
+308 | Lucas | Lote 14 | Familiarosaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.familiarosaleiloes.com.br
+309 | Lucas | Lote 14 | Faroonline | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.faroonline.com.br
+310 | Lucas | Lote 14 | Flaviacardososoaresleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.flaviacardososoaresleiloes.com.br
+311 | Lucas | Lote 14 | Ganikoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.ganikoleiloes.com.br
+312 | Lucas | Lote 14 | Glleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Preenchido/não roda outros links  | www.glleiloes.com.br
+313 | Lucas | Lote 14 | Gmleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.gmleiloes.com.br
+314 | Lucas | Lote 14 | Gondololeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.gondololeiloes.lel.br
+315 | Lucas | Lote 14 | Gpaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.gpaleiloes.com.br
+316 | Lucas | Lote 14 | Gualeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Não foi possível encontrar o endereço IP do servidor  | www.gualeiloes.com.br
+317 | Lucas | Lote 15 | Guariglialeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.guariglialeiloes.com.br
+318 | Lucas | Lote 15 | Guiadearte | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.guiadearte.com.br
+319 | Lucas | Lote 15 | Hamouileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | www.hamouileiloes.com.br
+320 | Lucas | Lote 15 | Hirasawaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | www.hirasawaleiloes.com.br
+321 | Lucas | Lote 15 | Jbiglesias | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.jbiglesias.com.br
+322 | Lucas | Lote 15 | Jmesquitaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.jmesquitaleiloes.com.br
+323 | Lucas | Lote 15 | Jonas | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.jonas.lel.br
+324 | Lucas | Lote 15 | Jorgemolgado | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  ok  | www.jorgemolgado.com.br
+325 | Lucas | Lote 15 | Jpjoiasepedrasleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.jpjoiasepedrasleiloes.com.br
+326 | Lucas | Lote 15 | Lancenow | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.lancenow.com.br
+327 | Matheus | Lote 16 | Lancetotal | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Internal Server Error | www.lancetotal.com.br
+328 | Matheus | Lote 16 | Leilaodearte | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.leilaodearte.com
+329 | Matheus | Lote 16 | Leilaoinvestment | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.leilaoinvestment.com.br
+330 | Matheus | Lote 16 | Leilaoonline | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.leilaoonline.net
+331 | Matheus | Lote 16 | Leiloaria | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não é possivel pegar os lotes | www.leiloaria.com.br
+332 | Matheus | Lote 16 | Leiloei | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | www.leiloei.com
+333 | Matheus | Lote 16 | Leiloeirosp | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Página não carrega | www.leiloeirosp.com.br
+334 | Matheus | Lote 16 | Leiloesalbino | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Seletores não funcionam | www.leiloesalbino.com.br
+335 | Matheus | Lote 16 | Leiloesburiham | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.leiloesburiham.com.br
+336 | Matheus | Lote 16 | Leiloesdasartes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.leiloesdasartes.com.br
+337 | Matheus | Lote 17 | Leiloesmager | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.leiloesmager.com.br
+338 | Matheus | Lote 17 | Lottileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   Tratar links | www.lottileiloes.com.br
+339 | Matheus | Lote 17 | Ltjleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.ltjleiloes.com.br
+340 | Matheus | Lote 17 | Maisleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior: OK  | www.maisleilao.com.br
+341 | Matheus | Lote 17 | Manrubialeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | www.manrubialeiloes.com.br
+342 | Matheus | Lote 17 | Mazinottoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Página não carrega | www.mazinottoleiloes.com.br
+343 | Matheus | Lote 17 | Milanleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.milanleiloes.com.br
+344 | Matheus | Lote 17 | Mouzarbastonleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.mouzarbastonleiloes.com.br
+345 | Matheus | Lote 17 | Mrleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.mrleiloes.com.br
+346 | Matheus | Lote 17 | Mzmleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.mzmleiloes.com.br
+347 | Marcos | Lote 18 | Niltonbrancalliao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.niltonbrancalliao.com.br
+348 | Marcos | Lote 18 | Nogueiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.nogueiraleiloes.com.br
+349 | Marcos | Lote 18 | Olivirogerioleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente   Sem endereço | www.olivirogerioleiloes.com.br
+350 | Marcos | Lote 18 | Originarteleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.originarteleiloes.com.br
+351 | Marcos | Lote 18 | Paquesleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.paquesleiloeiro.com.br
+352 | Marcos | Lote 18 | Peixotoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   Links precisam ser tratados | www.peixotoleiloes.com.br
+353 | Marcos | Lote 18 | Projudleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.projudleiloes.com.br
+354 | Marcos | Lote 18 | Pupioleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não possui leilão  | www.pupioleiloes.com
+355 | Marcos | Lote 18 | Rfleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.rfleiloes.com.br
+356 | Marcos | Lote 18 | Rmgouvealeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.rmgouvealeiloes.com.br
+357 | Marcos | Lote 19 | Sagresleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.sagresleiloes.com.br
+358 | Marcos | Lote 19 | Salgadoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site não possui leilão  | www.salgadoleiloes.com.br
+359 | Marcos | Lote 19 | Sanchesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Ok  | www.sanchesleiloes.com.br
+360 | Marcos | Lote 19 | Siteleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Ok  | www.siteleiloes.com.br
+361 | Marcos | Lote 19 | Superdiasleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.superdiasleiloes.com.br
+362 | Marcos | Lote 19 | Tableau | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.tableau.com.br
+363 | Marcos | Lote 19 | Tahaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Pendente  | www.tahaleiloes.com.br
+364 | Marcos | Lote 19 | Troof | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.troof.com.br
+365 | Marcos | Lote 19 | Unileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Ok  | www.unileiloes.com.br
+366 | Marcos | Lote 19 | Uonleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.uonleiloes.com.br
+367 | Josh | Lote 20 | Venturelileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.venturelileiloes.com.br
+368 | Josh | Lote 20 | Vieiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.vieiraleiloes.com.br
+369 | Josh | Lote 20 | Vonbrusky | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.vonbrusky.com.br
+370 | Josh | Lote 20 | Willianleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Não puxa dados pelo Ajax  | www.willianleiloes.com.br
+371 | Josh | Lote 20 | Wleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.wleiloes.com.br
+372 | Josh | Lote 20 | Wmleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.wmleiloes.com.br
+373 | Josh | Lote 20 | Zaccarino | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.zaccarino.com.br
+374 | Josh | Lote 20 | Cristianoferreiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | https://cristianoferreiraleiloes.com.br/
+375 | Josh | Lote 20 | Rafaelaferreiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | https://rafaelaferreiraleiloes.com.br/
+377 | Josh | Lote 20 | Rochaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://rochaleiloes.com.br/
+378 | Breno | Lote 21 | Dsleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do ar   | www.dsleiloes.com.br
+379 | Breno | Lote 21 | Marangonileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Pagina em branco | www.marangonileiloes.com.br
+380 | Breno | Lote 21 | Vmleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.vmleiloes.com.br
+381 | Breno | Lote 21 | Rmmleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Faltando informaçoes no site  | www.rmmleiloes.com.br
+382 | Breno | Lote 21 | Andreluizleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.andreluizleiloes.com.br
+383 | Breno | Lote 21 | Danieloliveiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.danieloliveiraleiloes.com.br
+384 | Breno | Lote 21 | Hoppeleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.hoppeleiloes.com.br
+385 | Breno | Lote 21 | Jmfleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.jmfleiloes.com.br
+386 | Breno | Lote 21 | Kleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.kleiloes.com.br
+387 | Breno | Lote 21 | Lbleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.lbleiloes.com.br
+388 | Breno | Lote 22 | Rgomesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do Ar  | www.rgomesleiloes.com.br
+389 | Breno | Lote 22 | Sfleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Leiloes desatualizados  | www.sfleiloes.com.br
+390 | Breno | Lote 22 | Simonleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Informaçoẽs importantes apenas disponibilizadas no edital pdf.  | www.simonleiloes.com.br
+391 | Breno | Lote 22 | Lancejusto | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://lancejusto.com.br/
+392 | Breno | Lote 22 | Marianalangleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do Ar  | https://marianalangleiloes.com.br/
+393 | Breno | Lote 22 | Rdleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | https://rdleiloes.com.br/
+394 | Breno | Lote 22 | Claudiokussleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.claudiokussleiloes.com.br
+395 | Breno | Lote 22 | Dallagnolleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.dallagnolleiloes.com.br
+396 | Breno | Lote 22 | Favaretoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.favaretoleiloes.com.br
+397 | Breno | Lote 22 | Gdleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.gdleiloes.com.br
+398 | Breno | Lote 23 | Gomesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ferramenta de Fazer site de Leilao   | www.gomesleiloes.com.br
+399 | Breno | Lote 23 | Kronberg | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.kronberg.lel.br
+400 | Breno | Lote 23 | Leiloeiroqueiroz | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Seletor não funciona  | www.leiloeiroqueiroz.com.br
+401 | Breno | Lote 23 | Lelialenz | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.lelialenz.com.br
+402 | Breno | Lote 23 | Marcosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.marcosleiloes.com.br
+403 | Breno | Lote 23 | Marcotulioleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.marcotulioleiloes.com.br
+404 | Breno | Lote 23 | Marquesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.marquesleiloes.com.br
+405 | Breno | Lote 23 | Milanileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.milanileiloes.com.br
+406 | Breno | Lote 23 | Newtonleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.newtonleiloes.com.br
+407 | Breno | Lote 23 | Pbcastro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.pbcastro.com.br
+408 | Lucas | Lote 24 | Rubenshcastro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.rubenshcastro.com.br
+409 | Lucas | Lote 24 | Santosmoraesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.santosmoraesleiloes.com.br
+410 | Lucas | Lote 24 | Vardanaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em branco | www.vardanaleiloes.com.br
+411 | Lucas | Lote 24 | Zemarchiottoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Domínio não encontrado | www.zemarchiottoleiloes.com.br
+412 | Lucas | Lote 24 | Acleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Preenchido   Poucas informações do Lote na página, variáveis funcionam em algumas páginas e não em outras | www.acleiloes.com.br
+413 | Lucas | Lote 24 | Donhaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.donhaleiloes.com
+414 | Lucas | Lote 24 | Marangoni | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | https://marangoni.canaljudicial.com.br/
+415 | Lucas | Lote 24 | Odarlicanezinleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Preenchido   Poucas informações do Lote na página | https://odarlicanezinleiloes.com.br/
+416 | Lucas | Lote 24 | Cordeiroleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não é possível aceder a este site | www.cordeiroleiloes.com.br
+417 | Lucas | Lote 24 | Drrleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não é possível aceder a este site | www.drrleiloes.com.br
+418 | Lucas | Lote 25 | Machadoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | https://machadoleiloes.com.br/
+419 | Lucas | Lote 25 | Alanleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.alanleiloeiro.com.br
+420 | Lucas | Lote 25 | Izabellaferreiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Não é possível aceder a este site | https://izabellaferreiraleiloes.com.br/index.php
+421 | Lucas | Lote 25 | Marcoscostaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Preenchido   Alguns comandos funcionam no console do navegador, mas não funcionam no painel | https://marcoscostaleiloeiro.com.br/
+422 | Lucas | Lote 25 | Mauriciokronemberg | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Popup | https://mauriciokronemberg.com.br/index.php#
+423 | Lucas | Lote 25 | Ricardoperrirazleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   SISTEMA INDISPONÍVEL NO MOMENTO | https://www.ricardoperrirazleiloes.com.br/
+424 | Lucas | Lote 25 | Schulmannleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | https://schulmannleiloes.com.br/leilao/
+425 | Lucas | Lote 25 | alexandrecostaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | https://ssl1.visar.com.br/alexandrecostaleiloes.com.br/Principal.asp
+426 | Lucas | Lote 25 | gpleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | https://ssl1.visar.com.br/gpleilao.com.br/Principal.asp
+427 | Lucas | Lote 25 | leiloeirasilvani | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | https://ssl1.visar.com.br/leiloeirasilvani.com.br/Principal.asp
+428 | Lucas | Lote 26 | leiloeirolegentil | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | https://ssl1.visar.com.br/leiloeirolegentil.com.br/Principal.asp
+429 | Lucas | Lote 26 | octaviovianna | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | https://ssl1.visar.com.br/octaviovianna.lel.br/Principal.asp
+430 | Lucas | Lote 26 | ricardocorrealeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | https://ssl1.visar.com.br/ricardocorrealeiloes.com.br/Principal.asp
+431 | Lucas | Lote 26 | silasleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | https://ssl1.visar.com.br/silasleiloeiro.lel.br/Principal.asp
+432 | Lucas | Lote 26 | Albertolopesleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.albertolopesleiloeiro.com.br
+433 | Lucas | Lote 26 | Alvaroferreiraleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.alvaroferreiraleiloeiro.com.br
+434 | Lucas | Lote 26 | Anamelloleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.anamelloleiloeira.com.br
+435 | Lucas | Lote 26 | Andreadiniz | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.andreadiniz.com.br
+436 | Lucas | Lote 26 | Antonioferreira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.antonioferreira.lel.br
+437 | Lucas | Lote 26 | Bruceangeirasleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.bruceangeirasleiloeiro.com.br
+438 | Josh | Lote 27 | Camilaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.camilaleiloes.com.br
+439 | Josh | Lote 27 | Carlostourinholeiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.carlostourinholeiloeiro.com.br
+440 | Josh | Lote 27 | Carlucioleite | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.carlucioleite.com.br
+441 | Josh | Lote 27 | Castrolealleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.castrolealleiloes.com.br
+442 | Josh | Lote 27 | Conradoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.conradoleiloeiro.com.br
+443 | Josh | Lote 27 | Danielbastosleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.danielbastosleiloeiro.com.br
+444 | Josh | Lote 27 | Drartesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.drartesleiloes.com.br
+445 | Josh | Lote 27 | Dudagoesleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.dudagoesleiloes.com.br
+446 | Josh | Lote 27 | Duplaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.duplaleiloes.com.br
+447 | Josh | Lote 27 | Edgarcarvalholeiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.edgarcarvalholeiloeiro.com.br
+448 | Josh | Lote 28 | Ernanileiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.ernanileiloeiro.com.br
+449 | Josh | Lote 28 | Facanhaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.facanhaleiloes.com.br
+450 | Josh | Lote 28 | Fernandobraga | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.fernandobraga.lel.br
+451 | Josh | Lote 28 | Fredericoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.fredericoleiloes.com.br
+452 | Josh | Lote 28 | Galeriaalphaville | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.galeriaalphaville.com.br
+453 | Josh | Lote 28 | Jfleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.jfleiloeira.com.br
+454 | Josh | Lote 28 | Joaodefrancoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.joaodefrancoleiloeiro.com.br
+455 | Josh | Lote 28 | Joaoemilio | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.joaoemilio.com.br
+456 | Josh | Lote 28 | Jvleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.jvleiloes.lel.br
+457 | Josh | Lote 28 | Lagemmeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.lagemmeleiloes.com.br
+458 | Marcos | Lote 29 | Levyleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.levyleiloeiro.com.br
+459 | Marcos | Lote 29 | Lilileiloeira | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.lilileiloeira.com.br
+460 | Marcos | Lote 29 | Luizsergiopereira | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.luizsergiopereira.lel.br
+461 | Marcos | Lote 29 | Marciopinho | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.marciopinho.com.br
+462 | Marcos | Lote 29 | Marthapadilhaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.marthapadilhaleiloes.com
+463 | Marcos | Lote 29 | Meloleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.meloleiloeiro.com.br
+464 | Marcos | Lote 29 | Michelangeloleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.michelangeloleiloes.com.br
+465 | Marcos | Lote 29 | Murilochaves | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Seletores não funcionam | www.murilochaves.com.br
+466 | Marcos | Lote 29 | Nelsonleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.nelsonleiloeiro.com.br
+467 | Marcos | Lote 29 | Pedroalmeidaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Pendente  | www.pedroalmeidaleiloeiro.rio.br
+468 | Marcos | Lote 30 | Pedrosilvaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.pedrosilvaleiloeiro.com.br
+469 | Marcos | Lote 30 | Raulbarbosa | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.raulbarbosa.lel.br
+470 | Marcos | Lote 30 | Robertohaddad | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.robertohaddad.com.br
+471 | Marcos | Lote 30 | Rodrigocostaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Ok , Paginação  | www.rodrigocostaleiloeiro.com.br
+472 | Marcos | Lote 30 | Rogeriomenezes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Ok , Paginação  | www.rogeriomenezes.com.br
+473 | Marcos | Lote 30 | Rtleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro site nao cadastrado  | www.rtleiloes.com.br
+474 | Marcos | Lote 30 | Rymerleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Parâmetros   Ok  | www.rymerleiloes.com.br
+475 | Marcos | Lote 30 | Sergiorepresasleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.sergiorepresasleiloes.com.br
+476 | Marcos | Lote 30 | Sevidanesleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.sevidanesleiloeira.com.br
+477 | Marcos | Lote 30 | Tassianamenezes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:   | www.tassianamenezes.com.br
+478 | Breno | Lote 31 | Tavaresleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.tavaresleiloes.com.br
+479 | Breno | Lote 31 | Thaisqueirozleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.thaisqueirozleiloeira.com.br
+480 | Breno | Lote 31 | Valdirteixeiraleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.valdirteixeiraleiloeiro.com.br
+481 | Breno | Lote 31 | Valeriamilhenaleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.valeriamilhenaleiloeira.com.br
+482 | Breno | Lote 31 | Valmirmatos | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.valmirmatos.lel.br
+483 | Breno | Lote 31 | Veratostesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.veratostesleiloes.com.br
+484 | Breno | Lote 31 | Barretoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.barretoleiloes.com.br
+485 | Breno | Lote 31 | Ericoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ericoleiloes.com.br
+486 | Breno | Lote 31 | Ericosobral | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ericosobral.com.br
+488 | Breno | Lote 31 | Leiloesgoias | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesgoias.com.br
+489 | Breno | Lote 32 | Marcaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marcaleiloes.com.br
+490 | Breno | Lote 32 | Mikedutraleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mikedutraleiloeiro.com.br
+491 | Breno | Lote 32 | Dearaujoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://dearaujoleiloes.com.br/externo/
+492 | Breno | Lote 32 | Arrematabem | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.arrematabem.com.br
+493 | Breno | Lote 32 | Caiapoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.caiapoleiloes.com.br
+494 | Breno | Lote 32 | Escavador | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.escavador.com
+495 | Breno | Lote 32 | Leiloesbrasil | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesbrasil.com.br
+496 | Breno | Lote 32 | Leiloescentrooeste | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloescentrooeste.com.br
+497 | Breno | Lote 32 | Leiloesfederal | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesfederal.com.br
+498 | Breno | Lote 32 | Leilomaster | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilomaster.com.br
+499 | Matheus | Lote 33 | Luizleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.luizleiloes.com.br
+500 | Matheus | Lote 33 | Mgrleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mgrleiloes.com.br
+501 | Matheus | Lote 33 | Ismenialeiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://ismenialeiloeira.com.br/externo/
+502 | Matheus | Lote 33 | Isacleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://isacleiloes.com.br/
+503 | Matheus | Lote 33 | Leiloesbrasilcassiano | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://leiloesbrasilcassiano.com.br/
+504 | Matheus | Lote 33 | Leilofarm | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://leilofarm.com.br/
+505 | Matheus | Lote 33 | Marcusviniciusleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://marcusviniciusleiloes.com.br/
+506 | Matheus | Lote 33 | Stefanellileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://stefanellileiloes.com.br/
+507 | Matheus | Lote 33 | Wernerleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://wernerleiloes.com.br/
+508 | Matheus | Lote 33 | Aazevedoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.aazevedoleiloes.com.br
+509 | Matheus | Lote 34 | Arquimedesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.arquimedesleiloes.com.br
+510 | Marcos | Lote 34 | Bessaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bessaleiloes.com.br
+511 | Marcos | Lote 34 | Bolsadeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bolsadeleiloes.com.br
+512 | Marcos | Lote 34 | Falleirosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.falleirosleiloes.com.br
+513 | Marcos | Lote 34 | Ferreiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ferreiraleiloes.com.br
+514 | Marcos | Lote 34 | Jdleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.jdleiloes.com.br
+515 | Marcos | Lote 34 | Leiloesjudiciaismg | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesjudiciaismg.com.br
+516 | Marcos | Lote 34 | Leiloesjudiciaismgnorte | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesjudiciaismgnorte.com.br
+517 | Marcos | Lote 34 | Leiloesuberlandia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesuberlandia.com.br
+518 | Marcos | Lote 34 | Lilianportugal | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lilianportugal.com.br
+519 | Marcos | Lote 35 | Luizcampolina | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.luizcampolina.com.br
+520 | Marcos | Lote 35 | Luzialeiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.luzialeiloeira.com.br
+521 | Marcos | Lote 35 | Marcoantonioleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marcoantonioleiloeiro.com.br
+522 | Marcos | Lote 35 | Mozarleiloeseimoveis | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mozarleiloeseimoveis.com.br
+523 | Marcos | Lote 35 | Openleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.openleiloes.com.br
+524 | Marcos | Lote 35 | Patricialeiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.patricialeiloeira.com.br
+525 | Marcos | Lote 35 | Rafaelleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rafaelleiloeiro.com.br
+526 | Marcos | Lote 35 | Rochaleiloesbrasil | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rochaleiloesbrasil.com.br
+527 | Marcos | Lote 35 | Simoesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.simoesleiloes.com.br
+528 | Marcos | Lote 35 | Vitorcalableiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.vitorcalableiloes.com.br
+529 | Marcos | Lote 36 | Williamleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.williamleiloeiro.com.br
+530 | Marcos | Lote 36 | Wsleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.wsleiloes.com.br
+531 | Marcos | Lote 36 | Oesteleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.oesteleiloes.com.br
+532 | Marcos | Lote 36 | Peterlongoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.peterlongoleiloes.com.br
+533 | Marcos | Lote 36 | Abaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.abaleiloes.com.br
+534 | Marcos | Lote 36 | Amazonasleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.amazonasleiloes.com.br
+535 | Marcos | Lote 36 | Dmleiloesesjudiciais | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.dmleiloesesjudiciais.com.br
+536 | Marcos | Lote 36 | Francoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.francoleiloes.com.br
+537 | Marcos | Lote 36 | Galvanileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.galvanileiloes.com.br
+539 | Marcos | Lote 36 | Leiloesjudiciaisdf | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesjudiciaisdf.com.br
+540 | Marcos | Lote 37 | Mariafixerleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mariafixerleiloes.com.br
+541 | Marcos | Lote 37 | Morescoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.morescoleiloes.com.br
+542 | Marcos | Lote 37 | Mundoadvogados | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mundoadvogados.com.br
+543 | Marcos | Lote 37 | Norteleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.norteleiloes.com.br
+544 | Marcos | Lote 37 | Wrleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.wrleiloes.com.br
+545 | Marcos | Lote 37 | Emgeaimoveis | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://www.emgeaimoveis.com.br/
+546 | Marcos | Lote 37 | Araujoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://araujoleiloes.com.br/ 
+547 | Marcos | Lote 37 | Araujoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://araujoleiloes.com.br/sobre.php 
+548 | Marcos | Lote 37 | Lorgamikejevs | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://lorgamikejevs.com.br/home/poliana 
+549 | Marcos | Lote 37 | Ajleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ajleiloes.com.br
+550 | Marcos | Lote 38 | Alvaroantonioleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.alvaroantonioleiloes.com.br
+551 | Marcos | Lote 38 | Balbinoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.balbinoleiloes.com.br
+552 | Marcos | Lote 38 | Chbarbosaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.chbarbosaleiloes.com.br
+553 | Marcos | Lote 38 | Dasilvaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.dasilvaleiloes.com.br
+554 | Marcos | Lote 38 | Dl7Leiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.dl7leiloes.com.br
+555 | Marcos | Lote 38 | Econodata | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.econodata.com.br
+556 | Marcos | Lote 38 | Idleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.idleiloes.com.br
+557 | Marcos | Lote 38 | Kleiberleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.kleiberleiloes.com.br
+558 | Marcos | Lote 38 | Kleiberleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.kleiberleiloes.com.br 
+559 | Marcos | Lote 38 | Lumussaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lumussaleiloes.com.br
+560 | Marcos | Lote 39 | Matogrossoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.matogrossoleiloes.com.br
+561 | Marcos | Lote 39 | Mlleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mlleiloes.com.br 
+562 | Marcos | Lote 39 | Navesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.navesleiloes.com.br
+563 | Marcos | Lote 39 | Pantanalleiloesjudiciais | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.pantanalleiloesjudiciais.com.br
+564 | Marcos | Lote 39 | Paulobrasil | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.paulobrasil.com.br
+565 | Marcos | Lote 39 | Rgsleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rgsleiloes.com.br
+566 | Marcos | Lote 39 | Valdeirpereiraleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.valdeirpereiraleiloeiro.com.br
+567 | Marcos | Lote 39 | Braunaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://braunaleiloes.blogspot.com.br
+568 | Marcos | Lote 39 | Casadosdados | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://casadosdados.com.br/solucao/cnpj/maik-nunes-de-oliveira-leiloes-42331659000170
+569 | Marcos | Lote 39 | Guiafacil | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://guiafacil.com/site/saulo-luiz-bastos/anapolis/go/6233145043/
+570 | Marcos | Lote 40 | Vecchileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://vecchileiloes.com.br/
+571 | Lucas | Lote 40 | Aleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.aleiloeira.com.br
+572 | Lucas | Lote 40 | Bernardinileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bernardinileiloes.com.br
+573 | Lucas | Lote 40 | Innovaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.innovaleiloes.com.br
+574 | Lucas | Lote 40 | Jussiaraleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.jussiaraleiloes.com
+575 | Lucas | Lote 40 | Leilaoimovel | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaoimovel.com.br
+576 | Lucas | Lote 40 | Leiloesanapolis | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesanapolis.com.br
+577 | Lucas | Lote 40 | Leiloesjudiciaisgo | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesjudiciaisgo.com.br
+578 | Lucas | Lote 40 | Lkleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lkleiloes.com.br
+579 | Lucas | Lote 40 | Mclances | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mclances.com
+580 | Lucas | Lote 41 | Vecchileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.vecchileiloes.com.br
+581 | Lucas | Lote 41 | Batistaregisleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://batistaregisleiloes.com.br/externo/
+582 | Lucas | Lote 41 | Leiloestaniaabreu | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://leiloestaniaabreu.wixsite.com/leiloes/clients
+583 | Lucas | Lote 41 | Aguialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.aguialeiloes.com.br
+584 | Lucas | Lote 41 | Bezerraleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bezerraleiloes.com.br
+585 | Lucas | Lote 41 | Brandelleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.brandelleiloes.com.br
+586 | Lucas | Lote 41 | Centraldosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.centraldosleiloes.com.br
+587 | Lucas | Lote 41 | Erleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.erleiloes.com.br
+588 | Lucas | Lote 41 | Hastaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hastaleiloes.com.br
+589 | Lucas | Lote 41 | Hatoryleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hatoryleiloes.com.br
+590 | Lucas | Lote 42 | Kcleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.kcleiloes.com.br
+591 | Lucas | Lote 42 | Leiloescostaesilva | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloescostaesilva.com.br
+592 | Lucas | Lote 42 | Leiloesjudiciaisbahia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesjudiciaisbahia.com.br
+593 | Lucas | Lote 42 | Mpleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mpleiloes.com.br
+594 | Lucas | Lote 42 | Nordesteleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nordesteleiloes.com.br
+595 | Lucas | Lote 42 | Nortebahialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nortebahialeiloes.com.br
+597 | Lucas | Lote 42 | Leiloeirolunelli | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://leiloeirolunelli.com.br/
+598 | Lucas | Lote 42 | Rittaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://rittaleiloes.leiloeiros.lel.br/site.php?action=index
+599 | Lucas | Lote 42 | Alencastroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://alencastroleiloes.com.br/
+600 | Lucas | Lote 42 | Fauthleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://fauthleiloes.com.br/
+601 | Lucas | Lote 43 | Ferotta | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://ferotta.wixsite.com/feliperottaleiloes
+602 | Lucas | Lote 43 | Pineiroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://pineiroleiloes.com.br/
+603 | Lucas | Lote 43 | Swleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://swleiloes.com.br/?pg=principal
+604 | Lucas | Lote 43 | Abpleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.abpleiloes.com
+605 | Lucas | Lote 43 | Alexsandroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.alexsandroleiloes.com.br
+606 | Lucas | Lote 43 | Arremate | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.arremate.lel.br
+607 | Lucas | Lote 43 | Awleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.awleiloes.com.br
+608 | Lucas | Lote 43 | Benedettoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.benedettoleiloes.com.br
+609 | Lucas | Lote 43 | Bertoncello | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bertoncello.lel.br
+610 | Lucas | Lote 43 | Bolzanleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bolzanleiloes.com.br
+611 | Lucas | Lote 44 | Callegaroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.callegaroleiloes.lel.br
+613 | Lucas | Lote 44 | Carlosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.carlosleiloes.com.br
+614 | Lucas | Lote 44 | Clicleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.clicleilao.com.br
+615 | Lucas | Lote 44 | Correaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.correaleiloes.com.br
+616 | Lucas | Lote 44 | Cristianoescolaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.cristianoescolaleiloes.com.br
+617 | Lucas | Lote 44 | Ctsleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ctsleiloes.com.br
+618 | Lucas | Lote 44 | Feldensleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.feldensleiloes.lel.br
+619 | Lucas | Lote 44 | Finattoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.finattoleiloes.com.br
+620 | Lucas | Lote 44 | Fumagallileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.fumagallileiloes.com.br
+622 | Lucas | Lote 44 | Ineuleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ineuleiloes.com.br
+623 | Lucas | Lote 45 | Jorgebrasil | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.jorgebrasil.lel.br
+624 | Lucas | Lote 45 | Kielleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.kielleiloes.com.br
+625 | Lucas | Lote 45 | Kriegerleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.kriegerleiloes.com.br
+626 | Lucas | Lote 45 | Leilaobutia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaobutia.com
+627 | Lucas | Lote 45 | Leiloeiraoficial | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeiraoficial.com
+628 | Lucas | Lote 45 | Leiloeirobonatto | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeirobonatto.com.br
+629 | Lucas | Lote 45 | Leiloeirolunelli | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeirolunelli.com.br
+630 | Lucas | Lote 45 | Leiloesbonfadini | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesbonfadini.com.br
+631 | Lucas | Lote 45 | Leiloescb | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloescb.com.br
+632 | Lucas | Lote 45 | Lucianleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lucianleiloes.com.br
+633 | Lucas | Lote 46 | Marcelocemin | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marcelocemin.lel.br
+634 | Matheus | Lote 46 | Mateusleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mateusleiloes.com.br
+635 | Matheus | Lote 46 | Michellileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.michellileiloes.com.br
+636 | Matheus | Lote 46 | Miottileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.miottileiloes.com.br
+637 | Matheus | Lote 46 | Muckleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.muckleiloes.com.br
+639 | Matheus | Lote 46 | Oroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.oroleiloes.lel.br
+640 | Matheus | Lote 46 | Qleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.qleilao.lel.br
+641 | Matheus | Lote 46 | Raotaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.raotaleiloes.com.br
+642 | Matheus | Lote 46 | Rechleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rechleiloes.com.br
+643 | Matheus | Lote 46 | Ruipintoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ruipintoleiloeiro.com.br
+644 | Matheus | Lote 47 | Santoseborinleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.santoseborinleiloes.com.br
+645 | Matheus | Lote 47 | Sulleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.sulleiloes.com.br
+646 | Matheus | Lote 47 | Tradeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.tradeleiloes.com.br
+647 | Matheus | Lote 47 | Turanileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.turanileiloes.com.br
+648 | Matheus | Lote 47 | Zagoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.zagoleiloes.com.br
+649 | Matheus | Lote 47 | Leiloesfreire | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesfreire.com.br
+650 | Matheus | Lote 47 | Ebleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://ebleiloes.com.br/
+651 | Matheus | Lote 47 | Anandaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://anandaleiloes.com.br/
+652 | Matheus | Lote 47 | Arnaldoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://arnaldoleiloes.com.br/home/
+653 | Matheus | Lote 47 | Asleiloeiros | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://asleiloeiros.com.br/site/index.php
+654 | Matheus | Lote 48 | Franciscodavidleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://franciscodavidleiloeiro.com.br/
+655 | Matheus | Lote 48 | Albuquerquelins | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.albuquerquelins.com.br
+656 | Matheus | Lote 48 | Brfleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.brfleiloes.com.br
+657 | Matheus | Lote 48 | Casaleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.casaleiloeira.com.br
+658 | Matheus | Lote 48 | Crleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.crleiloes.com.br
+659 | Matheus | Lote 48 | Errolflynnleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.errolflynnleiloes.com.br
+660 | Matheus | Lote 48 | Gcnleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gcnleiloes.com.br
+661 | Matheus | Lote 48 | Leilaodoesporte | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaodoesporte.com.br
+662 | Matheus | Lote 48 | Marianoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marianoleiloes.com.br
+663 | Matheus | Lote 48 | Vitorbraga | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.vitorbraga.com.br
+664 | Matheus | Lote 49 | Guiaja | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://guiaja.net/pt/empresas/ma/sao-luis/leiloeiros/wesley-durval-palhais-a-pereira_6760385+4.html
+665 | Matheus | Lote 49 | Dcmleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.dcmleiloes.com.br
+666 | Matheus | Lote 49 | Lealleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lealleiloes.com.br
+667 | Matheus | Lote 49 | Ipcleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ipcleiloes.com.br 
+668 | Matheus | Lote 49 | Andrearaujoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.andrearaujoleiloes.com.br
+669 | Matheus | Lote 49 | Britoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.britoleiloes.com.br
+670 | Matheus | Lote 49 | Desouzaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.desouzaleiloes.com.br
+671 | Matheus | Lote 49 | Euroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.euroleiloes.com.br
+672 | Matheus | Lote 49 | Hcleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hcleiloes.com.br
+673 | Matheus | Lote 49 | Ipcleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ipcleiloes.com.br
+674 | Matheus | Lote 50 | Lanceja | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lanceja.com.br
+675 | Matheus | Lote 50 | Leiloesonlinems | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesonlinems.com.br
+676 | Matheus | Lote 50 | Mariafixerleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mariafixerleiloes.com.br 
+677 | Matheus | Lote 50 | Planaltoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.planaltoleiloes.com.br
+678 | Matheus | Lote 50 | Vialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.vialeiloes.com.br
+679 | Matheus | Lote 50 | Torresleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://torresleiloes.com.br/quemsomos.html
+680 | Matheus | Lote 50 | Urlm | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://urlm.com.br/www.getulioleiloes.com.br
+681 | Matheus | Lote 50 | Armandogrelloadvocacia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://armandogrelloadvocacia.com.br/
+682 | Matheus | Lote 50 | Autopinheiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://autopinheiro.com/inicial/
+683 | Matheus | Lote 50 | Transparencia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://transparencia.cc/dados/socios/337143/eveline-chaves-lages-albuquerque-costa/
+684 | Matheus | Lote 51 | Maestroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.maestroleiloes.com.br
+685 | Matheus | Lote 51 | Pamplonaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.pamplonaleiloes.com.br
+686 | Matheus | Lote 51 | Leiloes-Maia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://leiloes-maia.ueniweb.com/
+687 | Matheus | Lote 51 | Brittoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.brittoleiloes.com.br
+688 | Matheus | Lote 51 | Cassianoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.cassianoleiloes.com.br
+689 | Matheus | Lote 51 | Coliseumleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.coliseumleiloes.com.br
+690 | Matheus | Lote 51 | Gracieleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gracieleiloes.com.br
+691 | Matheus | Lote 51 | Hastaleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hastaleilao.com.br
+692 | Matheus | Lote 51 | Inovaleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.inovaleilao.com.br
+693 | Matheus | Lote 51 | Lancecertoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lancecertoleiloes.com.br
+694 | Matheus | Lote 52 | Leiloeselo | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeselo.com.br
+695 | Breno | Lote 52 | Liderancaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.liderancaleiloes.com.br
+696 | Breno | Lote 52 | Sergiooliveiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.sergiooliveiraleiloes.com.br
+697 | Breno | Lote 52 | Rondonialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rondonialeiloes.com.br
+698 | Breno | Lote 52 | Veraleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.veraleiloes.com.br
+699 | Breno | Lote 52 | Guilhermeibagy | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://guilhermeibagy.com.br/
+700 | Breno | Lote 52 | Carmencapellaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://carmencapellaleiloes.com/
+701 | Breno | Lote 52 | Correaquinhonesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://correaquinhonesleiloes.com.br/
+702 | Breno | Lote 52 | Donizetteleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://donizetteleiloes.com.br/app/home/
+703 | Breno | Lote 52 | Ghisimachadoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://ghisimachadoleiloes.com.br/
+704 | Breno | Lote 53 | Leiloesulsc | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://leiloesulsc.com/Default
+706 | Breno | Lote 53 | Ramosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://ramosleiloes.com.br/app/home/
+707 | Breno | Lote 53 | Zampierileiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://zampierileiloeiro.com.br/
+708 | Breno | Lote 53 | Bampileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bampileiloes.com.br
+709 | Breno | Lote 53 | Casadoleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.casadoleilao.com
+710 | Breno | Lote 53 | Catarinaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.catarinaleiloes.com.br
+711 | Breno | Lote 53 | Celioleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.celioleiloeiro.com.br
+712 | Breno | Lote 53 | Damianileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.damianileiloes.com.br
+713 | Breno | Lote 53 | Daux | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.daux.com.br
+714 | Breno | Lote 53 | Espressoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.espressoleiloes.com.br
+715 | Breno | Lote 54 | Fabriccaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.fabriccaleiloes.com.br
+716 | Breno | Lote 54 | Gustavoreisleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gustavoreisleiloes.com.br
+717 | Breno | Lote 54 | Leialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leialeiloes.com.br
+718 | Breno | Lote 54 | Leiloesalarcon | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesalarcon.com.br
+719 | Breno | Lote 54 | Magarte | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.magarte.com.br
+720 | Breno | Lote 54 | Marcoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marcoleiloes.com.br
+721 | Breno | Lote 54 | Maxxleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.maxxleiloes.com.br
+722 | Breno | Lote 54 | Nelcileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nelcileiloes.com.br
+723 | Breno | Lote 54 | Omega1Leiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.omega1leiloes.com.br
+724 | Breno | Lote 54 | Sampaioleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.sampaioleiloes.com.br
+725 | Breno | Lote 55 | Serpaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.serpaleiloes.com.br
+727 | Breno | Lote 55 | Terramarleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.terramarleiloes.com.br
+728 | Breno | Lote 55 | Topleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.topleiloes.com.br
+729 | Breno | Lote 55 | Zampierileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.zampierileiloes.com.br
+730 | Breno | Lote 55 | Leiloesmarcoantonio | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://leiloesmarcoantonio.com.br/
+731 | Breno | Lote 55 | Arrematabem | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://arrematabem.com.br/
+732 | Breno | Lote 55 | Leiloesbrasilto | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://leiloesbrasilto.com.br/clientes
+733 | Breno | Lote 55 | Baraodosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.baraodosleiloes.com.br
+734 | Breno | Lote 55 | Leiloeiroeduardo | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeiroeduardo.com.br
+735 | Breno | Lote 55 | Leiloesmwd | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesmwd.com.br
+736 | Breno | Lote 56 | Buaizleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.buaizleiloes.com.br
+737 | Breno | Lote 56 | Cearaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://cearaleiloes.com.br/index/quem-somos 
+738 | Breno | Lote 56 | Memeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://memeleiloes.blogspot.com
+739 | Breno | Lote 56 | Olianileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://olianileiloes.com.br/
+740 | Breno | Lote 56 | Realleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://realleiloes.com.br/
+741 | Breno | Lote 56 | Abrantesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.abrantesleiloes.com
+742 | Breno | Lote 56 | Adringleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.adringleiloes.com.br
+743 | Breno | Lote 56 | Anabrasilleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.anabrasilleiloes.com.br
+744 | Breno | Lote 56 | Apolianaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.apolianaleiloes.com.br
+745 | Breno | Lote 56 | Araujoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.araujoleiloes.com.br
+746 | Breno | Lote 57 | Arremateleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.arremateleiloes.com.br
+747 | Breno | Lote 57 | Asamileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.asamileiloes.com.br
+748 | Breno | Lote 57 | Ascleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ascleiloes.com.br
+749 | Breno | Lote 57 | Brasilialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.brasilialeiloes.com.br
+750 | Breno | Lote 57 | Brunoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.brunoleiloes.com.br
+751 | Breno | Lote 57 | Canezinleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.canezinleiloes.com
+752 | Breno | Lote 57 | Celsocunhaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.celsocunhaleiloes.com.br
+753 | Breno | Lote 57 | Colossoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.colossoleiloes.com.br
+754 | Breno | Lote 57 | Consultasocio | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.consultasocio.com
+755 | Breno | Lote 57 | Costanetoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.costanetoleiloeiro.com.br
+756 | Breno | Lote 58 | Djanirleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.djanirleiloes.com.br
+757 | Josh | Lote 58 | E-Leiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.e-leiloeiro.com.br
+758 | Josh | Lote 58 | Emesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.emesleiloes.com.br
+759 | Josh | Lote 58 | Emleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.emleilao.com.br
+760 | Josh | Lote 58 | Emleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.emleiloes.com.br
+761 | Josh | Lote 58 | Esleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.esleiloes.com.br
+762 | Josh | Lote 58 | Flexleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.flexleiloes.com.br
+763 | Josh | Lote 58 | Gbleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gbleiloes.com.br
+764 | Josh | Lote 58 | Hdleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hdleiloes.com.br
+765 | Josh | Lote 58 | Joelcocenzaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.joelcocenzaleiloeiro.com.br
+766 | Josh | Lote 59 | Jotaerreleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.jotaerreleiloes.com.br
+767 | Josh | Lote 59 | Lancecertoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lancecertoleiloes.com.br 
+768 | Josh | Lote 59 | Leilaomanaus | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaomanaus.lel.br
+769 | Josh | Lote 59 | Leilaoseguro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaoseguro.org.br
+770 | Josh | Lote 59 | Leilaovip10 | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaovip10.com.br 
+771 | Josh | Lote 59 | Leilobras | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilobras.lel.br
+772 | Josh | Lote 59 | Leiloeirosdebrasilia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeirosdebrasilia.com.br
+773 | Josh | Lote 59 | Leiloes61 | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloes61.com.br
+774 | Josh | Lote 59 | Leiloesaraujo | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesaraujo.com.br
+775 | Josh | Lote 59 | Leiloesdonorte | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesdonorte.com.br
+776 | Josh | Lote 60 | Leiloes-Es | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloes-es.com.br
+777 | Josh | Lote 60 | Leiloesfreitas | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesfreitas.lel.br
+778 | Josh | Lote 60 | Leiloesnazareth | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesnazareth.com.br
+779 | Josh | Lote 60 | Leiloespb | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloespb.com.br
+780 | Josh | Lote 60 | Leilofacil | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilofacil.lel.br
+781 | Josh | Lote 60 | Loteleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.loteleiloes.com.br
+782 | Josh | Lote 60 | Mariavitorinoleiloira@Gmail | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mariavitorinoleiloira@gmail.com
+783 | Josh | Lote 60 | Marquesbarretoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marquesbarretoleiloes.com.br
+784 | Josh | Lote 60 | Maycosantos | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.maycosantos.lel.br
+785 | Josh | Lote 60 | Mmleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mmleiloes.com
+786 | Josh | Lote 61 | Moacira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.moacira.lel.br
+787 | Josh | Lote 61 | Montenegroleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.montenegroleiloes.com.br
+788 | Josh | Lote 61 | Nasarleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nasarleiloes.com.br
+789 | Josh | Lote 61 | Nolileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nolileiloes.com.br
+790 | Josh | Lote 61 | Parquedosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.parquedosleiloes.com.br
+791 | Josh | Lote 61 | Paulotolentino | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.paulotolentino.com.br
+792 | Josh | Lote 61 | Raildacosta | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.raildacosta.com.br
+793 | Josh | Lote 61 | Realizaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.realizaleiloes.com.br
+794 | Josh | Lote 61 | Realizeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.realizeleiloes.com.br
+795 | Josh | Lote 61 | Rotadosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rotadosleiloes.com.br
+796 | Josh | Lote 62 | Suedpeterleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.suedpeterleiloes.com.br
+797 | Josh | Lote 62 | Sydneyleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.sydneyleiloes.com.br
+798 | Josh | Lote 62 | Tophouseleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.tophouseleiloes.com
+799 | Josh | Lote 62 | Unicoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.unicoleiloes.com.br
+800 | Josh | Lote 62 | Universodosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.universodosleiloes.com.br
+801 | Josh | Lote 62 | Vixleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.vixleiloes.com.br
+802 | Josh | Lote 62 | Vlleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.vlleiloes.com.br
+803 | Josh | Lote 62 | Leiloeiro.lel | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeiro.lel.br
+805 | Josh | Lote 62 | alveseyoshiy | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://www.alveseyoshiy.com.br
+806 | Josh | Lote 62 | ambraleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://www.ambraleiloes.com.br
+807 | Josh | Lote 62 | dalcanaleleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://dalcanaleleiloes.com.br/
+113 | Josh | Lote 63 | Onildobastos | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.onildobastos.com.br
+118 | Josh | Lote 63 | Andrealeiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.andrealeiloeira.lel.br
+200 | Josh | Lote 63 | Alinemarquesleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.alinemarquesleiloeira.lel.br
+201 | Josh | Lote 63 | Britesleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.britesleiloeiro.com.br
+202 | Josh | Lote 63 | Marioricart | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marioricart.lel.br
+30 | Josh | Lote 63 | Globoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Cloudflare | https://globoleiloes.com.br/leilao/lote/6781/sao-paulo-sp-moema--imovel-residencial-397m
+76 | Josh | Lote 63 | Amleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Cloudflare | www.amleiloeiro.com.br
+68 | Josh | Lote 63 | Agsleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Cloudflare | www.agsleiloes.com.br
+46 | Josh | Lote 63 | Gustavoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gustavoleiloeiro.lel.br
+59 | Josh | Lote 63 | Bspleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bspleiloes.com.br
+112 | Josh | Lote 63 | Mauromarcello | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mauromarcello.lel.br
+123 | Josh | Lote 63 | Clebercardosoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.clebercardosoleiloes.com.br
+203 | Josh | Lote 63 | Bigleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bigleilao.com.br
+204 | Josh | Lote 63 | Omcleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.omcleiloes.com.br
+8 | Josh | Lote 63 | D1Lance | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Cloudflare | www.d1lance.com.br
+20 | Josh | Lote 63 | Webleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Errp Cloudflare  | www.webleiloes.com.br
+70 | Josh | Lote 63 | Gaialeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax | https://www.gaialeiloes.com.br/lote/jardim-paulista-sao-paulo-sp/158/
+72 | Josh | Lote 63 | felipefrazao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Internal server error | https://felipefrazao.com.br/imoveis/loja-comercial/loja-no-rio-de-janeiro-rj-17275-19853
+73 | Josh | Lote 63 | Franklinleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Cloudflare | www.franklinleiloes.com.br
+84 | Josh | Lote 63 | Oaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax | www.oaleiloes.com.br
+88 | Josh | Lote 63 | Argonetworkleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | www.argonetworkleiloes.com.br
+82 | TBD | HOLD - SISTEMAS Leilão PRO | Medeirosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.medeirosleiloes.com.br
+92 | TBD | HOLD - SISTEMAS Leilão PRO | Leiloesjvfarias | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesjvfarias.com.br
+101 | TBD | HOLD - SISTEMAS Leilão PRO | Pietosoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.pietosoleiloes.com.br
+108 | TBD | HOLD - SISTEMAS Leilão PRO | Hastapublica | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hastapublica.com.br
+108 | TBD | HOLD - SISTEMAS Leilão PRO | Hastapublica | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.hastapublica.lel.br
+127 | TBD | HOLD - SISTEMAS Leilão PRO | Dldleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.dldleiloeiro.com.br
+128 | TBD | HOLD - SISTEMAS Leilão PRO | Evolveleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.evolveleiloes.com.br
+129 | TBD | HOLD - SISTEMAS Leilão PRO | Gtleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gtleiloes.com.br
+131 | TBD | HOLD - SISTEMAS Leilão PRO | Leffaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leffaleiloes.com.br
+140 | TBD | HOLD - SISTEMAS Leilão PRO | Nsleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nsleiloes.lel.br
+144 | TBD | HOLD - SISTEMAS Leilão PRO | Santamarialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.santamarialeiloes.com.br
+145 | TBD | HOLD - SISTEMAS Leilão PRO | Santayanaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.santayanaleiloes.com.br
+150 | TBD | HOLD - SISTEMAS Leilão PRO | Jacleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.jacleiloes.com.br
+151 | TBD | HOLD - SISTEMAS Leilão PRO | Sandroleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.sandroleiloeiro.com.br
+152 | TBD | HOLD - SISTEMAS Leilão PRO | Wendelgarcia | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.wendelgarcia.com.br
+153 | TBD | HOLD - SISTEMAS Leilão PRO | Agenciadeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.agenciadeleiloes.com.br
+154 | TBD | HOLD - SISTEMAS Leilão PRO | Amtleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.amtleiloes.com.br
+155 | TBD | HOLD - SISTEMAS Leilão PRO | Arnoldoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.arnoldoleiloes.com.br
+156 | TBD | HOLD - SISTEMAS Leilão PRO | Bartmannleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bartmannleiloes.com.br
+157 | TBD | HOLD - SISTEMAS Leilão PRO | Bianchileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bianchileiloes.com.br
+158 | TBD | HOLD - SISTEMAS Leilão PRO | Bidgo | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bidgo.com.br
+159 | TBD | HOLD - SISTEMAS Leilão PRO | Clademirleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.clademirleiloeiro.com.br
+160 | TBD | HOLD - SISTEMAS Leilão PRO | Clovisleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.clovisleiloeiro.com.br
+161 | TBD | HOLD - SISTEMAS Leilão PRO | Cpkleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.cpkleiloes.com.br
+162 | TBD | HOLD - SISTEMAS Leilão PRO | Dalaqualeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.dalaqualeiloes.com.br
+163 | TBD | HOLD - SISTEMAS Leilão PRO | Deborabarzleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.deborabarzleiloes.com.br
+164 | TBD | HOLD - SISTEMAS Leilão PRO | Eduardovivian | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.eduardovivian.com.br
+165 | TBD | HOLD - SISTEMAS Leilão PRO | Fariasleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.fariasleiloes.com.br
+166 | TBD | HOLD - SISTEMAS Leilão PRO | Fernandaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.fernandaleiloes.lel.br
+167 | TBD | HOLD - SISTEMAS Leilão PRO | Gabrielleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gabrielleiloes.com.br
+168 | TBD | HOLD - SISTEMAS Leilão PRO | Jhcleiloeirooficial | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.jhcleiloeirooficial.lel.br
+169 | TBD | HOLD - SISTEMAS Leilão PRO | Juleiloeira | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.juleiloeira.com.br
+170 | TBD | HOLD - SISTEMAS Leilão PRO | Leiloeirobarbieri | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeirobarbieri.com.br
+171 | TBD | HOLD - SISTEMAS Leilão PRO | Leiloeirojudicial | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeirojudicial.lel.br
+172 | TBD | HOLD - SISTEMAS Leilão PRO | Leomarkirinusleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leomarkirinusleiloes.com.br
+173 | TBD | HOLD - SISTEMAS Leilão PRO | Lessaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lessaleiloes.com.br
+174 | TBD | HOLD - SISTEMAS Leilão PRO | Lipinskileiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lipinskileiloes.com.br
+175 | TBD | HOLD - SISTEMAS Leilão PRO | Luciverareisleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.luciverareisleiloes.com.br
+176 | TBD | HOLD - SISTEMAS Leilão PRO | Marceloleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.marceloleiloeiro.com.br
+177 | TBD | HOLD - SISTEMAS Leilão PRO | Mpleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mpleilao.com.br
+178 | TBD | HOLD - SISTEMAS Leilão PRO | Rabuskeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rabuskeleiloes.com.br
+179 | TBD | HOLD - SISTEMAS Leilão PRO | Rangelleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rangelleiloes.com.br
+180 | TBD | HOLD - SISTEMAS Leilão PRO | Rauppleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rauppleiloes.com.br
+181 | TBD | HOLD - SISTEMAS Leilão PRO | Regionalleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.regionalleiloes.com.br
+182 | TBD | HOLD - SISTEMAS Leilão PRO | Rzleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rzleiloes.com.br
+183 | TBD | HOLD - SISTEMAS Leilão PRO | Scheidleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.scheidleiloes.com.br
+184 | TBD | HOLD - SISTEMAS Leilão PRO | Scholanteleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.scholanteleiloes.com.br
+185 | TBD | HOLD - SISTEMAS Leilão PRO | Superleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.superleiloes.net
+186 | TBD | HOLD - SISTEMAS Leilão PRO | Szortykaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.szortykaleiloes.com.br
+187 | TBD | HOLD - SISTEMAS Leilão PRO | Tonialleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.tonialleiloes.com.br
+188 | TBD | HOLD - SISTEMAS Leilão PRO | Trevisanleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.trevisanleiloes.com.br
+189 | TBD | HOLD - SISTEMAS Leilão PRO | Utzigleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.utzigleiloes.com.br
+190 | TBD | HOLD - SISTEMAS Leilão PRO | Veronicaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.veronicaleiloes.com.br
+191 | TBD | HOLD - SISTEMAS Leilão PRO | Vidalleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.vidalleiloes.com.br
+192 | TBD | HOLD - SISTEMAS Leilão PRO | Zaccariasleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.zaccariasleiloes.com.br
+193 | TBD | HOLD - SISTEMAS Leilão PRO | Zuccalmaglioleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.zuccalmaglioleiloes.com.br
+194 | TBD | HOLD - SISTEMAS Leilão PRO | Suzanacarvalholeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.suzanacarvalholeiloes.com.br
+195 | TBD | HOLD - SISTEMAS Leilão PRO | Deluccaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.deluccaleiloes.com.br
+196 | TBD | HOLD - SISTEMAS Leilão PRO | Publico Renovarleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.publico.renovarleiloes.com.br
+197 | TBD | HOLD - SISTEMAS Leilão PRO | Sbleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.sbleiloes.lel.br
+198 | TBD | HOLD - SISTEMAS Leilão PRO | Bsbleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | http://ww.bsbleiloes.com.br/
+199 | TBD | HOLD - SISTEMAS Leilão PRO | Bsbleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bsbleiloes.com.br
+14 | TBD | HOLD - SISTEMAS Soleon | Isaiasleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://isaiasleiloes.com.br/item/10185/detalhes?page=1
+19 | TBD | HOLD - SISTEMAS Soleon | Leiloesceruli | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesceruli.com.br
+32 | TBD | HOLD - SISTEMAS Soleon | Leiloesgold | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesgold.com.br
+44 | TBD | HOLD - SISTEMAS Soleon | Joaoluizleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.joaoluizleiloes.com.br
+49 | TBD | HOLD - SISTEMAS Soleon | Bestleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://bestleiloes.com.br/item/11372/detalhes?page=1
+52 | TBD | HOLD - SISTEMAS Soleon | Tmleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.tmleiloes.com.br
+54 | TBD | HOLD - SISTEMAS Soleon | Danielgarcialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.danielgarcialeiloes.com.br
+60 | TBD | HOLD - SISTEMAS Soleon | Cardosoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.cardosoleiloes.com.br
+65 | TBD | HOLD - SISTEMAS Soleon | Leilaopernambuco | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaopernambuco.com.br
+94 | TBD | HOLD - SISTEMAS Soleon | Agencialeilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.agencialeilao.com.br
+135 | TBD | HOLD - SISTEMAS Soleon | Mleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mleiloes.com.br
+137 | TBD | HOLD - SISTEMAS Soleon | Mullerleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mullerleiloes.com.br
+142 | TBD | HOLD - SISTEMAS Soleon | Rjleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.rjleiloes.com.br
+205 | TBD | HOLD - SISTEMAS Soleon | Cencin | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://cencin.com.br/
+206 | TBD | HOLD - SISTEMAS Soleon | Andradeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.andradeleiloes.com.br
+207 | TBD | HOLD - SISTEMAS Soleon | Benozzati | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.benozzati.com.br
+208 | TBD | HOLD - SISTEMAS Soleon | Cencin | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.cencin.com.br
+209 | TBD | HOLD - SISTEMAS Soleon | Conceitoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.conceitoleiloes.com.br
+210 | TBD | HOLD - SISTEMAS Soleon | Damasioleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.damasioleiloes.com.br
+211 | TBD | HOLD - SISTEMAS Soleon | Lanceleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lanceleiloes.com.br
+212 | TBD | HOLD - SISTEMAS Soleon | Lecapeleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lecapeleiloes.com.br
+213 | TBD | HOLD - SISTEMAS Soleon | Lopesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lopesleiloes.com.br
+214 | TBD | HOLD - SISTEMAS Soleon | Martelodigital | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.martelodigital.com.br
+215 | TBD | HOLD - SISTEMAS Soleon | Nossoleilao | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.nossoleilao.com.br
+216 | TBD | HOLD - SISTEMAS Soleon | Diegoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://diegoleiloes.com.br/
+217 | TBD | HOLD - SISTEMAS Soleon | Leiloeironacif | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloeironacif.com
+218 | TBD | HOLD - SISTEMAS Soleon | Machadoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.machadoleiloeiro.com.br
+219 | TBD | HOLD - SISTEMAS Soleon | Snleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://snleiloes.com.br/quem-somos
+220 | TBD | HOLD - SISTEMAS Soleon | Leiloesaguiar | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesaguiar.com.br
+221 | TBD | HOLD - SISTEMAS Soleon | Leiloesrionegro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leiloesrionegro.com.br
+222 | TBD | HOLD - SISTEMAS Soleon | Pimentelleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.pimentelleiloes.com.br
+223 | TBD | HOLD - SISTEMAS Soleon | Faleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://faleiloes.com.br/ 
+224 | TBD | HOLD - SISTEMAS Soleon | Isabelleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://isabelleiloes.com.br/
+225 | TBD | HOLD - SISTEMAS Soleon | Patiorochaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.patiorochaleiloes.com.br
+226 | TBD | HOLD - SISTEMAS Soleon | Alemaoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.alemaoleiloeiro.com.br
+227 | TBD | HOLD - SISTEMAS Soleon | Backleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.backleiloes.com.br
+228 | TBD | HOLD - SISTEMAS Soleon | Bronzattoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.bronzattoleiloes.com.br
+229 | TBD | HOLD - SISTEMAS Soleon | Ferronatoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.ferronatoleiloes.com.br
+230 | TBD | HOLD - SISTEMAS Soleon | Leilaosantos | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.leilaosantos.com.br
+231 | TBD | HOLD - SISTEMAS Soleon | Mgleiloes-Rs | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.mgleiloes-rs.com.br
+232 | TBD | HOLD - SISTEMAS Soleon | Alexandrepedrosaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.alexandrepedrosaleiloeiro.com.br
+233 | TBD | HOLD - SISTEMAS Soleon | Farialeiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.farialeiloes.com.br
+234 | TBD | HOLD - SISTEMAS Soleon | Grleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.grleiloes.com
+235 | TBD | HOLD - SISTEMAS Soleon | Italoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.italoleiloes.com  
+236 | TBD | HOLD - SISTEMAS Soleon | Macedoleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.macedoleiloes.com.br
+237 | TBD | HOLD - SISTEMAS Soleon | Varonesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.varonesleiloes.com.br
+238 | TBD | HOLD - SISTEMAS Soleon | Victordortaleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | https://victordortaleiloes.com.br/quem-somos
+239 | TBD | HOLD - SISTEMAS Soleon | Colodeteleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.colodeteleiloes.com.br
+240 | TBD | HOLD - SISTEMAS Soleon | Gracamedeirosleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.gracamedeirosleiloes.com.br
+241 | TBD | HOLD - SISTEMAS Soleon | Infinityleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.infinityleiloes.com.br
+242 | TBD | HOLD - SISTEMAS Soleon | Lancese | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lancese.com.br
+243 | TBD | HOLD - SISTEMAS Soleon | Lopesleiloes | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.lopesleiloes.net.br
+244 | TBD | HOLD - SISTEMAS Soleon | Pereiraleiloesce | Seletores: | Paginação: | Visualização: | Revisado:Status Anterior:  | www.pereiraleiloesce.com.br
