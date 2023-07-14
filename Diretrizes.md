@@ -29,11 +29,11 @@ Ele mostra disponibiliza no final 5 páginas cadastradas.
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/967469e1-e3e6-4a70-8627-e4421ad75615)
 
-Ao clicar neles será exibida a página em nosso servidor. (não precisa ficar testando)
+Ao clicar neles será exibida a página em nosso servidor. (Interessante clicar em uma para ver a exibição)
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/e0cda1ec-8850-4c10-a746-c8b8db93bc17)
 
-Na planilha disponível no fim da página em download, podemos ver alguns links e o resultado da busca dos seletores. (Esse é legal ver)
+Na planilha disponível no fim da página em download, podemos ver alguns links e o resultado da busca dos seletores. (Este é interessante analisar para validar o preenchimento)
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/a4efa3b4-38c6-4e34-85e1-0007cda86627)
 
