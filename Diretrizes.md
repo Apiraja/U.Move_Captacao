@@ -1,5 +1,42 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
+# 17/07
+
+## Complemento sobre paginação
+
+#### No caso abaixo:
+
+https://www.mrleiloes.com.br/lotes/1234/abcd
+
+Onde 1234 e abcd são variáveis, devemos preencher da seguinte maneira
+
+https://www.mrleiloes.com.br/lotes/{slug} - SIM
+
+Podemos preencher também das maneiras abaixo. Mas vamos simplificar e usar a de cima.
+
+https://www.mrleiloes.com.br/lotes/{slug2}/{slug1} - SIM
+
+https://www.mrleiloes.com.br/lotes/{numeros}/{letras} - SIM
+
+#### O que não devemos fazer: 
+
+Não pode usar vazio {}
+
+e não pode usar 2 {slug} {slug} na mesma url, mas da pra usar {slug1} {slug2} por exemplo
+
+https://www.mrleiloes.com.br/lotes/{} - NAO
+https://www.mrleiloes.com.br/lotes/{}/{} - NAO
+https://www.mrleiloes.com.br/lotes/{slug}/{slug} - NAO
+
+#### No caso abaixo na URL paginação, onde há alteração de páginas por um número na URL:
+
+https://www.mrleiloes.com.br/lotes/1conteúdo#
+https://www.mrleiloes.com.br/lotes/2conteúdo#
+https://www.mrleiloes.com.br/lotes/3conteúdo#
+ 
+Nesses casos deve ser usado https://www.mrleiloes.com.br/lotes/{pagina}conteúdo#
+
+#### No caso a
 
 # 14/07
 
