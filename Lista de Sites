@@ -68,8 +68,8 @@
 64 | Breno | LOTE 02 | Fabioleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.fabioleiloes.com.br
 66 | Breno | LOTE 02 | Rmcleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok   pendente  | www.rmcleiloes.com.br
 71 | Breno | LOTE 02 | Lancenoleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   CloudFlare | www.lancenoleilao.com.br
-78 | Lucas | LOTE 03 | Calilleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | www.calilleiloes.com.br
-79 | Lucas | LOTE 03 | Fvleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok | https://www.fvleiloes.com.br/lotes/657-03-casa-area-total-1-960m-santo-amaro
+78 | Lucas | LOTE 03 | Calilleiloes | Seletores: Preenchido mas testado somente no console | Paginação: Preenchido mas não retornou links | Visualização: Erro Página em Branco | Revisado:| Status Anterior:  Erro   Ajax em Branco | www.calilleiloes.com.br
+79 | Lucas | LOTE 03 | Fvleiloes | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisado:| Status Anterior:  Ok | https://www.fvleiloes.com.br/lotes/657-03-casa-area-total-1-960m-santo-amaro
 81 | Lucas | LOTE 03 | Krobelleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Ajax em Branco | https://www.krobelleiloes.com.br/pregao/62314d22de807a0c2a4f5eaf/62314de29c91420b77754394
 83 | Lucas | LOTE 03 | Mirandacarvalholeiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.mirandacarvalholeiloes.com.br
 85 | Lucas | LOTE 03 | Saleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Popup | www.saleiloes.com.br
@@ -303,11 +303,11 @@
 430 | Lucas | Lote 26 | ricardocorrealeiloes | Seletores: Erro - Imagens extras (imagem 02, imagem 03...) dentro de um Modal | Paginação: Preenchido mas não retornou links | Visualização: Erro - Imagens extras (imagem 02, imagem 03...) dentro de um Modal | Revisado: | https://ssl1.visar.com.br/ricardocorrealeiloes.com.br/Principal.asp
 431 | Lucas | Lote 26 | silasleiloeiro | Seletores: Erro - Imagens extras (imagem 02, imagem 03...) dentro de um Modal | Paginação: Preenchido mas não retornou links | Visualização: Erro - Imagens extras (imagem 02, imagem 03...) dentro de um Modal | Revisado: | https://ssl1.visar.com.br/silasleiloeiro.lel.br/Principal.asp
 432 | Lucas | Lote 26 | Albertolopesleiloeiro | Seletores: Erro - Problemas em buscar algumas variáveis nos modais | Paginação: Preenchido mas não retornou links | Visualização: Erro - Problemas em buscar algumas variáveis nos modais  | Revisado: | www.albertolopesleiloeiro.com.br
-433 | Lucas | Lote 26 | Alvaroferreiraleiloeiro | Seletores: | Paginação: | Visualização: | Revisado: | www.alvaroferreiraleiloeiro.com.br
-434 | Lucas | Lote 26 | Anamelloleiloeira | Seletores: | Paginação: | Visualização: | Revisado: | www.anamelloleiloeira.com.br
-435 | Lucas | Lote 26 | Andreadiniz | Seletores: | Paginação: | Visualização: | Revisado: | www.andreadiniz.com.br
-436 | Lucas | Lote 26 | Antonioferreira | Seletores: | Paginação: | Visualização: | Revisado: | www.antonioferreira.lel.br
-437 | Lucas | Lote 26 | Bruceangeirasleiloeiro | Seletores: | Paginação: | Visualização: | Revisado: | www.bruceangeirasleiloeiro.com.br
+433 | Lucas | Lote 26 | Alvaroferreiraleiloeiro | Seletores: Ok - Pouca info | Paginação: Erro lote - Vários lotes em uma mesma url | Visualização: Ok | Revisado: | www.alvaroferreiraleiloeiro.com.br
+434 | Lucas | Lote 26 | Anamelloleiloeira | Seletores: Erro - Problemas em buscar algumas variáveis nos modais | Paginação: Preenchido mas não retornou links | Visualização: Erro - Problemas em buscar algumas variáveis nos modais | Revisado: | www.anamelloleiloeira.com.br
+435 | Lucas | Lote 26 | Andreadiniz | Seletores: Erro - Problemas em buscar algumas variáveis nos modais | Paginação: Preenchido mas não retornou links | Visualização: Erro - Problemas em buscar algumas variáveis nos modais | Revisado: | www.andreadiniz.com.br
+436 | Lucas | Lote 26 | Antonioferreira | Seletores: Erro - Problemas em buscar algumas variáveis nos modais | Paginação: Preenchido mas não retornou links | Visualização: Erro - Problemas em buscar algumas variáveis nos modais | Revisado: | www.antonioferreira.lel.br
+437 | Lucas | Lote 26 | Bruceangeirasleiloeiro | Seletores: Erro - Problemas em buscar algumas variáveis nos modais | Paginação: Preenchido mas não retornou links | Visualização: Erro - Problemas em buscar algumas variáveis nos modais | Revisado: | www.bruceangeirasleiloeiro.com.br
 438 | Josh | Lote 27 | Camilaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.camilaleiloes.com.br
 439 | Josh | Lote 27 | Carlostourinholeiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.carlostourinholeiloeiro.com.br
 440 | Josh | Lote 27 | Carlucioleite | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes de imoveis  | www.carlucioleite.com.br
@@ -378,7 +378,7 @@
 506 | Matheus | Lote 33 | Stefanellileiloes | Seletores: Ok | Paginação: Preenchido mas não retornou links | Visualização: Ok | Revisado: | https://stefanellileiloes.com.br/
 507 | Matheus | Lote 33 | Wernerleiloes | Seletores: | Paginação: | Visualização: | Revisado: | https://wernerleiloes.com.br/
 508 | Matheus | Lote 33 | Aazevedoleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.aazevedoleiloes.com.br
-509 | Matheus | Lote 34 | Arquimedesleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.arquimedesleiloes.com.br
+509 | Marcos | Lote 34 | Arquimedesleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.arquimedesleiloes.com.br
 510 | Marcos | Lote 34 | Bessaleiloes | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisado: | www.bessaleiloes.com.br
 511 | Marcos | Lote 34 | Bolsadeleiloes | Seletores: Erro | Paginação: Ok | Visualização: Ok | Revisado: | www.bolsadeleiloes.com.br
 512 | Marcos | Lote 34 | Falleirosleiloes | Seletores: Ok - Só funciona no console | Paginação: Preenchido - Não retorna links | Visualização: Ok | Revisado: | www.falleirosleiloes.com.br
@@ -438,10 +438,10 @@
 567 | Marcos | Lote 39 | Braunaleiloes | Seletores: | Paginação: | Visualização: | Revisado: | http://braunaleiloes.blogspot.com.br
 568 | Marcos | Lote 39 | Casadosdados | Seletores: | Paginação: | Visualização: | Revisado: | https://casadosdados.com.br/solucao/cnpj/maik-nunes-de-oliveira-leiloes-42331659000170
 569 | Marcos | Lote 39 | Guiafacil | Seletores: | Paginação: | Visualização: | Revisado: | https://guiafacil.com/site/saulo-luiz-bastos/anapolis/go/6233145043/
-570 | Marcos | Lote 40 | Vecchileiloes | Seletores: | Paginação: | Visualização: | Revisado: | https://vecchileiloes.com.br/
-571 | Lucas | Lote 40 | Aleiloeira | Seletores: | Paginação: | Visualização: | Revisado: | www.aleiloeira.com.br
-572 | Lucas | Lote 40 | Bernardinileiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.bernardinileiloes.com.br
-573 | Lucas | Lote 40 | Innovaleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.innovaleiloes.com.br
+570 | Lucas | Lote 40 | Vecchileiloes | Seletores: | Paginação: | Visualização: | Revisado: | https://vecchileiloes.com.br/
+571 | Lucas | Lote 40 | Aleiloeira | Seletores: Leiloeiro Indisponível | Paginação: | Visualização: | Revisado: | www.aleiloeira.com.br
+572 | Lucas | Lote 40 | Bernardinileiloes | Seletores: Leiloeiro Indisponível | Paginação: | Visualização: | Revisado: | www.bernardinileiloes.com.br
+573 | Lucas | Lote 40 | Innovaleiloes | Seletores: Ok | Paginação: Preenchido mas não retornou links | Visualização: Ok  | Revisado: | www.innovaleiloes.com.br
 574 | Lucas | Lote 40 | Jussiaraleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.jussiaraleiloes.com
 575 | Lucas | Lote 40 | Leilaoimovel | Seletores: | Paginação: | Visualização: | Revisado: | www.leilaoimovel.com.br
 576 | Lucas | Lote 40 | Leiloesanapolis | Seletores: | Paginação: | Visualização: | Revisado: | www.leiloesanapolis.com.br
@@ -498,7 +498,7 @@
 630 | Lucas | Lote 45 | Leiloesbonfadini | Seletores: | Paginação: | Visualização: | Revisado: | www.leiloesbonfadini.com.br
 631 | Lucas | Lote 45 | Leiloescb | Seletores: | Paginação: | Visualização: | Revisado: | www.leiloescb.com.br
 632 | Lucas | Lote 45 | Lucianleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.lucianleiloes.com.br
-633 | Lucas | Lote 46 | Marcelocemin | Seletores: | Paginação: | Visualização: | Revisado: | www.marcelocemin.lel.br
+633 | Matheus | Lote 46 | Marcelocemin | Seletores: | Paginação: | Visualização: | Revisado: | www.marcelocemin.lel.br
 634 | Matheus | Lote 46 | Mateusleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.mateusleiloes.com.br
 635 | Matheus | Lote 46 | Michellileiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.michellileiloes.com.br
 636 | Matheus | Lote 46 | Miottileiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.miottileiloes.com.br
@@ -558,7 +558,7 @@
 691 | Matheus | Lote 51 | Hastaleilao | Seletores: | Paginação: | Visualização: | Revisado: | www.hastaleilao.com.br
 692 | Matheus | Lote 51 | Inovaleilao | Seletores: | Paginação: | Visualização: | Revisado: | www.inovaleilao.com.br
 693 | Matheus | Lote 51 | Lancecertoleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.lancecertoleiloes.com.br
-694 | Matheus | Lote 52 | Leiloeselo | Seletores: | Paginação: | Visualização: | Revisado: | www.leiloeselo.com.br
+694 | Breno | Lote 52 | Leiloeselo | Seletores: | Paginação: | Visualização: | Revisado: | www.leiloeselo.com.br
 695 | Breno | Lote 52 | Liderancaleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.liderancaleiloes.com.br
 696 | Breno | Lote 52 | Sergiooliveiraleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.sergiooliveiraleiloes.com.br
 697 | Breno | Lote 52 | Rondonialeiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.rondonialeiloes.com.br
@@ -618,7 +618,7 @@
 753 | Breno | Lote 57 | Colossoleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.colossoleiloes.com.br
 754 | Breno | Lote 57 | Consultasocio | Seletores: | Paginação: | Visualização: | Revisado: | www.consultasocio.com
 755 | Breno | Lote 57 | Costanetoleiloeiro | Seletores: | Paginação: | Visualização: | Revisado: | www.costanetoleiloeiro.com.br
-756 | Breno | Lote 58 | Djanirleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.djanirleiloes.com.br
+756 | Josh | Lote 58 | Djanirleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.djanirleiloes.com.br
 757 | Josh | Lote 58 | E-Leiloeiro | Seletores: | Paginação: | Visualização: | Revisado: | www.e-leiloeiro.com.br
 758 | Josh | Lote 58 | Emesleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.emesleiloes.com.br
 759 | Josh | Lote 58 | Emleilao | Seletores: | Paginação: | Visualização: | Revisado: | www.emleilao.com.br
