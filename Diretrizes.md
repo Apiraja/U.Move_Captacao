@@ -25,18 +25,25 @@ Não pode usar vazio {}
 e não pode usar 2 {slug} {slug} na mesma url, mas da pra usar {slug1} {slug2} por exemplo
 
 https://www.mrleiloes.com.br/lotes/{} - NAO
+
 https://www.mrleiloes.com.br/lotes/{}/{} - NAO
+
 https://www.mrleiloes.com.br/lotes/{slug}/{slug} - NAO
 
 #### No caso abaixo na URL paginação, onde há alteração de páginas por um número na URL:
 
 https://www.mrleiloes.com.br/lotes/1conteúdo#
+
 https://www.mrleiloes.com.br/lotes/2conteúdo#
+
 https://www.mrleiloes.com.br/lotes/3conteúdo#
  
 Nesses casos deve ser usado https://www.mrleiloes.com.br/lotes/{pagina}conteúdo#
 
-#### No caso a
+#### Caso o teste retorne erro:
+
+- Verificar se o link do lote presente página principal está completo, caso não eteja, anotar que o erro da paginação é link incompleto
+  
 
 # 14/07
 
