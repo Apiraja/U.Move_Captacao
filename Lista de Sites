@@ -341,12 +341,12 @@
 806 |   Josh   |   Lote 62   |   ambraleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://www.ambraleiloes.com.br
 807 |   Josh   |   Lote 62   |   dalcanaleleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://dalcanaleleiloes.com.br/
 78 |   Lucas   |   LOTE 03   |   Calilleiloes   | Seletores: Preenchido mas testado somente no console   | Paginação: Preenchido mas não retornou links   | Visualização: EM BRANCO | Revisão:    |   www.calilleiloes.com.br
-79 |   Lucas   |   LOTE 03   |   Fvleiloes   | Seletores: OK | Paginação: Ok   | Visualização: Ok   | Revisão:    |   https://www.fvleiloes.com.br/lotes/657-03-casa-area-total-1-960m-santo-amaro
-81 |   Lucas   |   LOTE 03   |   Krobelleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://www.krobelleiloes.com.br/pregao/62314d22de807a0c2a4f5eaf/62314de29c91420b77754394
-83 |   Lucas   |   LOTE 03   |   Mirandacarvalholeiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.mirandacarvalholeiloes.com.br
-85 |   Lucas   |   LOTE 03   |   Saleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Popup   | Revisão:    |   www.saleiloes.com.br
-86 |   Lucas   |   LOTE 03   |   Startupleiloes   | Seletores:   Ok   pendente    | Paginação:   | Visualização:   | Revisão:    |   www.startupleiloes.com.br
-89 |   Lucas   |   LOTE 03   |   Arremax   | Seletores:   | Paginação:   | Visualização:   CLOUDFLARE    | Revisão:    |   https://www.arremax.com.br/lote/area-de-628572-m/1038/
+79 |   Lucas   |   LOTE 03   |   Fvleiloes   | Seletores: OK | Paginação: OK   | Visualização: OK   | Revisão:    |   https://www.fvleiloes.com.br/lotes/657-03-casa-area-total-1-960m-santo-amaro
+81 |   Lucas   |   LOTE 03   |   Krobelleiloes   | Seletores: Preenchido mas testado somente no console   | Paginação: OK   | Visualização: Erro - Não carrega algumas variáveis | Revisão:    |   https://www.krobelleiloes.com.br/pregao/62314d22de807a0c2a4f5eaf/62314de29c91420b77754394
+83 |   Lucas   |   LOTE 03   |   Mirandacarvalholeiloes   | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:    |   www.mirandacarvalholeiloes.com.br
+85 |   Lucas   |   LOTE 03   |   Saleiloes   | Seletores: Preenchido mas testado somente no console - Varíveis dentro do modal do lote (iframe)   | Paginação: Erro - Lotes são abertos no estilo de modais (iframe) na mesma página   | Visualização:Erro - Varíveis dentro do modal do lote (iframe)   | Revisão:    |   www.saleiloes.com.br
+86 |   Lucas   |   LOTE 03   |   Startupleiloes   | Seletores:   OK   pendente    | Paginação: OK   | Visualização OK   | Revisão:    |   www.startupleiloes.com.br
+89 |   Lucas   |   LOTE 03   |   Arremax   | Seletores: OK   | Paginação: Erro - Não encontra os lotes retornando HTML vazio   | Visualização: OK    | Revisão:    |   https://www.arremax.com.br/lote/area-de-628572-m/1038/
 90 |   Lucas   |   LOTE 03   |   Centraljudicial   | Seletores:   | Paginação:   | Visualização:   Erro   Alguns comandos funcionam no console do navegador, mas não funcionam no painel   | Revisão:    |   www.centraljudicial.com.br
 91 |   Lucas   |   LOTE 03   |   Leiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   www.leiloes.com.br
 93 |   Lucas   |   LOTE 03   |   Mazzollileiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://www.mazzollileiloes.com.br/pregao/64404831a7d0d08893753302/64404876a7d0d08893753326
@@ -400,11 +400,11 @@
 435 |   Lucas   |   Lote 26   |   Andreadiniz   | Seletores: Erro - Problemas em buscar algumas variáveis nos modais   | Paginação: Preenchido mas não retornou links   | Visualização: Erro - Problemas em buscar algumas variáveis nos modais   | Revisão:     |   www.andreadiniz.com.br
 436 |   Lucas   |   Lote 26   |   Antonioferreira   | Seletores: Erro - Problemas em buscar algumas variáveis nos modais   | Paginação: Preenchido mas não retornou links   | Visualização: Erro - Problemas em buscar algumas variáveis nos modais   | Revisão:     |   www.antonioferreira.lel.br
 437 |   Lucas   |   Lote 26   |   Bruceangeirasleiloeiro   | Seletores: Erro - Problemas em buscar algumas variáveis nos modais   | Paginação: Preenchido mas não retornou links   | Visualização: Erro - Problemas em buscar algumas variáveis nos modais   | Revisão:     |   www.bruceangeirasleiloeiro.com.br
-570 |   Lucas   |   Lote 40   |   Vecchileiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://vecchileiloes.com.br/
+570 |   Lucas   |   Lote 40   |   Vecchileiloes   | Seletores: Preenchido - Alguns comandos funcionam no console do navegador, mas não funcionam no painel   | Paginação: Preenchido - Erro no direcionamento de página de alguns lotes. Abre como "/detalhe_leilao/" e carrega a página como "/detalhe_lote/"   | Visualização: Preenchido - Alguns comandos funcionam no console do navegador, mas não funcionam no painel   | Revisão:     |   https://vecchileiloes.com.br/
 571 |   Lucas   |   Lote 40   |   Aleiloeira   | Seletores: Leiloeiro Indisponível   | Paginação:   | Visualização:   | Revisão:     |   www.aleiloeira.com.br
 572 |   Lucas   |   Lote 40   |   Bernardinileiloes   | Seletores: Leiloeiro Indisponível   | Paginação:   | Visualização:   | Revisão:     |   www.bernardinileiloes.com.br
-573 |   Lucas   |   Lote 40   |   Innovaleiloes   | Seletores: OK | Paginação: Preenchido mas não retornou links   | Visualização: Ok    | Revisão:     |   www.innovaleiloes.com.br
-574 |   Lucas   |   Lote 40   |   Jussiaraleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.jussiaraleiloes.com
+573 |   Lucas   |   Lote 40   |   Innovaleiloes   | Seletores: Ok   | Paginação: Preenchido mas não retornou links   | Visualização: Ok    | Revisão:     |   www.innovaleiloes.com.br
+574 |   Lucas   |   Lote 40   |   Jussiaraleiloes   | Seletores: Ok   | Paginação: Ok   | Visualização: Ok   | Revisão:     |   www.jussiaraleiloes.com
 575 |   Lucas   |   Lote 40   |   Leilaoimovel   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leilaoimovel.com.br
 576 |   Lucas   |   Lote 40   |   Leiloesanapolis   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloesanapolis.com.br
 577 |   Lucas   |   Lote 40   |   Leiloesjudiciaisgo   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloesjudiciaisgo.com.br
