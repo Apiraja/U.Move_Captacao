@@ -98,7 +98,7 @@
 116 | Marcos | LOTE 05 | Agleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Pendente   sem endereço  | www.agleiloes.com.br
 117 | Marcos | LOTE 05 | Alleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   em branco | https://alleiloes.com.br/lote/733/imovel-situado-na-rua-sete-de-setembro-no-270-em-colombo-pr-objeto-da-matricula-no-33310-do-cartorio-de-registro-de-imoveis-de-colombo-pr
 119 | Marcos | LOTE 05 | Apiceleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | https://apiceleiloes.com.br/
-120 | Breno | Lote 6 | Aragaoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.aragaoleiloes.com.br
+120 | Breno | Lote 6 | Aragaoleiloes | Seletores: OK| Paginação: Preenchida mas não retorna URL| Visualização: OK| Revisado:| Status Anterior:  Ok  | www.aragaoleiloes.com.br
 121 | Breno | Lote 6 | Baldisseraleiloeiros | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Pagina não carrega os dados | www.baldisseraleiloeiros.com.br
 122 | Breno | Lote 6 | Bcoleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   CloudFlare | www.bcoleiloes.com.br
 124 | Breno | Lote 6 | Delttaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Erro  | www.delttaleiloes.com.br
@@ -165,7 +165,7 @@
 291 | Breno | Lote 12 | Chuileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ajax em branco  | www.chuileiloes.com.br
 292 | Breno | Lote 12 | Cianacionalleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Site fora do ar  | www.cianacionalleiloes.com.br
 293 | Breno | Lote 12 | Crepaldileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Pagina em branco | www.crepaldileiloes.com.br
-294 | Breno | Lote 12 | Crisleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  CloudFlare  | www.crisleiloes.com.br
+294 | Breno | Lote 12 | Crisleiloes | Seletores: OK| Paginação: OK| Visualização: OK| Revisado:| Status Anterior:  CloudFlare  | www.crisleiloes.com.br
 295 | Breno | Lote 12 | Cunhaleiloeiro | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Erro   Pagina em branco | www.cunhaleiloeiro.com.br
 296 | Breno | Lote 12 | Dalricalefficorsi | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do ar  | www.dalricalefficorsi.com.br
 297 | Breno | Lote 13 | Dantasleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.dantasleiloes.com.br
@@ -176,7 +176,7 @@
 302 | Breno | Lote 13 | Dinizmartinsleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.dinizmartinsleiloes.com.br
 303 | Breno | Lote 13 | Domingosleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.domingosleiloes.com.br
 304 | Breno | Lote 13 | Dreisleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Fora do ar  | www.dreisleiloes.com.br
-305 | Breno | Lote 13 | E-Confianca | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior: Confiancawww.e confianca.com.br  | www.e-confianca.com.br
+305 | Breno | Lote 13 | E-Confianca | Seletores: OK| Paginação: Preenchida mas não retorna URL| Visualização: OK| Revisado:| Status Anterior: Confiancawww.e confianca.com.br  | www.e-confianca.com.br
 306 | Breno | Lote 13 | Euamoleilao | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.euamoleilao.com.br
 307 | Lucas | Lote 14 | Fakianileiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.fakianileiloes.com.br
 308 | Lucas | Lote 14 | Familiarosaleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Lotes  | www.familiarosaleiloes.com.br
@@ -253,7 +253,7 @@
 380 | Breno | Lote 21 | Vmleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Ok  | www.vmleiloes.com.br
 381 | Breno | Lote 21 | Rmmleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Faltando informaçoes no site  | www.rmmleiloes.com.br
 382 | Breno | Lote 21 | Andreluizleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem lotes  | www.andreluizleiloes.com.br
-383 | Breno | Lote 21 | Danieloliveiraleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.danieloliveiraleiloes.com.br
+383 | Breno | Lote 21 | Danieloliveiraleiloes | Seletores: OK| Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.danieloliveiraleiloes.com.br
 384 | Breno | Lote 21 | Hoppeleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  OK  | www.hoppeleiloes.com.br
 385 | Breno | Lote 21 | Jmfleiloes | Seletores: | Paginação: | Visualização: | Revisado:| Status Anterior:  Sem Leiloes  | www.jmfleiloes.com.br
 386 | Breno | Lote 21 | Kleiloes | Seletores: | Paginação: | Visualização: | Revisado: | www.kleiloes.com.br
