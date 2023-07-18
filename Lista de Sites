@@ -460,26 +460,26 @@
 630 |   Lucas   |   Lote 45   |   Leiloesbonfadini   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloesbonfadini.com.br
 631 |   Lucas   |   Lote 45   |   Leiloescb   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloescb.com.br
 632 |   Lucas   |   Lote 45   |   Lucianleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.lucianleiloes.com.br
-40 |   Marcos   |   LOTE 01   |   Casareisleiloes   | Seletores:   | Paginação:   | Visualização:   CLOUDFLARE    | Revisão:    |   www.casareisleiloes.com.br
-41 |   Marcos   |   LOTE 01   |   Multipliqueleiloes   | Seletores:   | Paginação:   | Visualização:   CLOUDFLARE    | Revisão:    |   www.multipliqueleiloes.com.br
+40 |   Marcos   |   LOTE 01   |   Casareisleiloes | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisado:| www.casareisleiloes.com.br
+41 |   Marcos   |   LOTE 01   |   Multipliqueleiloes | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisado:| www.multipliqueleiloes.com.br
 42 |   Marcos   |   LOTE 01   |   Saraivaleiloes   | Seletores: Pendente - Sem Endereço   | Paginação: Ok   | Visualização: Ok   | Revisão:    |   www.saraivaleiloes.com.br
-43 |   Marcos   |   LOTE 01   |   Legisleiloes   | Seletores:   | Paginação:   | Visualização:   CLOUDFLARE    | Revisão:    |   www.legisleiloes.com.br
+43 |   Marcos   |   LOTE 01   |   Legisleiloes | Seletores: Ok | Paginação: Preenchido - Não retorna links | Visualização: Ok | Revisado:| www.legisleiloes.com.br
 45 |   Marcos   |   LOTE 01   |   Picellileiloes   | Seletores: OK | Paginação: Preenchido - Não retorna links   | Visualização: Ok   | Revisão:    |   www.picellileiloes.com.br
 47 |   Marcos   |   LOTE 01   |   Satoleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   www.satoleiloes.com.br
 47 |   Marcos   |   LOTE 01   |   Satoleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://satoleiloes.com.br/externo/
-48 |   Marcos   |   LOTE 01   |   Leilaooficialonline   | Seletores:   | Paginação:   | Visualização:   CLOUDFLARE    | Revisão:    |   https://www.leilaooficialonline.com.br/lote/imovel-comercial-880m/1786/
+48 |   Marcos   |   LOTE 01   |   Leilaooficialonline | Seletores: Ok | Paginação: Preenchido - Não retorna links | Visualização: Ok | Revisado:| https://www.leilaooficialonline.com.br/lote/imovel-comercial-880m/1786/
 51 |   Marcos   |   LOTE 01   |   Freitasleiloeiro   | Seletores: Ok - Só funciona no console   | Paginação: Ok   | Visualização: Ok   | Revisão:    |   www.freitasleiloeiro.com.br
-53 |   Marcos   |   LOTE 01   |   Vendasjudiciais   | Seletores: Ok - Só funciona no console   | Paginação: Preenchido - Não retorna links   | Visualização:   CLOUDFLARE    | Revisão:    |   https://www.vendasjudiciais.com.br/lote/direitos-sala-1124-freguesia-da-lagoa/83/
+53 |   Marcos   |   LOTE 01   |   Vendasjudiciais | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisado:| https://www.vendasjudiciais.com.br/lote/direitos-sala-1124-freguesia-da-lagoa/83/
 106 |   Marcos   |   LOTE 05   |   Fgleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Site não abre   | Revisão:    |   https://www.fgleiloes.com.br/venda-direta/bem_id/30
-107 |   Marcos   |   LOTE 05   |   Grupoarremateleiloes   | Seletores:   | Paginação:   | Visualização:   CLOUDFLARE    | Revisão:    |   www.grupoarremateleiloes.com.br
-109 |   Marcos   |   LOTE 05   |   Impactoleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   sem endereço    | Revisão:    |   https://www.impactoleiloes.com.br/lotes/211-1-lote-1-imovel-esquina-comercial-e-residencial-548m-artur-alvim
+107 |   Marcos   |   LOTE 05   |   Grupoarremateleiloes | Seletores: Ok | Paginação: Preenchido - Não retorna links | Visualização: Ok | Revisado:| www.grupoarremateleiloes.com.br
+109 |   Marcos   |   LOTE 05   |   Impactoleiloes  | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisão:  |  https://www.impactoleiloes.com.br/lotes/211-1-lote-1-imovel-esquina-comercial-e-residencial-548m-artur-alvim
 110 |   Marcos   |   LOTE 05   |   Leiloesrei   | Seletores:   | Paginação:   | Visualização: ERRO | Revisão:    |   www.leiloesrei.com.br
-111 |   Marcos   |   LOTE 05   |   Mauriciomarizleiloes   | Seletores: Ok - Tratar links | Paginação:   | Visualização:   | Revisão:    |   https://www.mauriciomarizleiloes.com.br/leilao/detalhe_leilao/71#conteudo
-114 |   Marcos   |   LOTE 05   |   tribunaleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://www.tribunaleiloes.com.br/item/133/detalhes?page=1
-115 |   Marcos   |   LOTE 05   |   123Leiloes   | Seletores: Ok - Tratar links | Paginação:   | Visualização:   | Revisão:    |   www.123leiloes.com.br
-116 |   Marcos   |   LOTE 05   |   Agleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   sem endereço    | Revisão:    |   www.agleiloes.com.br
+111 |   Marcos   |   LOTE 05   |   Mauriciomarizleiloes  | Seletores: Ok | Paginação: Preenchido - Não retorna links | Visualização: Ok | Revisão:  |  https://www.mauriciomarizleiloes.com.br/leilao/detalhe_leilao/71#conteudo
+114 |   Marcos   |  LOTE 05  |  tribunaleiloes  | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisão:  |  https://www.tribunaleiloes.com.br/item/133/detalhes?page=1
+115 |   Marcos   |  LOTE 05  |  123Leiloes  | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisão:  |  www.123leiloes.com.br
+116 |   Marcos   |   LOTE 05   |   Agleiloes  | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisão:  |  www.agleiloes.com.br
 117 |   Marcos   |   LOTE 05   |   Alleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://alleiloes.com.br/lote/733/imovel-situado-na-rua-sete-de-setembro-no-270-em-colombo-pr-objeto-da-matricula-no-33310-do-cartorio-de-registro-de-imoveis-de-colombo-pr
-119 |   Marcos   |   LOTE 05   |   Apiceleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://apiceleiloes.com.br/
+119 |   Marcos   |   LOTE 05   |   Apiceleiloes  | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisão:  |  https://apiceleiloes.com.br/
 246 |   Marcos   |   Lote 8   |   Dutraleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   403 forbidden   | Revisão:    |   http://dutraleiloes.com.br/principal.htm
 247 |   Marcos   |   Lote 8   |   Mfrancaleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   http://mfrancaleiloes.tempsite.ws/index
 248 |   Marcos   |   Lote 8   |   Suenagaleiloes   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   http://suenagaleiloes.com.br/
