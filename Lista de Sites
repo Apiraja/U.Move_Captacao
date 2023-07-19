@@ -602,42 +602,42 @@
 569 |   Marcos   |   Lote 39   |   Guiafacil   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://guiafacil.com/site/saulo-luiz-bastos/anapolis/go/6233145043/
 327 |   Matheus   |   Lote 16   |   Lancetotal   | Seletores:   | Paginação:   | Visualização:   Erro   Internal Server Error   | Revisão:    |   www.lancetotal.com.br
 328 |   Matheus   |   Lote 16   |   Leilaodearte   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.leilaodearte.com
-329 |   Matheus   |   Lote 16   |   Leilaoinvestment   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.leilaoinvestment.com.br
-330 |   Matheus   |   Lote 16   |   Leilaoonline   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.leilaoonline.net
+329 |   Matheus   |   Lote 16   |   Leilaoinvestment   | Seletores: OK | Paginação: Ok  | Visualização: Ok  | Revisão:    |   www.leilaoinvestment.com.br
+330 |   Matheus   |   Lote 16   |   Leilaoonline   | Seletores: OK | Paginação:  Ok | Visualização: Ok  | Revisão:    |   www.leilaoonline.net
 331 |   Matheus   |   Lote 16   |   Leiloaria   | Seletores:   | Paginação:   | Visualização:   Erro   Não é possivel pegar os lotes   | Revisão:    |   www.leiloaria.com.br
 332 |   Matheus   |   Lote 16   |   Leiloei   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   www.leiloei.com
 333 |   Matheus   |   Lote 16   |   Leiloeirosp   | Seletores:   | Paginação:   | Visualização:   Erro   Página não carrega   | Revisão:    |   www.leiloeirosp.com.br
 334 |   Matheus   |   Lote 16   |   Leiloesalbino   | Seletores:   | Paginação:   | Visualização:   Erro   Seletores não funcionam   | Revisão:    |   www.leiloesalbino.com.br
 335 |   Matheus   |   Lote 16   |   Leiloesburiham   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.leiloesburiham.com.br
 336 |   Matheus   |   Lote 16   |   Leiloesdasartes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.leiloesdasartes.com.br
-337 |   Matheus   |   Lote 17   |   Leiloesmager   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.leiloesmager.com.br
-338 |   Matheus   |   Lote 17   |   Lottileiloes   | Seletores: Ok - Tratar links | Paginação:   | Visualização:   | Revisão:    |   www.lottileiloes.com.br
+337 |   Matheus   |   Lote 17   |   Leiloesmager   | Seletores: OK | Paginação: Ok  | Visualização: Ok  | Revisão:    |   www.leiloesmager.com.br
+338 |   Matheus   |   Lote 17   |   Lottileiloes   | Seletores: Ok - Tratar links | Paginação: Ok  | Visualização: Ok  | Revisão:    |   www.lottileiloes.com.br
 339 |   Matheus   |   Lote 17   |   Ltjleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.ltjleiloes.com.br
-340 |   Matheus   |   Lote 17   |   Maisleilao   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.maisleilao.com.br
+340 |   Matheus   |   Lote 17   |   Maisleilao   | Seletores: OK | Paginação: Ok  | Visualização:  Ok | Revisão:    |   www.maisleilao.com.br
 341 |   Matheus   |   Lote 17   |   Manrubialeiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   www.manrubialeiloes.com.br
 342 |   Matheus   |   Lote 17   |   Mazinottoleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Página não carrega   | Revisão:    |   www.mazinottoleiloes.com.br
-343 |   Matheus   |   Lote 17   |   Milanleiloes   | Seletores: OK | Paginação: Preenchido mas não retornou links   | Visualização: Ok   | Revisão:     |   www.milanleiloes.com.br
-344 |   Matheus   |   Lote 17   |   Mouzarbastonleiloes   | Seletores: OK | Paginação: Preenchido mas não retornou links   | Visualização: Ok   | Revisão:     |   www.mouzarbastonleiloes.com.br
-345 |   Matheus   |   Lote 17   |   Mrleiloes   | Seletores: Ok(tratar endereço)   | Paginação: Preenchido mas não retornou links   | Visualização: Ok   | Revisão:     |   www.mrleiloes.com.br
-346 |   Matheus   |   Lote 17   |   Mzmleiloes   | Seletores: OK | Paginação: Preenchido mas não retornou links   | Visualização: Ok   | Revisão:     |   www.mzmleiloes.com.br
-499 |   Matheus   |   Lote 33   |   Luizleiloes   | Seletores: Ok (alguns seletores não funcionam)   | Paginação: link incompleto   | Visualização: Ok  | Revisão:     |   www.luizleiloes.com.br
+343 |   Matheus   |   Lote 17   |   Milanleiloes   | Seletores: OK | Paginação: erro: Redirecionamento leilão/lote  | Visualização: Ok   | Revisão:     |   www.milanleiloes.com.br
+344 |   Matheus   |   Lote 17   |   Mouzarbastonleiloes   | Seletores: OK | Paginação: erro: TAG dos Links | Visualização: Ok   | Revisão:     |   www.mouzarbastonleiloes.com.br
+345 |   Matheus   |   Lote 17   |   Mrleiloes   | Seletores: Ok(tratar endereço)   | Paginação: erro: Prefixo Pendente | Visualização: Ok   | Revisão:     |   www.mrleiloes.com.br
+346 |   Matheus   |   Lote 17   |   Mzmleiloes   | Seletores: OK | Paginação: | Visualização: SEM LOTES  | Revisão:     |   www.mzmleiloes.com.br
+499 |   Matheus   |   Lote 33   |   Luizleiloes   | Seletores: Ok (alguns seletores não funcionam) | Paginação: erro: Prefixo Pendente   | Visualização: Ok  | Revisão:     |   www.luizleiloes.com.br
 500 |   Matheus   |   Lote 33   |   Mgrleiloes   | Seletores: Erro (seletores não funcionam)   | Paginação: Erro(link incompleto)   | Visualização: EM BRANCO | Revisão:     |   www.mgrleiloes.com.br
 501 |   Matheus   |   Lote 33   |   Ismenialeiloeira   | Seletores:   Sem Lotes    | Paginação:   Sem Lotes    | Visualização: SEM LOTES | Revisão:     |   http://ismenialeiloeira.com.br/externo/
 502 |   Matheus   |   Lote 33   |   Isacleiloes   | Seletores: Erro (sem lotes)   | Paginação: Erro   | Visualização: SEM LOTES | Revisão:     |   https://isacleiloes.com.br/
-503 |   Matheus   |   Lote 33   |   Leiloesbrasilcassiano   | Seletores: OK | Paginação: link incompleto   | Visualização: Ok   | Revisão:     |   https://leiloesbrasilcassiano.com.br/
+503 |   Matheus   |   Lote 33   |   Leiloesbrasilcassiano   | Seletores: OK | Paginação: erro: TAG dos Links | Visualização: Ok   | Revisão:     |   https://leiloesbrasilcassiano.com.br/
 504 |   Matheus   |   Lote 33   |   Leilofarm   | Seletores: Erro (site fora do ar)   | Paginação: Erro (site fora do ar)   | Visualização: FORA DO AR | Revisão:     |   https://leilofarm.com.br/
 505 |   Matheus   |   Lote 33   |   Marcusviniciusleiloes   | Seletores: OK | Paginação: Ok   | Visualização: Ok   | Revisão:     |   https://marcusviniciusleiloes.com.br/
 506 |   Matheus   |   Lote 33   |   Stefanellileiloes   | Seletores: OK | Paginação: Ok   | Visualização: Ok   | Revisão:     |   https://stefanellileiloes.com.br/
 507 |   Matheus   |   Lote 33   |   Wernerleiloes   | Seletores:   | Paginação:   | Visualização:  FORA DO AR | Revisão:     |   https://wernerleiloes.com.br/
 508 |   Matheus   |   Lote 33   |   Aazevedoleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR    | Revisão:     |   www.aazevedoleiloes.com.br
-633 |   Matheus   |   Lote 46   |   Marcelocemin   | Seletores: Ok | Paginação: Preenchido mas não retornou links  | Visualização: Ok  | Revisão:     |   www.marcelocemin.lel.br
-634 |   Matheus   |   Lote 46   |   Mateusleiloes   | Seletores:  Ok | Paginação: Preenchido mas não retornou links  | Visualização: Ok  | Revisão:     |   www.mateusleiloes.com.br
-635 |   Matheus   |   Lote 46   |   Michellileiloes   | Seletores: Ok  | Paginação:  Preenchido mas não retornou links | Visualização: Ok  | Revisão:     |   www.michellileiloes.com.br
+633 |   Matheus   |   Lote 46   |   Marcelocemin   | Seletores: Ok | Paginação: erro: Redirecionamento leilão/lote  | Visualização: Ok  | Revisão:     |   www.marcelocemin.lel.br
+634 |   Matheus   |   Lote 46   |   Mateusleiloes   | Seletores:  Ok | Paginação: Ok  | Visualização: Ok  | Revisão:     |   www.mateusleiloes.com.br
+635 |   Matheus   |   Lote 46   |   Michellileiloes   | Seletores: Ok  | Paginação: erro: Redirecionamento leilão/lote | Visualização: Ok  | Revisão:     |   www.michellileiloes.com.br
 636 |   Matheus   |   Lote 46   |   Miottileiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:     |   www.miottileiloes.com.br
 637 |   Matheus   |   Lote 46   |   Muckleiloes   | Seletores:   | Paginação:   | Visualização:  SEM LOTES | Revisão:     |   www.muckleiloes.com.br
 639 |   Matheus   |   Lote 46   |   Oroleiloes   | Seletores: OK  | Paginação: Ok  | Visualização:  Ok | Revisão:     |   www.oroleiloes.lel.br
-640 |   Matheus   |   Lote 46   |   Qleilao   | Seletores:  Ok | Paginação:  Preenchido mas não retornou links | Visualização:  Ok | Revisão:     |   www.qleilao.lel.br
-641 |   Matheus   |   Lote 46   |   Raotaleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.raotaleiloes.com.br
+640 |   Matheus   |   Lote 46   |   Qleilao   | Seletores:  Ok | Paginação: erro: Redirecionamento leilão/lote | Visualização:  Ok | Revisão:     |   www.qleilao.lel.br
+641 |   Matheus   |   Lote 46   |   Raotaleiloes   | Seletores:  Ok | Paginação: Ok  | Visualização: Ok  | Revisão:     |   www.raotaleiloes.com.br
 642 |   Matheus   |   Lote 46   |   Rechleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.rechleiloes.com.br
 643 |   Matheus   |   Lote 46   |   Ruipintoleiloeiro   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.ruipintoleiloeiro.com.br
 644 |   Matheus   |   Lote 47   |   Santoseborinleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.santoseborinleiloes.com.br
