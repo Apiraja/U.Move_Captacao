@@ -21,7 +21,11 @@ Neste caso pode identificar o erro como: prefixo pendendete.
 
 Caso os links não carreguem, ai pode colocar o erro como: Java
 
-3) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
+3) O Link dos lotes/leilões não estão dentro do tag `a`, erro: TAG dos Links
+
+4) Paginação não é por número, se não carregar nada ai o erro é java, mas se carregar parcial, erro: paginação não numérica 
+
+5) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
 
 Neste caso apenas fiz o cadastro do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou.
 
