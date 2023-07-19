@@ -1,12 +1,12 @@
 55 |   Breno   |   LOTE 02   |   Hastavip   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.hastavip.com.br
-56 |   Breno   |   LOTE 02   |   Iniciativabr   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.iniciativabr.com
-57 |   Breno   |   LOTE 02   |   Sodresantoro   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.sodresantoro.com.br
-58 |   Breno   |   LOTE 02   |   Teza   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.teza.com.br
+56 |   Breno   |   LOTE 02   |   Iniciativabr   | Seletores: OK | Paginação:  OK | Visualização: OK  | Revisão:    |   www.iniciativabr.com
+57 |   Breno   |   LOTE 02   |   Sodresantoro   | Seletores: OK | Paginação: OK  | Visualização:  OK | Revisão:    |   www.sodresantoro.com.br
+58 |   Breno   |   LOTE 02   |   Teza   | Seletores: OK | Paginação:  OK | Visualização: OK  | Revisão:    |   www.teza.com.br
 61 |   Breno   |   LOTE 02   |   Delanoleiloes   | Seletores:  OK | Paginação:  OK | Visualização: OK  Pendente  Apenas o documento não é retirado, e o código e suas variações funcionam no console   | Revisão:    |   https://www.delanoleiloes.com.br/externo/lote/23485/terrenos-em-santa-rosa-de
 62 |   Breno   |   LOTE 02   |   Pecinileiloes   | Seletores: Erro - Mesmo em Ajax, não carrega as informações  | Paginação: OK  | Visualização:  OK    | Revisão:    |   www.pecinileiloes.com.br
 63 |   Breno   |   LOTE 02   |   Comprei.Pgfn   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://comprei.pgfn.gov.br/anuncio/detalhe/1654
-64 |   Breno   |   LOTE 02   |   Fabioleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.fabioleiloes.com.br
-66 |   Breno   |   LOTE 02   |   Rmcleiloes   | Seletores:   Ok   pendente    | Paginação:   | Visualização:   | Revisão:    |   www.rmcleiloes.com.br
+64 |   Breno   |   LOTE 02   |   Fabioleiloes   | Seletores: OK | Paginação: Retorna as URL mas não carrega as outras páginas  | Visualização:  OK | Revisão:    |   www.fabioleiloes.com.br
+66 |   Breno   |   LOTE 02   |   Rmcleiloes   | Seletores:   Ok   pendente    | Paginação: Preenchido mas não retorna URL  | Visualização: OK  | Revisão:    |   www.rmcleiloes.com.br
 71 |   Breno   |   LOTE 02   |   Lancenoleilao   | Seletores:  OK | Paginação: Internal Server Error  | Visualização:  OK | Revisão:    |   www.lancenoleilao.com.br
 120 |   Breno   |   Lote 6   |   Aragaoleiloes   | Seletores: OK | Paginação: Preenchida mas não retorna URL  | Visualização: OK  | Revisão:    |   www.aragaoleiloes.com.br
 121 |   Breno   |   Lote 6   |   Baldisseraleiloeiros   | Seletores:   | Paginação:   | Visualização:   Erro   Pagina não carrega os dados   | Revisão:    |   www.baldisseraleiloeiros.com.br
@@ -15,9 +15,9 @@
 125 |   Breno   |   Lote 6   |   Deonizialeiloes   | Seletores: OK | Paginação: Preenchida mas não retorna URL  | Visualização: OK  | Revisão:    |   www.deonizialeiloes.com.br
 126 |   Breno   |   Lote 6   |   Depaulaonline   | Seletores:   | Paginação:   | Visualização:   Erro   Site não entra   | Revisão:    |   www.depaulaonline.com.br
 130 |   Breno   |   Lote 6   |   Kronbergleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   resolver erros url sql   | Revisão:    |   www.kronbergleiloes.com.br
-132 |   Breno   |   Lote 6   |   Leiloeirasilvani   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://www.leiloeirasilvani.com.br/Leilao.asp?zz=20050858201532006090001
-133 |   Breno   |   Lote 6   |   Leiloeiro.online   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.leiloeiro.online
-134 |   Breno   |   Lote 6   |   Mariaclariceleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://mariaclariceleiloes.com.br/
+132 |   Breno   |   Lote 6   |   Leiloeirasilvani   | Seletores: OK | Paginação: Preenchida mas não retorna URL  | Visualização: OK  | Revisão:    |   https://www.leiloeirasilvani.com.br/Leilao.asp?zz=20050858201532006090001
+133 |   Breno   |   Lote 6   |   Leiloeiro.online   | Seletores: OK | Paginação: OK  | Visualização: OK  | Revisão:    |   www.leiloeiro.online
+134 |   Breno   |   Lote 6   |   Mariaclariceleiloes   | Seletores: OK | Paginação:  OK | Visualização: OK  | Revisão:    |   https://mariaclariceleiloes.com.br/
 287 |   Breno   |   Lote 12   |   Canaldosleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.canaldosleiloes.com.br
 288 |   Breno   |   Lote 12   |   Casa8Leiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.casa8leiloes.com.br
 289 |   Breno   |   Lote 12   |   Casaamarelaleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.casaamarelaleiloes.net.br
@@ -40,26 +40,26 @@
 306 |   Breno   |   Lote 13   |   Euamoleilao   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.euamoleilao.com.br
 378 |   Breno   |   Lote 21   |   Dsleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   www.dsleiloes.com.br
 379 |   Breno   |   Lote 21   |   Marangonileiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   www.marangonileiloes.com.br
-380 |   Breno   |   Lote 21   |   Vmleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.vmleiloes.com.br
+380 |   Breno   |   Lote 21   |   Vmleiloes   | Seletores: OK | Paginação:  OK | Visualização:  OK | Revisão:    |   www.vmleiloes.com.br
 381 |   Breno   |   Lote 21   |   Rmmleiloes   | Seletores:   | Paginação:   | Visualização:   Faltando informaçoes no site    | Revisão:    |   www.rmmleiloes.com.br
 382 |   Breno   |   Lote 21   |   Andreluizleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.andreluizleiloes.com.br
 383 |   Breno   |   Lote 21   |   Danieloliveiraleiloes   | Seletores: OK | Paginação:  OK | Visualização:  OK | Revisão:    |   www.danieloliveiraleiloes.com.br
-384 |   Breno   |   Lote 21   |   Hoppeleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.hoppeleiloes.com.br
+384 |   Breno   |   Lote 21   |   Hoppeleiloes   | Seletores: OK | Paginação:  OK | Visualização:  OK | Revisão:    |   www.hoppeleiloes.com.br
 385 |   Breno   |   Lote 21   |   Jmfleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.jmfleiloes.com.br
 386 |   Breno   |   Lote 21   |   Kleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.kleiloes.com.br
 387 |   Breno   |   Lote 21   |   Lbleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.lbleiloes.com.br
 388 |   Breno   |   Lote 22   |   Rgomesleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   www.rgomesleiloes.com.br
 389 |   Breno   |   Lote 22   |   Sfleiloes   | Seletores:   | Paginação:   | Visualização:   Leiloes desatualizados    | Revisão:    |   www.sfleiloes.com.br
 390 |   Breno   |   Lote 22   |   Simonleiloes   | Seletores:   | Paginação:   | Visualização:   Informaçoẽs importantes apenas disponibilizadas no edital pdf.    | Revisão:    |   www.simonleiloes.com.br
-391 |   Breno   |   Lote 22   |   Lancejusto   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://lancejusto.com.br/
+391 |   Breno   |   Lote 22   |   Lancejusto   | Seletores: OK | Paginação:  OK | Visualização:  OK | Revisão:    |   https://lancejusto.com.br/
 392 |   Breno   |   Lote 22   |   Marianalangleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   https://marianalangleiloes.com.br/
-393 |   Breno   |   Lote 22   |   Rdleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://rdleiloes.com.br/
+393 |   Breno   |   Lote 22   |   Rdleiloes   | Seletores: OK | Paginação:  OK | Visualização:  OK | Revisão:    |   https://rdleiloes.com.br/
 394 |   Breno   |   Lote 22   |   Claudiokussleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.claudiokussleiloes.com.br
 395 |   Breno   |   Lote 22   |   Dallagnolleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.dallagnolleiloes.com.br
 396 |   Breno   |   Lote 22   |   Favaretoleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.favaretoleiloes.com.br
 397 |   Breno   |   Lote 22   |   Gdleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.gdleiloes.com.br
 398 |   Breno   |   Lote 23   |   Gomesleiloes   | Seletores:   | Paginação:   | Visualização:   Ferramenta de Fazer site de Leilao     | Revisão:    |   www.gomesleiloes.com.br
-399 |   Breno   |   Lote 23   |   Kronberg   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.kronberg.lel.br
+399 |   Breno   |   Lote 23   |   Kronberg   | Seletores: OK | Paginação: Preenchido mas não retornou URL  | Visualização:  OK | Revisão:    |   www.kronberg.lel.br
 400 |   Breno   |   Lote 23   |   Leiloeiroqueiroz   | Seletores:   | Paginação:   | Visualização:   Seletor não funciona    | Revisão:    |   www.leiloeiroqueiroz.com.br
 401 |   Breno   |   Lote 23   |   Lelialenz   | Seletores: OK (Tratar Endereço)   | Paginação: Preenchido mas não retornou links   | Visualização: OK  | Revisão:     |   www.lelialenz.com.br
 402 |   Breno   |   Lote 23   |   Marcosleiloes   | Seletores:   | Paginação: Erro Fora do ar  | Visualização: FORA DO AR | Revisão:     |   www.marcosleiloes.com.br 
