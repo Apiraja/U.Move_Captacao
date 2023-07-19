@@ -15,7 +15,7 @@
 125 |   Breno   |   Lote 6   |   Deonizialeiloes   | Seletores: OK | Paginação: Preenchida mas não retorna URL  | Visualização: OK  | Revisão:    |   www.deonizialeiloes.com.br
 126 |   Breno   |   Lote 6   |   Depaulaonline   | Seletores:   | Paginação:   | Visualização:   Erro   Site não entra   | Revisão:    |   www.depaulaonline.com.br
 130 |   Breno   |   Lote 6   |   Kronbergleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   resolver erros url sql   | Revisão:    |   www.kronbergleiloes.com.br
-132 |   Breno   |   Lote 6   |   Leiloeirasilvani   | Seletores: OK | Paginação: Preenchida mas não retorna URL  | Visualização: OK  | Revisão:    |   https://www.leiloeirasilvani.com.br/Leilao.asp?zz=20050858201532006090001
+132 |   Breno   |   Lote 6   |   Leiloeirasilvani   | Seletores: OK | Paginação: Erro - .ASP  | Visualização: OK  | Revisão:    |   https://www.leiloeirasilvani.com.br/Leilao.asp?zz=20050858201532006090001
 133 |   Breno   |   Lote 6   |   Leiloeiro.online   | Seletores: OK | Paginação: OK  | Visualização: OK  | Revisão:    |   www.leiloeiro.online
 134 |   Breno   |   Lote 6   |   Mariaclariceleiloes   | Seletores: OK | Paginação:  OK | Visualização: OK  | Revisão:    |   https://mariaclariceleiloes.com.br/
 287 |   Breno   |   Lote 12   |   Canaldosleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.canaldosleiloes.com.br
@@ -59,7 +59,7 @@
 396 |   Breno   |   Lote 22   |   Favaretoleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.favaretoleiloes.com.br
 397 |   Breno   |   Lote 22   |   Gdleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.gdleiloes.com.br
 398 |   Breno   |   Lote 23   |   Gomesleiloes   | Seletores:   | Paginação:   | Visualização:   Ferramenta de Fazer site de Leilao     | Revisão:    |   www.gomesleiloes.com.br
-399 |   Breno   |   Lote 23   |   Kronberg   | Seletores: OK | Paginação: Preenchido mas não retornou URL  | Visualização:  OK | Revisão:    |   www.kronberg.lel.br
+399 |   Breno   |   Lote 23   |   Kronberg   | Seletores: OK | Paginação: OK  | Visualização:  OK | Revisão:    |   www.kronberg.lel.br
 400 |   Breno   |   Lote 23   |   Leiloeiroqueiroz   | Seletores:   | Paginação:   | Visualização:   Seletor não funciona    | Revisão:    |   www.leiloeiroqueiroz.com.br
 401 |   Breno   |   Lote 23   |   Lelialenz   | Seletores: OK (Tratar Endereço)   | Paginação: Preenchido mas não retornou links   | Visualização: OK  | Revisão:     |   www.lelialenz.com.br
 402 |   Breno   |   Lote 23   |   Marcosleiloes   | Seletores:   | Paginação: Erro Fora do ar  | Visualização: FORA DO AR | Revisão:     |   www.marcosleiloes.com.br 
