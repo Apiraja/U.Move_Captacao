@@ -481,7 +481,7 @@
 117 |   Marcos   |   LOTE 05   |   Alleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://alleiloes.com.br/lote/733/imovel-situado-na-rua-sete-de-setembro-no-270-em-colombo-pr-objeto-da-matricula-no-33310-do-cartorio-de-registro-de-imoveis-de-colombo-pr
 119 |   Marcos   |   LOTE 05   |   Apiceleiloes  | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisão:  |  https://apiceleiloes.com.br/
 246 |   Marcos   |   Lote 8   |   Dutraleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   403 forbidden   | Revisão:    |   http://dutraleiloes.com.br/principal.htm
-247 |   Marcos   |   Lote 8   |   Mfrancaleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   http://mfrancaleiloes.tempsite.ws/index
+247 |   Marcos   |   Lote 8   |   Mfrancaleiloes   | Seletores: OK | Paginação: Erro - Prefixo Pendente  | Visualização: Ok  | Revisão:    |   http://mfrancaleiloes.tempsite.ws/index
 248 |   Marcos   |   Lote 8   |   Suenagaleiloes   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   http://suenagaleiloes.com.br/
 249 |   Marcos   |   Lote 8   |   Aloisiocravo   | Seletores:   | Paginação:   | Visualização:   Erro   403 forbidden   | Revisão:    |   https://aloisiocravo.com.br/
 250 |   Marcos   |   Lote 8   |   Bankleiloes   | Seletores:   | Paginação:   | Visualização:   Site não abre    | Revisão:    |   https://bankleiloes.com.br/
@@ -490,13 +490,13 @@
 253 |   Marcos   |   Lote 8   |   Dedaloleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://www.dedaloleiloes.com.br/
 254 |   Marcos   |   Lote 8   |   Jonasdellatonia   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   https://jonasdellatonia.com.br/
 255 |   Marcos   |   Lote 8   |   Mundodoleilao   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   https://mundodoleilao.com.br/#
-256 |   Marcos   |   Lote 9   |   Plazaleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://plazaleiloes.com.br/
+256 |   Marcos   |   Lote 9   |   Plazaleiloes   | Seletores: OK | Paginação: Ok  | Visualização: Ok  | Revisão:    |   https://plazaleiloes.com.br/
 257 |   Marcos   |   Lote 9   |   Sumareleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   https://sumareleiloes.com.br/
 258 |   Marcos   |   Lote 9   |   Venetoleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   https://venetoleiloes.com.br/
 259 |   Marcos   |   Lote 9   |   Mouraazevedoleiloes   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   www.mouraazevedoleiloes.lel.br
 260 |   Marcos   |   Lote 9   |   3Rleiloes   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   www.3rleiloes.net
-262 |   Marcos   |   Lote 9   |   Bastonleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.bastonleiloes.com.br
-263 |   Marcos   |   Lote 9   |   Carloferrarileiloes   | Seletores: Ok - Tratar links | Paginação:   | Visualização:   | Revisão:    |   www.carloferrarileiloes.com.br
+262 |   Marcos   |   Lote 9   |   Bastonleiloes   | Seletores: OK | Paginação: Erro - TAG dos Links  | Visualização: Ok  | Revisão:    |   www.bastonleiloes.com.br
+263 |   Marcos   |   Lote 9   |   Carloferrarileiloes   | Seletores: Ok - Tratar links | Paginação: Ok  | Visualização: Ok  | Revisão:    |   www.carloferrarileiloes.com.br
 264 |   Marcos   |   Lote 9   |   Iarremate   | Seletores:   | Paginação:   | Visualização:   Erro   403 forbidden   | Revisão:    |   www.iarremate.com
 265 |   Marcos   |   Lote 9   |   Liderleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   Sem documentos    | Revisão:    |   www.liderleiloes.com.br
 266 |   Marcos   |   Lote 9   |   Melhorleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   Sem endereço    | Revisão:    |   www.melhorleiloes.com.br
@@ -505,20 +505,20 @@
 349 |   Marcos   |   Lote 18   |   Olivirogerioleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   Sem endereço   | Revisão:    |   www.olivirogerioleiloes.com.br
 350 |   Marcos   |   Lote 18   |   Originarteleiloes   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.originarteleiloes.com.br
 351 |   Marcos   |   Lote 18   |   Paquesleiloeiro   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.paquesleiloeiro.com.br
-352 |   Marcos   |   Lote 18   |   Peixotoleiloes   | Seletores: Ok - Tratar links | Paginação:   | Visualização:   | Revisão:    |   www.peixotoleiloes.com.br
+352 |   Marcos   |   Lote 18   |   Peixotoleiloes   | Seletores: Ok - Tratar links | Paginação: Erro - Prefixo Pendente  | Visualização: Ok  | Revisão:    |   www.peixotoleiloes.com.br
 353 |   Marcos   |   Lote 18   |   Projudleiloes   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.projudleiloes.com.br
 354 |   Marcos   |   Lote 18   |   Pupioleiloes   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   www.pupioleiloes.com
 355 |   Marcos   |   Lote 18   |   Rfleiloes   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.rfleiloes.com.br
 356 |   Marcos   |   Lote 18   |   Rmgouvealeiloes   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.rmgouvealeiloes.com.br
 357 |   Marcos   |   Lote 19   |   Sagresleiloes   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.sagresleiloes.com.br
 358 |   Marcos   |   Lote 19   |   Salgadoleiloes   | Seletores:   | Paginação:   | Visualização:   Site não possui leilão    | Revisão:    |   www.salgadoleiloes.com.br
-359 |   Marcos   |   Lote 19   |   Sanchesleiloes   | Seletores: OK | Paginação:   | Visualização:  | Revisão:    |   www.sanchesleiloes.com.br
-360 |   Marcos   |   Lote 19   |   Siteleiloes   | Seletores: OK | Paginação:   | Visualização:  | Revisão:    |   www.siteleiloes.com.br
+359 |   Marcos   |   Lote 19   |   Sanchesleiloes   | Seletores: OK | Paginação: Ok  | Visualização: Ok | Revisão:    |   www.sanchesleiloes.com.br
+360 |   Marcos   |   Lote 19   |   Siteleiloes   | Seletores: OK | Paginação: Ok  | Visualização: Ok | Revisão:    |   www.siteleiloes.com.br
 361 |   Marcos   |   Lote 19   |   Superdiasleiloes   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.superdiasleiloes.com.br
 362 |   Marcos   |   Lote 19   |   Tableau   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.tableau.com.br
 363 |   Marcos   |   Lote 19   |   Tahaleiloes   | Seletores:   | Paginação:   | Visualização:   Parâmetros   Pendente    | Revisão:    |   www.tahaleiloes.com.br
 364 |   Marcos   |   Lote 19   |   Troof   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   www.troof.com.br
-365 |   Marcos   |   Lote 19   |   Unileiloes   | Seletores: OK | Paginação:   | Visualização:  | Revisão:    |   www.unileiloes.com.br
+365 |   Marcos   |   Lote 19   |   Unileiloes   | Seletores: OK | Paginação: Ok  | Visualização: Ok | Revisão:    |   www.unileiloes.com.br
 366 |   Marcos   |   Lote 19   |   Uonleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   www.uonleiloes.com.br
 458 |   Marcos   |   Lote 29   |   Levyleiloeiro   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.levyleiloeiro.com.br
 459 |   Marcos   |   Lote 29   |   Lilileiloeira   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.lilileiloeira.com.br
@@ -533,10 +533,10 @@
 468 |   Marcos   |   Lote 30   |   Pedrosilvaleiloeiro   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.pedrosilvaleiloeiro.com.br
 469 |   Marcos   |   Lote 30   |   Raulbarbosa   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.raulbarbosa.lel.br
 470 |   Marcos   |   Lote 30   |   Robertohaddad   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.robertohaddad.com.br
-471 |   Marcos   |   Lote 30   |   Rodrigocostaleiloeiro   | Seletores: OK | Paginação:   | Visualização:  | Revisão:    |   www.rodrigocostaleiloeiro.com.br
-472 |   Marcos   |   Lote 30   |   Rogeriomenezes   | Seletores: OK | Paginação:   | Visualização:  | Revisão:    |   www.rogeriomenezes.com.br
+471 |   Marcos   |   Lote 30   |   Rodrigocostaleiloeiro   | Seletores: OK | Paginação: Ok  | Visualização: Ok | Revisão:    |   www.rodrigocostaleiloeiro.com.br
+472 |   Marcos   |   Lote 30   |   Rogeriomenezes   | Seletores: OK | Paginação: Erro - Prefixo Pendente  | Visualização: Ok | Revisão:    |   www.rogeriomenezes.com.br
 473 |   Marcos   |   Lote 30   |   Rtleiloes   | Seletores:   | Paginação:   | Visualização:   Erro site nao cadastrado    | Revisão:    |   www.rtleiloes.com.br
-474 |   Marcos   |   Lote 30   |   Rymerleiloes   | Seletores: OK | Paginação:   | Visualização:  | Revisão:    |   www.rymerleiloes.com.br
+474 |   Marcos   |   Lote 30   |   Rymerleiloes   | Seletores: OK | Paginação: Ok  | Visualização: Ok | Revisão:    |   www.rymerleiloes.com.br
 475 |   Marcos   |   Lote 30   |   Sergiorepresasleiloes   | Seletores: OK | Paginação: Ok   | Visualização: Ok   | Revisão:     |   www.sergiorepresasleiloes.com.br
 476 |   Marcos   |   Lote 30   |   Sevidanesleiloeira   | Seletores: OK | Paginação: Ok   | Visualização: Ok   | Revisão:     |   www.sevidanesleiloeira.com.br
 477 |   Marcos   |   Lote 30   |   Tassianamenezes   | Seletores: OK | Paginação: Ok   | Visualização: Ok   | Revisão:     |   www.tassianamenezes.com.br
