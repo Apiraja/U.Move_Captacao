@@ -78,13 +78,13 @@
 485 |   Breno   |   Lote 31   |   Ericoleiloes/LeilãoVip   | Seletores: OK | Paginação: OK  | Visualização: OK  | Revisão:     |   www.ericoleiloes.com.br
 486 |   Breno   |   Lote 31   |   Ericosobral   | Seletores: OK | Paginação: OK  | Visualização: OK  | Revisão:     |   www.ericosobral.com.br
 488 |   Breno   |   Lote 31   |   Leiloesgoias   | Seletores: OK | Paginação: Erro - Internal Server Error  | Visualização: OK  | Revisão:     |   www.leiloesgoias.com.br
-489 |   Breno   |   Lote 32   |   Marcaleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.marcaleiloes.com.br
-490 |   Breno   |   Lote 32   |   Mikedutraleiloeiro   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.mikedutraleiloeiro.com.br
-491 |   Breno   |   Lote 32   |   Dearaujoleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://dearaujoleiloes.com.br/externo/
-492 |   Breno   |   Lote 32   |   Arrematabem   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.arrematabem.com.br
-493 |   Breno   |   Lote 32   |   Caiapoleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.caiapoleiloes.com.br
-494 |   Breno   |   Lote 32   |   Escavador   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.escavador.com
-495 |   Breno   |   Lote 32   |   Leiloesbrasil   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloesbrasil.com.br
+489 |   Breno   |   Lote 32   |   Marcaleiloes   | Seletores:  OK | Paginação: Preenchido mas não retorna URL  | Visualização:  OK | Revisão:     |   www.marcaleiloes.com.br
+490 |   Breno   |   Lote 32   |   Mikedutraleiloeiro   | Seletores:   | Paginação:   | Visualização:  SEM LEILOES | Revisão:     |   www.mikedutraleiloeiro.com.br
+491 |   Breno   |   Lote 32   |   Dearaujoleiloes   | Seletores:   | Paginação:   | Visualização: SEM LEILOES  | Revisão:     |   https://dearaujoleiloes.com.br/externo/
+492 |   Breno   |   Lote 32   |   Arrematabem   | Seletores:  OK | Paginação: OK  | Visualização: OK  | Revisão:     |   www.arrematabem.com.br
+493 |   Breno   |   Lote 32   |   Caiapoleiloes   | Seletores:   | Paginação:   | Visualização: SEM LEILOES  | Revisão:     |   www.caiapoleiloes.com.br
+494 |   Breno   |   Lote 32   |   Escavador   | Seletores:   | Paginação:   | Visualização: SEM LEILOES  | Revisão:     |   www.escavador.com
+495 |   Breno   |   Lote 32   |   Leiloesbrasil   | Seletores:  OK | Paginação: Preenchido mas não retorna URL | Visualização:  OK | Revisão:     |   www.leiloesbrasil.com.br
 496 |   Breno   |   Lote 32   |   Leiloescentrooeste   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloescentrooeste.com.br
 497 |   Breno   |   Lote 32   |   Leiloesfederal   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloesfederal.com.br
 498 |   Breno   |   Lote 32   |   Leilomaster   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leilomaster.com.br
