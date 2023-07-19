@@ -27,7 +27,7 @@ Caso os links não carreguem, ai pode colocar o erro como: Java
 
 5) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
 
-Neste caso apenas fiz o cadastro do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou.
+Neste caso apenas fiz o cadastro do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou, se não funcionar colocar erro: redirecionamento leilão/lote
 
 Caso encontrem outros erros vamos conversar, tentar descobrir a origem e registrar aqui.
 
