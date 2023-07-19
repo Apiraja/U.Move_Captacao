@@ -1,5 +1,44 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
+# 18/07
+## Erros e testes de paginação
+Após preencher todos os campos da paginação e clicar no atualizar, deve ser realizado o teste clicando no testar.
+
+Este teste pode demorar até em torno de 1 min e chega a retornar que a página não etá funcionando. Nesse caso, não adianta clicar novamente em testar, pode ir fazer outra coisa e voltar em uns 3 min... que provavelemtne o teste deu certo.
+
+Para o teste dar certo, temos que obter de retorno a planilha do download preenchida.
+
+Apenas para entender, a lista de URLs que aparecem na pagina, é tudo o que foi encontrado com o tag `a`, e ai ele filtra com base no que preenchemos do que é lote e o que é leilão.
+
+Para agilizar nosso trabalho precisamos identificar corretamente o erro da paginação, os principais observados até agora são:
+
+1) O link na página principal está incompleto. Ex.: deveria estar www.zuk.com/leilão/001, porém está /leilão01.
+
+Neste caso pode identificar o erro como: prefixo pendendete.
+
+2) Caso verifique na página principal que o problema não é o relatado anteriormente, ai devemos inserir o link da paginação no campo URL Teste, com o número da página se for o caso (não o {pagina}) clicar em atualizar e ver o preview, para ver se está puxando os links corretos.
+   ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d7498aa9-73df-453d-9f3f-63278ff8140e)
+
+Caso os links não carreguem, ai pode colocar o erro como: Java
+
+3) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
+
+Neste caso apenas fiz o cadastro do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou.
+
+Caso encontrem outros erros vamos conversar, tentar descobrir a origem e registrar aqui.
+
+### Apenas lembrando a respeito dos outros campos.
+
+#### Identificar os erros de visuzalição de acordo com o problema, ex.: 
+
+Se não carrega alguns campos apenas, identificar o erro como java.
+
+Se a tela retornou em banco, colocar tela em branco.
+
+Se deu internal server error, clicar no atualizar e tentar novamente, caso não tenha dado certo em 2 tentativas ai anotar internal server error.
+
+#### No seletor relatar erro apenas se for um problema exclusivo de seletor e não de visualização de página. 
+
 # 17/07
 
 ## Complemento sobre paginação
