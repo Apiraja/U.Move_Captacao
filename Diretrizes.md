@@ -4,27 +4,38 @@ Pirmeira diretriz: Ler do Final para o Começo
 ## Solução dos errosde paginação
 #### 1) O link na página principal está incompleto. Ex.: deveria estar www.zuk.com/leilão/001, porém está /leilão01.
 
-Deve estar funcionando, caso nõa esteja identificar o erro como: prefixo pendendete.
+Deve estar funcionando, caso não esteja identificar o erro como: prefixo pendendete.
 
-#### 5) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
+#### 2) Preview ok, mas não puxa os links.
 
-Neste caso apenas fiz o cadastrar o preenchimento do campo <n> URL Leilão <\n> 
+Quando colocada a página da "paginação" no preview, e ela abrir uma página com os links lá. Mas quando clicado no testar não retorna nada
 
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/b560a2c5-d2cb-4e00-bd39-26f6803a0c06)
 
-do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou, se não funcionar colocar erro: redirecionamento leilão/lote
+Grande chances de estar faltando o https:// na URL Inicial.
 
-#### 2) Caso verifique na página principal que o problema não é o relatado anteriormente, ai devemos inserir o link da paginação no campo URL Teste, com o número da página se for o caso (não o {pagina}) clicar em atualizar e ver o preview, para ver se está puxando os links corretos.
-   ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d7498aa9-73df-453d-9f3f-63278ff8140e)
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/00b0972d-e8da-4157-9731-5038eee91a78)
 
-Caso os links não carreguem, ai pode colocar o erro como: Java
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/ec1a7751-841c-4ca0-ab51-f55b48778509)
 
-3) O Link dos lotes/leilões não estão dentro do tag `a`, erro: TAG dos Links
+Essa solução deve funcionar. 
 
-4) Paginação não é por número, se não carregar nada ai o erro é java, mas se carregar parcial, erro: paginação não numérica 
+Se os links não forem carregados no preview ai o erro é: JAVA
 
-5) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
+Se não carrega tudo, pois tem que rolar para baixo, ou a paginação não é de números... ai é o erro 4
+Erro 4) Paginação não é por número, se não carregar nada ai o erro é java, mas se carregar parcial, erro: paginação não numérica 
 
-Neste caso apenas fiz o cadastro do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou, se não funcionar colocar erro: redirecionamento leilão/lote
+#### 5) Redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
+
+Neste caso não cadastrar nada no campo `URL Leilão` e no campo `URL Lote` colocar a informação de leilão (.../detalhe_leilao/xxxx). Como o link é redirecionado, ele vai entender que o link do leilão já é o do lote, para ele o direcionamento é transparente.
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/52553bf7-62e5-486e-8e82-3c814dcac067)
+
+Se encontrarem algum caso onde a página de leilão, seja de fato uma página de leilão (com multiplos lotes dentro), favor informar que essa solução não será eficiente.
+
+Caso não funcione identificar o erro como: Redirecionamento leilão/lote.
+
+#### Erro 3 (Link dos lotes/leilões não estão dentro do tag `a`) estamos trabalhando para corrigir
 
 # 18/07
 ## Erros e testes de paginação
