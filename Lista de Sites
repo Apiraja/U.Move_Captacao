@@ -407,8 +407,9 @@
 573 |   Lucas   |   Lote 40   |   Innovaleiloes   | Seletores: Ok   | Paginação: Preenchido mas não retornou links   | Visualização: Ok    | Revisão:     |   www.innovaleiloes.com.br
 574 |   Lucas   |   Lote 40   |   Jussiaraleiloes   | Seletores: Ok   | Paginação: Ok   | Visualização: Ok   | Revisão:     |   www.jussiaraleiloes.com
 575 |   Lucas   |   Lote 40   |   Leilaoimovel   | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:     |   www.leilaoimovel.com.br
-576 |   Lucas   |   Lote 40   |   Leiloesanapolis   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloesanapolis.com.br
-577 |   Lucas   |   Lote 40   |   Leiloesjudiciaisgo   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloesjudiciaisgo.com.br
+576 |   Lucas   |   Lote 40   |   Leiloesanapolis   | Seletores: OK   | Paginação: Erro - JAVA   | Visualização: OK   | Revisão:     |   www.leiloesanapolis.com.br
+577 |   Lucas   |   Lote 40   |   Leiloesjudiciaisgo   | Seletores: REDIRECIONADO PARA O 809   | Paginação: REDIRECIONADO PARA O 809   | Visualização: REDIRECIONADO PARA O 809   | Revisão:     |   www.leiloesjudiciaisgo.com.br
+809 |   Lucas   |   Lote 40   |   alvaroleiloes   | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisado:   | www.alvaroleiloes.com.br
 578 |   Lucas   |   Lote 40   |   Lkleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.lkleiloes.com.br
 579 |   Lucas   |   Lote 40   |   Mclances   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.mclances.com
 580 |   Lucas   |   Lote 41   |   Vecchileiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.vecchileiloes.com.br
