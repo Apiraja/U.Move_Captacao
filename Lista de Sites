@@ -87,15 +87,15 @@
 495 |   Breno   |   Lote 32   |   Leiloesbrasil   | Seletores:  OK | Paginação: Preenchido mas não retorna URL | Visualização:  OK | Revisão:     |   www.leiloesbrasil.com.br
 496 |   Breno   |   Lote 32   |   Leiloescentrooeste   | Seletores: OK  | Paginação: OK  | Visualização:  OK | Revisão:     |   www.leiloescentrooeste.com.br
 497 |   Breno   |   Lote 32   |   Leiloesfederal   | Seletores:  OK | Paginação: OK  | Visualização: OK  | Revisão:     |   www.leiloesfederal.com.br
-498 |   Breno   |   Lote 32   |   Leilomaster   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leilomaster.com.br
-694 |   Breno   |   Lote 52   |   Leiloeselo   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.leiloeselo.com.br
-695 |   Breno   |   Lote 52   |   Liderancaleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.liderancaleiloes.com.br
-696 |   Breno   |   Lote 52   |   Sergiooliveiraleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.sergiooliveiraleiloes.com.br
-697 |   Breno   |   Lote 52   |   Rondonialeiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.rondonialeiloes.com.br
+498 |   Breno   |   Lote 32   |   Leilomaster   | Seletores:   | Paginação:   | Visualização: SEM LOTES  | Revisão:     |   www.leilomaster.com.br
+694 |   Breno   |   Lote 52   |   Leiloeselo   | Seletores:   | Paginação:   | Visualização: Site em construção  | Revisão:     |   www.leiloeselo.com.br
+695 |   Breno   |   Lote 52   |   Liderancaleiloes   | Seletores:   | Paginação:   | Visualização: Sem Leilões  | Revisão:     |   www.liderancaleiloes.com.br
+696 |   Breno   |   Lote 52   |   Sergiooliveiraleiloes   | Seletores:   | Paginação:   | Visualização: Sem Leilões  | Revisão:     |   www.sergiooliveiraleiloes.com.br
+697 |   Breno   |   Lote 52   |   Rondonialeiloes   | Seletores:  OK | Paginação: OK  | Visualização:  OK - (Agora virou LanceVip) | Revisão:     |   www.rondonialeiloes.com.br
 698 |   Breno   |   Lote 52   |   Veraleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.veraleiloes.com.br
-699 |   Breno   |   Lote 52   |   Guilhermeibagy   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   http://guilhermeibagy.com.br/
-700 |   Breno   |   Lote 52   |   Carmencapellaleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://carmencapellaleiloes.com/
-701 |   Breno   |   Lote 52   |   Correaquinhonesleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://correaquinhonesleiloes.com.br/
+699 |   Breno   |   Lote 52   |   Guilhermeibagy   | Seletores:   | Paginação:   | Visualização: Fora do ar  | Revisão:     |   http://guilhermeibagy.com.br/
+700 |   Breno   |   Lote 52   |   Carmencapellaleiloes   | Seletores:   | Paginação:   | Visualização: Sem leilões | Revisão:     |   https://carmencapellaleiloes.com/
+701 |   Breno   |   Lote 52   |   Correaquinhonesleiloes   | Seletores: OK, porém documentos são impossiveis pegar por não ter a informação nas tags HTML  | Paginação: Preenchida mas não retorna URL (Sem tag A nos cards)   | Visualização: OK  | Revisão:     |   https://correaquinhonesleiloes.com.br/
 702 |   Breno   |   Lote 52   |   Donizetteleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://donizetteleiloes.com.br/app/home/
 703 |   Breno   |   Lote 52   |   Ghisimachadoleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://ghisimachadoleiloes.com.br/
 704 |   Breno   |   Lote 53   |   Leiloesulsc   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   https://leiloesulsc.com/Default
