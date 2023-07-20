@@ -1,7 +1,7 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
 # 19/07
-## Solução dos errosde paginação
+## Solução dos erros de paginação
 #### 1) O link na página principal está incompleto. Ex.: deveria estar www.zuk.com/leilão/001, porém está /leilão01.
 
 Deve estar funcionando, caso não esteja identificar o erro como: prefixo pendendete.
