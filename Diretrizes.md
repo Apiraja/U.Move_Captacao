@@ -1,5 +1,31 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
+# 19/07
+## Solução dos errosde paginação
+#### 1) O link na página principal está incompleto. Ex.: deveria estar www.zuk.com/leilão/001, porém está /leilão01.
+
+Deve estar funcionando, caso nõa esteja identificar o erro como: prefixo pendendete.
+
+#### 5) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
+
+Neste caso apenas fiz o cadastrar o preenchimento do campo <n> URL Leilão <\n> 
+
+
+do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou, se não funcionar colocar erro: redirecionamento leilão/lote
+
+#### 2) Caso verifique na página principal que o problema não é o relatado anteriormente, ai devemos inserir o link da paginação no campo URL Teste, com o número da página se for o caso (não o {pagina}) clicar em atualizar e ver o preview, para ver se está puxando os links corretos.
+   ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d7498aa9-73df-453d-9f3f-63278ff8140e)
+
+Caso os links não carreguem, ai pode colocar o erro como: Java
+
+3) O Link dos lotes/leilões não estão dentro do tag `a`, erro: TAG dos Links
+
+4) Paginação não é por número, se não carregar nada ai o erro é java, mas se carregar parcial, erro: paginação não numérica 
+
+5) Vi um caso de redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
+
+Neste caso apenas fiz o cadastro do leilão com a nomeclatura correta e do lote com a nomeclatura correta e funcionou, se não funcionar colocar erro: redirecionamento leilão/lote
+
 # 18/07
 ## Erros e testes de paginação
 Após preencher todos os campos da paginação e clicar no atualizar, deve ser realizado o teste clicando no testar.
