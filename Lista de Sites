@@ -168,7 +168,7 @@
 20 |   Josh   |   Lote 63   |   Webleiloes   | Seletores: OK  | Paginação: OK  | Visualização:  Erro Java    | Revisão:    |   www.webleiloes.com.br
 21 |   JOSH   |   LOTE 00   |   Destakleiloes   | Seletores: OK | Paginação: OK  | Visualização:   | Revisão:    |   www.destakleiloes.com.br
 22 |   JOSH   |   LOTE 00   |   Psnleiloes   | Seletores:   | Paginação:   | Visualização: ERRO | Revisão:    |   www.psnleiloes.com.br
-23 |   JOSH   |   LOTE 00   |   Biasileiloes   | Seletores: OK | Paginação: OK  | Visualização:  | Revisão:    |   www.biasileiloes.com.br
+23 |   JOSH   |   LOTE 00   |   Biasileiloes   | Seletores: OK | Paginação: Erro Java  | Visualização:  | Revisão:    |   www.biasileiloes.com.br
 24 |   JOSH   |   LOTE 00   |   judhastas   | Seletores: OK | Paginação: OK  | Visualização:   | Revisão:    |   https://www.judhastas.com.br/externo/lote/24052/gleba-de-terras-22-526-86m-no
 25 |   JOSH   |   LOTE 00   |   Fidalgoleiloes   | Seletores: OK | Paginação: OK  | Visualização:   | Revisão:    |   https://www.fidalgoleiloes.com.br/lote.php?idLote=50657
 26 |   JOSH   |   LOTE 00   |   Vivaleiloes   | Seletores:   | Paginação:   | Visualização: ERRO | Revisão:    |   www.vivaleiloes.com.br
@@ -204,7 +204,7 @@
 96 |   Josh   |   LOTE 04   |   Arenaleilao   | Seletores: OK | Paginação: OK  | Visualização:   | Revisão:    |   www.arenaleilao.com.br
 97 |   Josh   |   LOTE 04   |   Cidafixerleiloes   | Seletores: OK | Paginação: OK  | Visualização:   | Revisão:    |   www.cidafixerleiloes.com.br
 98 |   Josh   |   LOTE 04   |   Fabiobarbosaleiloes   | Seletores: OK | Paginação: OK  | Visualização:   | Revisão:    |   www.fabiobarbosaleiloes.com.br
-99 |   Josh   |   LOTE 04   |   Giordanoleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.giordanoleiloes.com.br
+99 |   Josh   |   LOTE 04   |   Giordanoleiloes   | Seletores: OK | Paginação: Erro desconhecido  | Visualização:   | Revisão:    |   www.giordanoleiloes.com.br
 100 |   Josh   |   LOTE 04   |   Nakakogueleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Não carrega dados   | Revisão:    |   www.nakakogueleiloes.com.br
 102 |   Josh   |   LOTE 04   |   Rioleiloes   | Seletores: OK | Paginação: OK  | Visualização:   | Revisão:    |   www.rioleiloes.com.br
 103 |   Josh   |   LOTE 04   |   Douglasleiloeiro   | Seletores:   | Paginação:   | Visualização:   Erro   Não carrega dados   | Revisão:    |   www.douglasleiloeiro.com.br
@@ -243,7 +243,7 @@
 277 |   Josh   |   Lote 11   |   Anaclaraleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.anaclaraleiloes.lel.br
 278 |   Josh   |   Lote 11   |   Andraleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   www.andraleiloes.com.br
 279 |   Josh   |   Lote 11   |   Arieldesouzaleiloes   | Seletores:   | Paginação:   | Visualização: FORA DO AR | Revisão:    |   www.arieldesouzaleiloes.com.br
-280 |   Josh   |   Lote 11   |   Arremateleilao   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.arremateleilao.com.br
+280 |   Josh   |   Lote 11   |   Arremateleilao   | Seletores: OK | Paginação: Erro desconhecido  | Visualização:   | Revisão:    |   www.arremateleilao.com.br
 281 |   Josh   |   Lote 11   |   Arteprintsleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.arteprintsleiloes.com.br
 282 |   Josh   |   Lote 11   |   Bidmax   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.bidmax.com.br
 283 |   Josh   |   Lote 11   |   Bnleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.bnleiloes.com.br
