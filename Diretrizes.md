@@ -23,7 +23,8 @@ Essa solução deve funcionar.
 Se os links não forem carregados no preview ai o erro é: JAVA
 
 Se não carrega tudo, pois tem que rolar para baixo, ou a paginação não é de números... ai é o erro 4
-Erro 4) Paginação não é por número, se não carregar nada ai o erro é java, mas se carregar parcial, erro: paginação não numérica 
+
+Erro 4 - Paginação não é por número, se não carregar nada ai o erro é java, mas se carregar parcial, erro: paginação não numérica 
 
 #### 5) Redirecionamento, na página principal os links estão como .../detalhe_leilao/xxxx, e quando clica ele vai para .../detalhe_lote/xxxx
 
