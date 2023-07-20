@@ -551,16 +551,16 @@
 516 |   Marcos   |   Lote 34   |   Leiloesjudiciaismgnorte   | Seletores: OK | Paginação: Ok   | Visualização: Ok   | Revisão:     |   www.leiloesjudiciaismgnorte.com.br
 517 |   Marcos   |   Lote 34   |   Leiloesuberlandia | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisado: | www.leiloesuberlandia.com.br
 518 |   Marcos   |   Lote 34   |   Lilianportugal | Seletores: Ok | Paginação: Ok | Visualização: Ok | Revisado: | www.lilianportugal.com.br
-519 |   Marcos   |   Lote 35   |   Luizcampolina   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.luizcampolina.com.br
-520 |   Marcos   |   Lote 35   |   Luzialeiloeira   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.luzialeiloeira.com.br
-521 |   Marcos   |   Lote 35   |   Marcoantonioleiloeiro   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.marcoantonioleiloeiro.com.br
-522 |   Marcos   |   Lote 35   |   Mozarleiloeseimoveis   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.mozarleiloeseimoveis.com.br
-523 |   Marcos   |   Lote 35   |   Openleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.openleiloes.com.br
-524 |   Marcos   |   Lote 35   |   Patricialeiloeira   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.patricialeiloeira.com.br
-525 |   Marcos   |   Lote 35   |   Rafaelleiloeiro   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.rafaelleiloeiro.com.br
-526 |   Marcos   |   Lote 35   |   Rochaleiloesbrasil   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.rochaleiloesbrasil.com.br
-527 |   Marcos   |   Lote 35   |   Simoesleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.simoesleiloes.com.br
-528 |   Marcos   |   Lote 35   |   Vitorcalableiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.vitorcalableiloes.com.br
+519 |   Marcos   |   Lote 35   |   Luizcampolina   | Seletores: Ok  | Paginação: Ok  | Visualização: Ok  | Revisão:     |   www.luizcampolina.com.br
+520 |   Marcos   |   Lote 35   |   Luzialeiloeira   | Seletores:   | Paginação:   | Visualização: Erro - SL  | Revisão:     |   www.luzialeiloeira.com.br
+521 |   Marcos   |   Lote 35   |   Marcoantonioleiloeiro   | Seletores: Ok  | Paginação: Ok  | Visualização: Ok  | Revisão:     |   www.marcoantonioleiloeiro.com.br
+522 |   Marcos   |   Lote 35   |   Mozarleiloeseimoveis   | Seletores:   | Paginação:   | Visualização: Erro - Site fora do ar   | Revisão:     |   www.mozarleiloeseimoveis.com.br
+523 |   Marcos   |   Lote 35   |   Openleiloes   | Seletores: Ok  | Paginação: Ok  | Visualização: Ok  | Revisão:     |   www.openleiloes.com.br
+524 |   Marcos   |   Lote 35   |   Patricialeiloeira   | Seletores: Ok  | Paginação: Erro - Java  | Visualização: Ok  | Revisão:     |   www.patricialeiloeira.com.br
+525 |   Marcos   |   Lote 35   |   Rafaelleiloeiro   | Seletores: Ok  | Paginação: Ok   | Visualização: Ok  | Revisão:     |   www.rafaelleiloeiro.com.br
+526 |   Marcos   |   Lote 35   |   Rochaleiloesbrasil   | Seletores:   | Paginação:   | Visualização: Erro - Site fora do ar  | Revisão:     |   www.rochaleiloesbrasil.com.br
+527 |   Marcos   |   Lote 35   |   Simoesleiloes   | Seletores:   | Paginação:   | Visualização: Erro - Site fora do ar   | Revisão:    |   www.simoesleiloes.com.br
+528 |   Marcos   |   Lote 35   |   Vitorcalableiloes   | Seletores: Ok  | Paginação: Erro - Não puxa os links   | Visualização: Ok  | Revisão:     |   www.vitorcalableiloes.com.br
 529 |   Marcos   |   Lote 36   |   Williamleiloeiro   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.williamleiloeiro.com.br
 530 |   Marcos   |   Lote 36   |   Wsleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.wsleiloes.com.br
 531 |   Marcos   |   Lote 36   |   Oesteleiloes   | Seletores:   | Paginação:   | Visualização:   | Revisão:     |   www.oesteleiloes.com.br
