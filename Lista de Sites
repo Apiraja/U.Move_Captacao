@@ -164,7 +164,7 @@
 15  |   JOSH   |   LOTE 00   |   resale                | Seletores: OK | Paginação: Paginação não numérica  | Visualização: ERRO       | Revisão:    |   https://resale.com.br/imovel/IDR176284
 16  |   JOSH   |   LOTE 00   |   Venda-Imoveis.Caixa   | Seletores:    | Paginação:     | Visualização: ERRO Java  | Revisão:    |   https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=10011955
 17  |   JOSH   |   LOTE 00   |   Gpleiloes             | Seletores:    | Paginação:     | Visualização: ERRO Java  | Revisão:    |   www.gpleiloes.com.br
-18  |   JOSH   |   LOTE 00   |   Centralsuldeleiloes   | Seletores:    | Paginação:     | Visualização: ERRO       | Revisão:    |   www.centralsuldeleiloes.com.br
+18  |   JOSH   |   LOTE 00   |   Centralsuldeleiloes   | Seletores: OK | Paginação: OK  | Visualização:            | Revisão:    |   www.centralsuldeleiloes.com.br
 20  |   Josh   |   Lote 63   |   Webleiloes            | Seletores: OK | Paginação: OK  | Visualização: Erro Java  | Revisão:    |   www.webleiloes.com.br
 21  |   JOSH   |   LOTE 00   |   Destakleiloes         | Seletores: OK | Paginação: OK  | Visualização:            | Revisão:    |   www.destakleiloes.com.br
 22  |   JOSH   |   LOTE 00   |   Psnleiloes            | Seletores:    | Paginação:     | Visualização: ERRO       | Revisão:    |   www.psnleiloes.com.br
