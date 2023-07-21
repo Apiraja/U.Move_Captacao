@@ -3,14 +3,14 @@
 57 |   Breno   |   LOTE 02   |   Sodresantoro   | Seletores: OK | Paginação: OK  | Visualização:  OK | Revisão:    |   www.sodresantoro.com.br
 58 |   Breno   |   LOTE 02   |   Teza   | Seletores: OK | Paginação:  OK | Visualização: OK  | Revisão:    |   www.teza.com.br
 61 |   Breno   |   LOTE 02   |   Delanoleiloes   | Seletores:  OK | Paginação:  OK | Visualização: OK  Pendente  Apenas o documento não é retirado, e o código e suas variações funcionam no console   | Revisão:    |   https://www.delanoleiloes.com.br/externo/lote/23485/terrenos-em-santa-rosa-de
-62 |   Breno   |   LOTE 02   |   Pecinileiloes   | Seletores: Erro - Mesmo em Ajax, não carrega as informações  | Paginação: OK  | Visualização:  OK    | Revisão:    |   www.pecinileiloes.com.br
+62 |   Breno   |   LOTE 02   |   Pecinileiloes   | Seletores:  OK  | Paginação: OK  | Visualização:  OK    | Revisão:    |   www.pecinileiloes.com.br
 63 |   Breno   |   LOTE 02   |   Comprei.Pgfn   | Seletores:  OK | Paginação: Links não estão na tag A  | Visualização: OK | Revisão:    |   https://comprei.pgfn.gov.br/anuncio/detalhe/1654
 64 |   Breno   |   LOTE 02   |   Fabioleiloes   | Seletores: OK | Paginação: OK  | Visualização:  OK | Revisão:    |   www.fabioleiloes.com.br
 66 |   Breno   |   LOTE 02   |   Rmcleiloes   | Seletores:   Ok   pendente    | Paginação: OK  | Visualização: OK  | Revisão:    |   www.rmcleiloes.com.br
 71 |   Breno   |   LOTE 02   |   Lancenoleilao   | Seletores:  OK | Paginação: Erro - Java  | Visualização:  OK | Revisão:    |   www.lancenoleilao.com.br
 120 |   Breno   |   Lote 6   |   Aragaoleiloes   | Seletores: OK | Paginação: OK  | Visualização: OK  | Revisão:    |   www.aragaoleiloes.com.br
 121 |   Breno   |   Lote 6   |   Baldisseraleiloeiros   | Seletores:   | Paginação:   | Visualização:   Erro   Pagina não carrega os dados   | Revisão:    |   www.baldisseraleiloeiros.com.br
-122 |   Breno   |   Lote 6   |   Bcoleiloes   | Seletores: Não carrega informações   | Paginação: Internal Server Error  | Visualização: OK | Revisão:    |   www.bcoleiloes.com.br
+122 |   Breno   |   Lote 6   |   Bcoleiloes   | Seletores: OK   | Paginação: OK  | Visualização: OK | Revisão:    |   www.bcoleiloes.com.br
 124 |   Breno   |   Lote 6   |   Delttaleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Erro    | Revisão:    |   www.delttaleiloes.com.br
 125 |   Breno   |   Lote 6   |   Deonizialeiloes   | Seletores: OK | Paginação:  OK  | Visualização: OK  | Revisão:    |   www.deonizialeiloes.com.br
 126 |   Breno   |   Lote 6   |   Depaulaonline   | Seletores:   | Paginação:   | Visualização:   Erro   Site não entra   | Revisão:    |   www.depaulaonline.com.br
