@@ -345,9 +345,9 @@
 81 |   Lucas   |   LOTE 03   |   Krobelleiloes   | Seletores: Variáveis retornando como código {{vm.lote.d.cidade}} ou não retornam   | Paginação: OK   | Visualização: Variáveis retornando como código {{vm.lote.d.cidade}} ou não retornam   | Revisão:    |   https://www.krobelleiloes.com.br/pregao/62314d22de807a0c2a4f5eaf/62314de29c91420b77754394
 83 |   Lucas   |   LOTE 03   |   Mirandacarvalholeiloes   | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:    |   www.mirandacarvalholeiloes.com.br
 85 |   Lucas   |   LOTE 03   |   Saleiloes   | Seletores: Preenchido - Funcionando somente no console - Varíveis dentro do modal do lote (iframe)   | Paginação: Erro - Lotes são abertos no estilo de modais (iframe) na mesma página   | Visualização:Erro - Varíveis dentro do modal do lote (iframe)   | Revisão:    |   www.saleiloes.com.br
-86 |   Lucas   |   LOTE 03   |   Startupleiloes   | Seletores:   OK   pendente    | Paginação: OK   | Visualização OK   | Revisão:    |   www.startupleiloes.com.br
-89 |   Lucas   |   LOTE 03   |   Arremax   | Seletores: OK   | Paginação: Erro - Não encontra os lotes retornando HTML vazio   | Visualização: OK    | Revisão:    |   https://www.arremax.com.br/lote/area-de-628572-m/1038/
-90 |   Lucas   |   LOTE 03   |   Centraljudicial   | Seletores: Preenchido - Alguns seletores funcionando somente no console   | Paginação: Erro - TAG dos Links   | Visualização: Preenchido - Alguns seletores funcionando somente no console   | Revisão:    |   www.centraljudicial.com.br
+86 |   Lucas   |   LOTE 03   |   Startupleiloes   | Seletores: OK   | Paginação: OK   | Visualização OK   | Revisão:    |   www.startupleiloes.com.br
+89 |   Lucas   |   LOTE 03   |   Arremax   | Seletores: OK   | Paginação: OK   | Visualização: OK    | Revisão:    |   https://www.arremax.com.br/lote/area-de-628572-m/1038/
+90 |   Lucas   |   LOTE 03   |   Centraljudicial   | Seletores: OK   | Paginação: Erro - TAG dos Links   | Visualização: OK   | Revisão:    |   www.centraljudicial.com.br
 91 |   Lucas   |   LOTE 03   |   Leiloes   | Seletores: REDIRECIONADO PARA O 808   | Paginação: REDIRECIONADO PARA O 808   | Visualização: REDIRECIONADO PARA O 808   | Revisão:    |   www.leiloes.com.br
 93 |   Lucas   |   LOTE 03   |   Mazzollileiloes   | Seletores: OK   | Paginação: Erro - TAG dos Links   | Visualização: OK | Revisão:    |   https://www.mazzollileiloes.com.br/pregao/64404831a7d0d08893753302/64404876a7d0d08893753326
 808 |   Lucas   |   LOTE 03   |   Pestanaleiloes   | Seletores: OK   | Paginação: Erro - TELA EM BRANCO   | Visualização: OK   | Revisão:    |   https://www.pestanaleiloes.com.br/
@@ -363,26 +363,26 @@
 316 |   Lucas   |   Lote 14   |   Gualeiloes   | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:   | Visualização:  | Revisão:    |   www.gualeiloes.com.br
 317 |   Lucas   |   Lote 15   |   Guariglialeiloes   | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão: OK   |   www.guariglialeiloes.com.br
 318 |   Lucas   |   Lote 15   |   Guiadearte   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.guiadearte.com.br
-319 |   Lucas   |   Lote 15   |   Hamouileiloes   | Seletores: OK   | Paginação: Erro - JAVA   | Visualização: OK   | Revisão:    |   www.hamouileiloes.com.br
-320 |   Lucas   |   Lote 15   |   Hirasawaleiloes   | Seletores: OK   | Paginação: Erro - JAVA   | Visualização: OK   | Revisão:    |   www.hirasawaleiloes.com.br
+319 |   Lucas   |   Lote 15   |   Hamouileiloes   | Seletores: OK   | Paginação: Erro - Listagem Lotes   | Visualização: OK   | Revisão:    |   www.hamouileiloes.com.br
+320 |   Lucas   |   Lote 15   |   Hirasawaleiloes   | Seletores: OK   | Paginação: Erro - Listagem Lotes   | Visualização: OK   | Revisão:    |   www.hirasawaleiloes.com.br
 321 |   Lucas   |   Lote 15   |   Jbiglesias   | Seletores: Preenchido - Problemas em buscar algumas variáveis nos modais   | Paginação: Preenchido mas não retornou links - nível de página a mais entre URL Paginação e URL Leilão   | Visualização: Preenchido - Problemas em buscar algumas variáveis nos modais   | Revisão:    |   www.jbiglesias.com.br
-322 |   Lucas   |   Lote 15   |   Jmesquitaleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.jmesquitaleiloes.com.br
-323 |   Lucas   |   Lote 15   |   Jonas   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.jonas.lel.br
-324 |   Lucas   |   Lote 15   |   Jorgemolgado   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.jorgemolgado.com.br
-325 |   Lucas   |   Lote 15   |   Jpjoiasepedrasleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.jpjoiasepedrasleiloes.com.br
-326 |   Lucas   |   Lote 15   |   Lancenow   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.lancenow.com.br
+322 |   Lucas   |   Lote 15   |   Jmesquitaleiloes   | Seletores: Preenchido - Problemas em buscar algumas variáveis nos modais   | Paginação: Preenchido mas não retornou links - nível de página a mais entre URL Paginação e URL Leilão   | Visualização: Preenchido - Problemas em buscar algumas variáveis nos modais   |   www.jmesquitaleiloes.com.br
+323 |   Lucas   |   Lote 15   |   Jonas   | Seletores: Preenchido - Problemas em buscar algumas variáveis nos modais   | Paginação: Preenchido mas não retornou links - nível de página a mais entre URL Paginação e URL Leilão   | Visualização: Preenchido - Problemas em buscar algumas variáveis nos modais   | Revisão:    |   www.jonas.lel.br
+324 |   Lucas   |   Lote 15   |   Jorgemolgado   | Seletores: OK | Paginação: OK   | Visualização: OK   | Revisão:    |   www.jorgemolgado.com.br
+325 |   Lucas   |   Lote 15   |   Jpjoiasepedrasleiloes   | Seletores: Preenchido - Problemas em buscar algumas variáveis nos modais   | Paginação: Preenchido mas não retornou links - nível de página a mais entre URL Paginação e URL Leilão   | Visualização: Preenchido - Problemas em buscar algumas variáveis nos modais   | Revisão:    |   www.jpjoiasepedrasleiloes.com.br
+326 |   Lucas   |   Lote 15   |   Lancenow   | Seletores: OK | Paginação: OK   | Visualização: OK   | Revisão:    |   www.lancenow.com.br
 408 |   Lucas   |   Lote 24   |   Rubenshcastro   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.rubenshcastro.com.br
-409 |   Lucas   |   Lote 24   |   Santosmoraesleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   www.santosmoraesleiloes.com.br
-410 |   Lucas   |   Lote 24   |   Vardanaleiloes   | Seletores:   | Paginação:   | Visualização: EM BRANCO | Revisão:    |   www.vardanaleiloes.com.br
+409 |   Lucas   |   Lote 24   |   Santosmoraesleiloes   | Seletores: OK | Paginação: Preenchido - Não retorna os links   | Visualização: OK   | Revisão:    |   www.santosmoraesleiloes.com.br
+410 |   Lucas   |   Lote 24   |   Vardanaleiloes   | Seletores: Preenchido - Funcionando somente no console   | Paginação: Erro - TAG dos links   | Visualização: Preenchido - Funcionando somente no console   | Revisão:    |   www.vardanaleiloes.com.br
 411 |   Lucas   |   Lote 24   |   Zemarchiottoleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Domínio não encontrado   | Revisão:    |   www.zemarchiottoleiloes.com.br
-412 |   Lucas   |   Lote 24   |   Acleiloes   | Seletores:   | Paginação:   | Visualização:   Preenchido   Poucas informações do Lote na página, variáveis funcionam em algumas páginas e não em outras   | Revisão:    |   www.acleiloes.com.br
-413 |   Lucas   |   Lote 24   |   Donhaleiloes   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.donhaleiloes.com
+412 |   Lucas   |   Lote 24   |   Acleiloes   | Seletores: Preenchido - Algumas variáveis só funcionam no console   | Paginação: Preenchido - Arquivo com variáveis em branco   | Visualização: Preenchido - Algumas variáveis só funcionam no console   | Revisão:    |   www.acleiloes.com.br
+413 |   Lucas   |   Lote 24   |   Donhaleiloes   | Seletores: Preenchido - Algumas variáveis só funcionam no console - Pouca informação   | Paginação: Preenchido - Não retorna os links   | Visualização: Preenchido - Algumas variáveis só funcionam no console - Pouca informação   | Revisão:    |   www.donhaleiloes.com
 414 |   Lucas   |   Lote 24   |   Marangoni   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   https://marangoni.canaljudicial.com.br/
-415 |   Lucas   |   Lote 24   |   Odarlicanezinleiloes   | Seletores:   | Paginação:   | Visualização:   Preenchido   Poucas informações do Lote na página   | Revisão:    |   https://odarlicanezinleiloes.com.br/
+415 |   Lucas   |   Lote 24   |   Odarlicanezinleiloes   | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:    |   https://odarlicanezinleiloes.com.br/
 416 |   Lucas   |   Lote 24   |   Cordeiroleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Não é possível aceder a este site   | Revisão:    |   www.cordeiroleiloes.com.br
 417 |   Lucas   |   Lote 24   |   Drrleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Não é possível aceder a este site   | Revisão:    |   www.drrleiloes.com.br
-418 |   Lucas   |   Lote 25   |   Machadoleiloes   | Seletores: OK | Paginação:   | Visualização:   | Revisão:    |   https://machadoleiloes.com.br/
-419 |   Lucas   |   Lote 25   |   Alanleiloeiro   | Seletores:   | Paginação:   | Visualização: SEM LOTES | Revisão:    |   www.alanleiloeiro.com.br
+418 |   Lucas   |   Lote 25   |   Machadoleiloes   | Seletores: OK   | Paginação: Preenchido - Não retorna os links   | Visualização: OK   | Revisão:    |   https://machadoleiloes.com.br/
+419 |   Lucas   |   Lote 25   |   Alanleiloeiro   | Seletores: OK   | Paginação: Preenchido - Não retorna os links   | Visualização: OK   | Revisão:    |   www.alanleiloeiro.com.br
 420 |   Lucas   |   Lote 25   |   Izabellaferreiraleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Não é possível aceder a este site   | Revisão:    |   https://izabellaferreiraleiloes.com.br/index.php
 421 |   Lucas   |   Lote 25   |   Marcoscostaleiloeiro   | Seletores:   | Paginação:   | Visualização:   Preenchido   Alguns comandos funcionam no console do navegador, mas não funcionam no painel   | Revisão:    |   https://marcoscostaleiloeiro.com.br/
 422 |   Lucas   |   Lote 25   |   Mauriciokronemberg   | Seletores:   | Paginação:   | Visualização:   Erro   Popup   | Revisão:    |   https://mauriciokronemberg.com.br/index.php#
