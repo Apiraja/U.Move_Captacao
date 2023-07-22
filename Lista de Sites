@@ -9,10 +9,10 @@
 66 |   Breno   |   LOTE 02   |   Rmcleiloes   | Seletores:   Ok   pendente    | Paginação: OK  | Visualização: OK  | Revisão:    |   www.rmcleiloes.com.br
 71 |   Breno   |   LOTE 02   |   Lancenoleilao   | Seletores:  OK | Paginação: Erro - Java  | Visualização:  OK | Revisão:    |   www.lancenoleilao.com.br
 120 |   Breno   |   Lote 6   |   Aragaoleiloes   | Seletores: OK | Paginação: OK  | Visualização: OK  | Revisão:    |   www.aragaoleiloes.com.br
-121 |   Breno   |   Lote 6   |   Baldisseraleiloeiros   | Seletores:   | Paginação:   | Visualização:   Erro   Pagina não carrega os dados   | Revisão:    |   www.baldisseraleiloeiros.com.br
+121 |   Breno   |   Lote 6   |   Baldisseraleiloeiros   | Seletores: OK  | Paginação: Erro - Java  | Visualização:  OK   | Revisão:    |   www.baldisseraleiloeiros.com.br
 122 |   Breno   |   Lote 6   |   Bcoleiloes   | Seletores: OK   | Paginação: OK  | Visualização: OK | Revisão:    |   www.bcoleiloes.com.br
-124 |   Breno   |   Lote 6   |   Delttaleiloes   | Seletores:   | Paginação:   | Visualização:   Erro   Erro    | Revisão:    |   www.delttaleiloes.com.br
-125 |   Breno   |   Lote 6   |   Deonizialeiloes   | Seletores: OK | Paginação:  OK  | Visualização: OK  | Revisão:    |   www.deonizialeiloes.com.br
+124 |   Breno   |   Lote 6   |   Delttaleiloes   | Seletores: OK  | Paginação:  OK | Visualização:OK  | Revisão:    |   www.delttaleiloes.com.br
+125 |   Breno   |   Lote 6   |   Deonizialeiloes   | Seletores: OK | Paginação:  Erro - Java  | Visualização: OK  | Revisão:    |   www.deonizialeiloes.com.br
 126 |   Breno   |   Lote 6   |   Depaulaonline   | Seletores:   | Paginação:   | Visualização:   Erro   Site não entra   | Revisão:    |   www.depaulaonline.com.br
 130 |   Breno   |   Lote 6   |   Kronbergleiloes   | Seletores:   | Paginação:   | Visualização:   Pendente   resolver erros url sql   | Revisão:    |   www.kronbergleiloes.com.br
 132 |   Breno   |   Lote 6   |   Leiloeirasilvani   | Seletores: OK | Paginação: Erro - .ASP  | Visualização: OK  | Revisão:    |   https://www.leiloeirasilvani.com.br/Leilao.asp?zz=20050858201532006090001
@@ -63,7 +63,7 @@
 400 |   Breno   |   Lote 23   |   Leiloeiroqueiroz   | Seletores:   | Paginação:   | Visualização:   Seletor não funciona    | Revisão:    |   www.leiloeiroqueiroz.com.br
 401 |   Breno   |   Lote 23   |   Lelialenz   | Seletores: OK (Tratar Endereço)   | Paginação: OK   | Visualização: OK  | Revisão:     |   www.lelialenz.com.br
 402 |   Breno   |   Lote 23   |   Marcosleiloes   | Seletores:   | Paginação: Erro Fora do ar  | Visualização: FORA DO AR | Revisão:     |   www.marcosleiloes.com.br 
-403 |   Breno   |   Lote 23   |   Marcotulioleiloes   | Seletores: Erro - Site fora do Ar  | Paginação:  Paginação:Erro - Site fora do Ar   | Visualização: FORA DO AR | Revisão:     |   www.marcotulioleiloes.com.br
+403 |   Breno   |   Lote 23   |   Marcotulioleiloes   | Seletores: OK  | Paginação:OK|  Paginação:OK   | Visualização: OK | Revisão:     |   www.marcotulioleiloes.com.br
 404 |   Breno   |   Lote 23   |   Marquesleiloes   | Seletores: OK | Paginação: OK | Visualização: OK   | Revisão:     |   www.marquesleiloes.com.br
 405 |   Breno   |   Lote 23   |   Milanileiloes   | Seletores: OK | Paginação: OK   | Visualização:  Visualização:OK   | Revisão:     |   www.milanileiloes.com.br
 406 |   Breno   |   Lote 23   |   Newtonleiloes   | Seletores: OK | Paginação:  OK   | Visualização: OK  | Revisão:     |   www.newtonleiloes.com.br
