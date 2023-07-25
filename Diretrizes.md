@@ -16,6 +16,11 @@ Como são muitos itens por página, no lugar do vetor devemos utilizar [n], este
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d4a39817-d6bb-4f82-8214-27322aa79610)
 
+#### Exemplos
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/4e95a1f2-5d6d-4d36-bd87-7aa859fad05a)
+
+
 
 
 # 19/07
