@@ -1,5 +1,18 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
+
+# 25/07
+## URL do leilão e do lote fora do `<a>`
+
+Tem muitos casos onde o trecho do link do leilão e do lote não estão dentro do tag `<a>`, muitas vezes aparece dentro do `onclick` por exemplo.
+
+Nesses casos devemos chamar a parte variável do link de {var1}, {var2} ou {var3}. E o valor dessas variáveis devemos especificar abaixo através de um xpath.
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/4ccf7115-52b4-424d-8fc8-d781382da154)
+
+Como são muitos itens por página, no lugar do vetor devemos utilizar [n], este n será substituído por números formará todos os links.
+
+
 # 19/07
 ## Solução dos erros de paginação
 #### 1) O link na página principal está incompleto. Ex.: deveria estar www.zuk.com/leilão/001, porém está /leilão01.
