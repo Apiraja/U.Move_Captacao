@@ -12,6 +12,11 @@ Nesses casos devemos chamar a parte variável do link de {var1}, {var2} ou {var3
 
 Como são muitos itens por página, no lugar do vetor devemos utilizar [n], este n será substituído por números formará todos os links.
 
+#### Não usar esta solução para o caso abaixo onde o link está dentro de um `<a>`, porém sem a parte incial, esses casos deverão funcionar de maneira normal com o {slug}
+
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/d4a39817-d6bb-4f82-8214-27322aa79610)
+
+
 
 # 19/07
 ## Solução dos erros de paginação
