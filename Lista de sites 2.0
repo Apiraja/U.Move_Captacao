@@ -263,15 +263,16 @@
 607 | Lucas |    Lote 43    |    Awleiloes               | Seletores: Preenchido - Algumas variáveis em modais   | Paginação: ERRO - Página extra entre Url Paginação e URL leilão   | Visualização: Preenchido - Algumas variáveis em modais   | Revisão:  |    www.awleiloes.com.br
 581 | Lucas |    Lote 41    |    Batistaregisleiloes     | Seletores: SEM LOTES   | Paginação:    | Visualização: SEM LOTES   | Revisão:  |    https://batistaregisleiloes.com.br/externo/
 608 | Lucas |    Lote 43    |    Benedettoleiloes        | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.benedettoleiloes.com.br
-609 | Lucas |    Lote 43    |    Bertoncello             | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.bertoncello.lel.br
-584 | Lucas |    Lote 41    |    Bezerraleiloes          | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.bezerraleiloes.com.br
-610 | Lucas |    Lote 43    |    Bolzanleiloes           | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.bolzanleiloes.com.br
-585 | Lucas |    Lote 41    |    Brandelleiloes          | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.brandelleiloes.com.br
-611 | Lucas |    Lote 44    |    Callegaroleiloes        | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.callegaroleiloes.lel.br
-613 | Lucas |    Lote 44    |    Carlosleiloes           | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.carlosleiloes.com.br
-586 | Lucas |    Lote 41    |    Centraldosleiloes       | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.centraldosleiloes.com.br
-614 | Lucas |    Lote 44    |    Clicleilao              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.clicleilao.com.br
-416 | Lucas |    Lote 24    |    Cordeiroleiloes         | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.cordeiroleiloes.com.br
+609 | Lucas |    Lote 43    |    Bertoncello             | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.bertoncello.lel.br
+584 | Lucas |    Lote 41    |    Bezerraleiloes          | Seletores: Preenchido - Funciona somente no console    | Paginação: Preenchido - ERRO - Tela Branca   | Visualização: Preenchido - ERRO - Tela Branca   | Revisão:  |    www.bezerraleiloes.com.br
+610 | Lucas |    Lote 43    |    Bolzanleiloes           | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.bolzanleiloes.com.br
+585 | Lucas |    Lote 41    |    Brandelleiloes          | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.brandelleiloes.com.br
+611 | Lucas |    Lote 44    |    Callegaroleiloes        | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.callegaroleiloes.lel.br
+613 | Lucas |    Lote 44    |    Carlosleiloes           | Seletores: SEM LOTES   | Paginação:    | Visualização:  | Revisão: SEM LOTES   |    www.carlosleiloes.com.br
+586 | Lucas |    Lote 41    |    Centraldosleiloes       | Seletores: OK   | Paginação: Preenchido - ERRO - Redirecionamento, existem leilões com múltiplos lotes   | Visualização: OK   | Revisão:  |    www.centraldosleiloes.com.br
+614 | Lucas |    Lote 44    |    Clicleilao              | Seletores: REDIRECIONADO PARA 693   | Paginação: REDIRECIONADO PARA 693   | Visualização: REDIRECIONADO PARA 693   | Revisão:  |    www.clicleilao.com.br
+693 | Lucas |    Lote 44    |    Giulianoferronato	      | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    https://www.giulianoferronato.com.br/
+416 | Lucas |    Lote 24    |    Cordeiroleiloes         | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.cordeiroleiloes.com.br
 615 | Lucas |    Lote 44    |    Correaleiloes           | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.correaleiloes.com.br
 616 | Lucas |    Lote 44    |    Cristianoescolaleiloes  | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.cristianoescolaleiloes.com.br
 617 | Lucas |    Lote 44    |    Ctsleiloes              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.ctsleiloes.com.br
