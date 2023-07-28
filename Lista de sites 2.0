@@ -130,7 +130,7 @@
  70 | Josh |    Lote 63    |    Gaialeiloes                    | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    https://www.gaialeiloes.com.br/lote/jardim-paulista-sao-paulo-sp/158/
  72 | Josh |    Lote 63    |    felipefrazao                   | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    https://felipefrazao.com.br/imoveis/loja-comercial/loja-no-rio-de-janeiro-rj-17275-19853
  84 | Josh |    Lote 63    |    Oaleiloes                      | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.oaleiloes.com.br
- 88 | Josh |    Lote 63    |    Argonetworkleiloes             | Seletores:    | Paginação:    | Visualização: PAGINA EM BRANCO | Revisão:  |    www.argonetworkleiloes.com.br
+ 88 | Josh |    Lote 63    |    Argonetworkleiloes             | Seletores: OK | Paginação: LINK SEM PREFIXO   | Visualização:  | Revisão:  |    www.argonetworkleiloes.com.br
 100 | Josh |    LOTE 04    |    Nakakogueleiloes               | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.nakakogueleiloes.com.br
 261 | Josh |    LOTE 00    |    3Torresleiloes                 | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.3torresleiloes.com.br
 200 | Josh |    Lote 63    |    Alinemarquesleiloeira          | Seletores: OK | Paginação: OnClick | Visualização:  | Revisão:  |    www.alinemarquesleiloeira.lel.br
@@ -176,8 +176,8 @@
 452 | Josh |    Lote 28    |    Galeriaalphaville              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.galeriaalphaville.com.br
 763 | Josh |    Lote 58    |    Gbleiloes                      | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.gbleiloes.com.br
 621 | Josh |    LOTE 00    |    Grandesleiloes                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.grandesleiloes.com.br
-487 | Josh |    LOTE 00    |    Hammer                         | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.hammer.lel.br
-764 | Josh |    Lote 58    |    Hdleiloes                      | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.hdleiloes.com.br
+487 | Josh |    LOTE 00    |    Hammer                         | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.hammer.lel.br
+764 | Josh |    Lote 58    |    Hdleiloes                      | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.hdleiloes.com.br
 453 | Josh |    Lote 28    |    Jfleiloeira                    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.jfleiloeira.com.br
 454 | Josh |    Lote 28    |    Joaodefrancoleiloeiro          | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.joaodefrancoleiloeiro.com.br
 455 | Josh |    Lote 28    |    Joaoemilio                     | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.joaoemilio.com.br
@@ -185,21 +185,21 @@
 766 | Josh |    Lote 59    |    Jotaerreleiloes                | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.jotaerreleiloes.com.br
 456 | Josh |    Lote 28    |    Jvleiloes                      | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.jvleiloes.lel.br
 457 | Josh |    Lote 28    |    Lagemmeleiloes                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.lagemmeleiloes.com.br
-767 | Josh |    Lote 59    |    Lancecertoleiloes              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.lancecertoleiloes.com.br 
+767 | Josh |    Lote 59    |    Lancecertoleiloes              | Seletores: OK | Paginação: LINK SEM PREFIXO | Visualização:  | Revisão:  |    www.lancecertoleiloes.com.br 
 768 | Josh |    Lote 59    |    Leilaomanaus                   | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leilaomanaus.lel.br
 769 | Josh |    Lote 59    |    Leilaoseguro                   | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leilaoseguro.org.br
 770 | Josh |    Lote 59    |    Leilaovip10                    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leilaovip10.com.br 
-771 | Josh |    Lote 59    |    Leilobras                      | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leilobras.lel.br
-803 | Josh |    Lote 62    |    Leiloeiro.lel                  | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloeiro.lel.br
+771 | Josh |    Lote 59    |    Leilobras                      | Seletores:    | Paginação:    | Visualização: SITE SEM  LOTES | Revisão:  |    www.leilobras.lel.br
+803 | Josh |    Lote 62    |    Leiloeiro.lel                  | Seletores:    | Paginação:    | Visualização: ERRO JAVA | Revisão:  |    www.leiloeiro.lel.br
 772 | Josh |    Lote 59    |    Leiloeirosdebrasilia           | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloeirosdebrasilia.com.br
 773 | Josh |    Lote 59    |    Leiloes61                      | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloes61.com.br
 774 | Josh |    Lote 59    |    Leiloesaraujo                  | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloesaraujo.com.br
 775 | Josh |    Lote 59    |    Leiloesdonorte                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloesdonorte.com.br
-776 | Josh |    Lote 60    |    Leiloes-Es                     | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloes-es.com.br
+776 | Josh |    Lote 60    |    Leiloes-Es                     | Seletores:    | Paginação:    | Visualização: SITE FORA DO AR | Revisão:  |    www.leiloes-es.com.br
 777 | Josh |    Lote 60    |    Leiloesfreitas                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloesfreitas.lel.br
 778 | Josh |    Lote 60    |    Leiloesnazareth                | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloesnazareth.com.br
 779 | Josh |    Lote 60    |    Leiloespb                      | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leiloespb.com.br
-780 | Josh |    Lote 60    |    Leilofacil                     | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.leilofacil.lel.br
+780 | Josh |    Lote 60    |    Leilofacil                     | Seletores:    | Paginação:    | Visualização: SITE SEM  LOTES | Revisão:  |    www.leilofacil.lel.br
 781 | Josh |    Lote 60    |    Loteleiloes                    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.loteleiloes.com.br
 782 | Josh |    Lote 60    |    Mariavitorinoleiloira@Gmail    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.mariavitorinoleiloira@gmail.com
 202 | Josh |    Lote 63    |    Marioricart                    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.marioricart.lel.br
@@ -212,7 +212,7 @@
 788 | Josh |    Lote 61    |    Nasarleiloes                   | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.nasarleiloes.com.br
 804 | Josh |    LOTE 00    |    neteditaisleiloes              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    https://www.neteditaisleiloes.com.br/buscar
 789 | Josh |    Lote 61    |    Nolileiloes                    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.nolileiloes.com.br
-638 | Josh |    LOTE 00    |    Nortonleiloes                  | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.nortonleiloes.com.br
+638 | Josh |    LOTE 00    |    Nortonleiloes                  | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.nortonleiloes.com.br
 204 | Josh |    Lote 63    |    Omcleiloes                     | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.omcleiloes.com.br
 596 | Josh |    LOTE 00    |    Oscarleiloes                   | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.oscarleiloes.com.br
 790 | Josh |    Lote 61    |    Parquedosleiloes               | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.parquedosleiloes.com.br
@@ -223,7 +223,7 @@
 793 | Josh |    Lote 61    |    Realizaleiloes                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.realizaleiloes.com.br
 794 | Josh |    Lote 61    |    Realizeleiloes                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.realizeleiloes.com.br
 795 | Josh |    Lote 61    |    Rotadosleiloes                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.rotadosleiloes.com.br
-270 | Josh |    Lote 10    |    Savoyleiloes                   | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.savoyleiloes.com.br
+270 | Josh |    Lote 10    |    Savoyleiloes                   | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.savoyleiloes.com.br
 726 | Josh |    LOTE 00    |    Sopranoleilao                  | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.sopranoleilao.com.br
 796 | Josh |    Lote 62    |    Suedpeterleiloes               | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.suedpeterleiloes.com.br
 797 | Josh |    Lote 62    |    Sydneyleiloes                  | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.sydneyleiloes.com.br
