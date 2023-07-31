@@ -281,15 +281,15 @@
 616 | Lucas |    Lote 44    |    Cristianoescolaleiloes  | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.cristianoescolaleiloes.com.br
 617 | Lucas |    Lote 44    |    Ctsleiloes              | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.ctsleiloes.com.br
 413 | Lucas |    Lote 24    |    Donhaleiloes            | Seletores: Preenchido - Funciona somente no console   | Paginação: Preenchido - ERRO - Não retorna os links   | Visualização: Preenchido - ERRO - Não carrega a página do lote   | Revisão:  |    www.donhaleiloes.com
-417 | Lucas |    Lote 24    |    Drrleiloes              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.drrleiloes.com.br
-587 | Lucas |    Lote 41    |    Erleiloes               | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.erleiloes.com.br
+417 | Lucas |    Lote 24    |    Drrleiloes              | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.drrleiloes.com.br
+587 | Lucas |    Lote 41    |    Erleiloes               | Seletores: OK   | Paginação: Preenchido - ERRO - Páginas de informações do site com url semelhante ao lote   | Visualização: OK   | Revisão:  |    www.erleiloes.com.br
 600 | Lucas |    Lote 42    |    Fauthleiloes            | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    https://fauthleiloes.com.br/
-618 | Lucas |    Lote 44    |    Feldensleiloes          | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.feldensleiloes.lel.br
-601 | Lucas |    Lote 43    |    Ferotta                 | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    https://ferotta.wixsite.com/feliperottaleiloes
+618 | Lucas |    Lote 44    |    Feldensleiloes          | Seletores: Preenchido - Funciona somente no console ou retorna variáveis como {{vm.exemplo}}   | Paginação: OK - retorna variáveis como {{vm.exemplo}}   | Visualização: Preenchido - Funciona somente no console ou retorna variáveis como {{vm.exemplo}}   | Revisão:  |    www.feldensleiloes.lel.br
+601 | Lucas |    Lote 43    |    Ferotta                 | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    https://ferotta.wixsite.com/feliperottaleiloes
 619 | Lucas |    Lote 44    |    Finattoleiloes          | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.finattoleiloes.com.br
 620 | Lucas |    Lote 44    |    Fumagallileiloes        | Seletores: OK   | Paginação: Preenchido - ERRO - Redirecionamento, existem leilões com múltiplos lotes   | Visualização: OK   | Revisão:  |    www.fumagallileiloes.com.br
 311 | Lucas |    Lote 14    |    Ganikoleiloes           | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.ganikoleiloes.com.br
-318 | Lucas |    Lote 15    |    Guiadearte              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.guiadearte.com.br
+318 | Lucas |    Lote 15    |    Guiadearte              | Seletores: SEM LOTES   | Paginação:    | Visualização: SEM LOTES   | Revisão:  |    www.guiadearte.com.br
 588 | Lucas |    Lote 41    |    Hastaleiloes            | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.hastaleiloes.com.br
 589 | Lucas |    Lote 41    |    Hatoryleiloes           | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.hatoryleiloes.com.br
 622 | Lucas |    Lote 44    |    Ineuleiloes             | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.ineuleiloes.com.br
