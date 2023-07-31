@@ -278,9 +278,9 @@
 693 | Lucas |    Lote 44    |    Giulianoferronato	     | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    https://www.giulianoferronato.com.br/
 416 | Lucas |    Lote 24    |    Cordeiroleiloes         | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.cordeiroleiloes.com.br
 615 | Lucas |    Lote 44    |    Correaleiloes           | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.correaleiloes.com.br
-616 | Lucas |    Lote 44    |    Cristianoescolaleiloes  | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.cristianoescolaleiloes.com.br
+616 | Lucas |    Lote 44    |    Cristianoescolaleiloes  | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.cristianoescolaleiloes.com.br
 617 | Lucas |    Lote 44    |    Ctsleiloes              | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.ctsleiloes.com.br
-413 | Lucas |    Lote 24    |    Donhaleiloes            | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.donhaleiloes.com
+413 | Lucas |    Lote 24    |    Donhaleiloes            | Seletores: Preenchido - Funciona somente no console   | Paginação: Preenchido - ERRO - Não retorna os links   | Visualização: Preenchido - ERRO - Não carrega a página do lote   | Revisão:  |    www.donhaleiloes.com
 417 | Lucas |    Lote 24    |    Drrleiloes              | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.drrleiloes.com.br
 587 | Lucas |    Lote 41    |    Erleiloes               | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.erleiloes.com.br
 600 | Lucas |    Lote 42    |    Fauthleiloes            | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    https://fauthleiloes.com.br/
@@ -327,7 +327,7 @@
 598 | Lucas |    Lote 42    |    Rittaleiloes            | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    http://rittaleiloes.leiloeiros.lel.br/site.php?action=index
 408 | Lucas |    Lote 24    |    Rubenshcastro           | Seletores: SEM LOTES   | Paginação:    | Visualização: SEM LOTES   | Revisão:  |    www.rubenshcastro.com.br
 603 | Lucas |    Lote 43    |    Swleiloes               | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    https://swleiloes.com.br/?pg=principal
-410 | Lucas |    Lote 24    |    Vardanaleiloes          | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.vardanaleiloes.com.br
+410 | Lucas |    Lote 24    |    Vardanaleiloes          | Seletores: Preenchido - Funciona somente no console - SEM LOTES no momento   | Paginação: - SEM LOTES no momento   | Visualização: Preenchido - Funciona somente no console   | Revisão:  |    www.vardanaleiloes.com.br
 411 | Lucas |    Lote 24    |    Zemarchiottoleiloes     | Seletores: LEILOEIRO INDISPONÍVEL   | Paginação:    | Visualização: LEILOEIRO INDISPONÍVEL   | Revisão:  |    www.zemarchiottoleiloes.com.br
 47 | Marcos |    LOTE 01    |    Satoleiloes    | Seletores: Ok   | Paginação: Erro - Tag dos links    | Visualização: Ok | Revisão:  |    www.satoleiloes.com.br
 51 | Marcos |    LOTE 01    |    Freitasleiloeiro    | Seletores: Ok - Só funciona no console | Paginação: OK  | Visualização: OK  | Revisão:  |    www.freitasleiloeiro.com.br
@@ -473,11 +473,11 @@
 339 | Matheus |    Lote 17    |    Ltjleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.ltjleiloes.com.br
 684 | Matheus |    Lote 51    |    Maestroleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.maestroleiloes.com.br
 341 | Matheus |    Lote 17    |    Manrubialeiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.manrubialeiloes.com.br
-662 | Matheus |    Lote 48    |    Marianoleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.marianoleiloes.com.br
+662 | Matheus |    Lote 48    |    Marianoleiloes    | Seletores: OK   | Paginação: OK   | Visualização: OK   | Revisão:  |    www.marianoleiloes.com.br
 342 | Matheus |    Lote 17    |    Mazinottoleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.mazinottoleiloes.com.br
 500 | Matheus |    Lote 33    |    Mgrleiloes    | Seletores: Revisar | Paginação: Revisar | Visualização: OK  | Revisão: Matheus revisar s.bid 10s |    www.mgrleiloes.com.br
-636 | Matheus |    Lote 46    |    Miottileiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.miottileiloes.com.br
-637 | Matheus |    Lote 46    |    Muckleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.muckleiloes.com.br
+636 | Matheus |    Lote 46    |    Miottileiloes    | Seletores: SEM LOTES   | Paginação:    | Visualização: SEM LOTES   | Revisão:  |    www.miottileiloes.com.br
+637 | Matheus |    Lote 46    |    Muckleiloes    | Seletores: LOTES E INFORMAÇÕES NA MESMA PÁGINA   | Paginação:    | Visualização: LOTES E INFORMAÇÕES NA MESMA PÁGINA   | Revisão:  |    www.muckleiloes.com.br
 685 | Matheus |    Lote 51    |    Pamplonaleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.pamplonaleiloes.com.br
 679 | Matheus |    Lote 50    |    Torresleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    http://torresleiloes.com.br/quemsomos.html
 646 | Matheus |    Lote 47    |    Tradeleiloes    | Seletores:    | Paginação:    | Visualização:  | Revisão:  |    www.tradeleiloes.com.br
