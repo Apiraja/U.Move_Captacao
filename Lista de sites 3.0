@@ -259,17 +259,17 @@
 215  | Lucas SOLEON | Nossoleilao               | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.nossoleilao.com.br
 222  | Lucas SOLEON | Pimentelleiloes           | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.pimentelleiloes.com.br
 219  | Lucas SOLEON | Snleiloes                 | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    https://snleiloes.com.br/quem-somos
-264 | Marcos | Iarremate | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.iarremate.com
-254 | Marcos | Jonasdellatonia | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    https://jonasdellatonia.com.br/
-458 | Marcos | Levyleiloeiro | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.levyleiloeiro.com.br
-460 | Marcos | Luizsergiopereira | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.luizsergiopereira.lel.br
-520 | Marcos | Luzialeiloeira | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.luzialeiloeira.com.br
-461 | Marcos | Marciopinho | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.marciopinho.com.br
-462 | Marcos | Marthapadilhaleiloes | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.marthapadilhaleiloes.com
-266 | Marcos | Melhorleiloes | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.melhorleiloes.com.br
-463 | Marcos | Meloleiloeiro | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.meloleiloeiro.com.br
-464 | Marcos | Michelangeloleiloes | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.michelangeloleiloes.com.br
-541 | Marcos | Morescoleiloes | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.morescoleiloes.com.br
+264 | Marcos | Iarremate | Seletores: Ok - Só console   | Paginação: Erro  | Visualização: Ok | Revisão:  |    www.iarremate.com
+254 | Marcos | Jonasdellatonia | Seletores:    | Paginação:  | Visualização: Erro - SL | Revisão:  |    https://jonasdellatonia.com.br/
+458 | Marcos | Levyleiloeiro    | Seletores: Ok   | Paginação: Ok   | Visualização: Ok | Revisão:  |    www.levyleiloeiro.com.br
+460 | Marcos | Luizsergiopereira | Seletores: Ok   | Paginação: Ok - Sem lotes | Visualização: Ok | Revisão:  |    www.luizsergiopereira.lel.br
+520 | Marcos | Luzialeiloeira | Seletores:    | Paginação:  | Visualização: Erro - SL | Revisão:  |    www.luzialeiloeira.com.br
+461 | Marcos | Marciopinho | Seletores: Ok   | Paginação: Ok | Visualização: Ok | Revisão:  |    www.marciopinho.com.br
+462 | Marcos | Marthapadilhaleiloes | Seletores: Ok   | Paginação: Ok | Visualização: Ok | Revisão:  |    www.marthapadilhaleiloes.com
+266 | Marcos | Melhorleiloes | Seletores:    | Paginação:  | Visualização:  Erro - SL  | Revisão:  |    www.melhorleiloes.com.br
+463 | Marcos | Meloleiloeiro | Seletores: Ok - Só console   | Paginação: Erro - Java  | Visualização: Erro - Não carrega os elementos da pagina  | Revisão:  |    www.meloleiloeiro.com.br
+464 | Marcos | Michelangeloleiloes | Seletores: Ok   | Paginação: Ok | Visualização: Ok | Revisão:  |    www.michelangeloleiloes.com.br
+541 | Marcos | Morescoleiloes | Seletores: Ok   | Paginação: Erro - Prefixo pendente  | Visualização: Ok  | Revisão:  |    www.morescoleiloes.com.br
 259 | Marcos | Mouraazevedoleiloes | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.mouraazevedoleiloes.lel.br
 255 | Marcos | Mundodoleilao | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    https://mundodoleilao.com.br/#
 465 | Marcos | Murilochaves | Seletores:    | Paginação:  | Visualização:  | Revisão:  |    www.murilochaves.com.br
