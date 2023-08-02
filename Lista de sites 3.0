@@ -151,18 +151,18 @@
 602  | Lucas | Pineiroleiloes                | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    https://pineiroleiloes.com.br/
 410  | Lucas | Vardanaleiloes                | Seletores: Preenchido - Funciona somente no console - SEM LOTES no momento | Paginação: SEM LOTES no momento | Visualização: Preenchido - Funciona somente no console | Revisão:  |    www.vardanaleiloes.com.br
 1077 | Lucas | Leiloes-Sc                    | Seletores: Preenchido - Funcionando somente no console | Paginação: OK | Visualização: Preenchido - Funcionando somente no console | Revisão:  | www.leiloes-sc.com.br
-1078 | Lucas | Leiloestefanelli              | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.leiloestefanelli.com.br
-1079 | Lucas | Leilominas                    | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.leilominas.com.br
-1080 | Lucas | Lfmleiloes                    | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.lfmleiloes.com.br
-1081 | Lucas | Licitari                      | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.licitari.com.br
-1082 | Lucas | Londinaleiloes                | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.londinaleiloes.com.br
-1083 | Lucas | Machadoleiloesrs              | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.machadoleiloesrs.com.br
-1084 | Lucas | Magalhaesleiloes              | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.magalhaesleiloes.com.br
-1085 | Lucas | Majudicial                    | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.majudicial.com.br
-1086 | Lucas | Maleiloesrosite               | Seletores:  | Paginação:  | Visualização:  | Revisão:  | https://www.maleiloesro.com.br/site/
-1087 | Lucas | Marcelosoaresleiloes          | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.marcelosoaresleiloes.com.br
-1088 | Lucas | Marileiloeira                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.marileiloeira.com.br
-1089 | Lucas | Martinsleiloes                | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.martinsleiloes.com.br
+1078 | Lucas | Leiloestefanelli              | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.leiloestefanelli.com.br
+1079 | Lucas | Leilominas                    | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.leilominas.com.br
+1080 | Lucas | Lfmleiloes                    | Seletores: SEM LOTES PRÓPRIOS | Paginação:  | Visualização: SEM LOTES PRÓPRIOS | Revisão:  | www.lfmleiloes.com.br
+1081 | Lucas | Licitari                      | Seletores: OK | Paginação: ERRO - Sem url no Href/OnCLick para os lotes - Não carrega lotes na paginação | Visualização: OK | Revisão:  | www.licitari.com.br
+1082 | Lucas | Londinaleiloes                | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.londinaleiloes.com.br
+1083 | Lucas | Machadoleiloesrs              | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.machadoleiloesrs.com.br
+1084 | Lucas | Magalhaesleiloes              | Seletores: SEM LOTES | Paginação:  | Visualização: SEM LOTES | Revisão:  | www.magalhaesleiloes.com.br
+1085 | Lucas | Majudicial                    | Seletores: Preenchido - Não retorna alguns seletores | Paginação: ERRO - Não carrega os lotes | Visualização: Preenchido - Não carrega alguns campos | Revisão:  | www.majudicial.com.br
+1086 | Lucas | Maleiloesrosite               | Seletores: LOTES EM POPUP/IFRAME NA PAGINAÇÃO | Paginação:  | Visualização:  | Revisão:  | https://www.maleiloesro.com.br/site/
+1087 | Lucas | Marcelosoaresleiloes          | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.marcelosoaresleiloes.com.br
+1088 | Lucas | Marileiloeira                 | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.marileiloeira.com.br
+1089 | Lucas | Martinsleiloes                | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.martinsleiloes.com.br
 1090 | Lucas | Maxterleiloes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.maxterleiloes.com.br
 1091 | Lucas | Mcleilao                      | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.mcleilao.com.br
 1092 | Lucas | Mendesleiloes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.mendesleiloes.com.br
