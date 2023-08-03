@@ -163,21 +163,21 @@
 1087 | Lucas | Marcelosoaresleiloes          | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.marcelosoaresleiloes.com.br
 1088 | Lucas | Marileiloeira                 | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.marileiloeira.com.br
 1089 | Lucas | Martinsleiloes                | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.martinsleiloes.com.br
-1090 | Lucas | Maxterleiloes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.maxterleiloes.com.br
-1091 | Lucas | Mcleilao                      | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.mcleilao.com.br
-1092 | Lucas | Mendesleiloes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.mendesleiloes.com.br
-1093 | Lucas | Mercadoleiloes                | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.mercadoleiloes.com.br
-1094 | Lucas | Milhaoleiloes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.milhaoleiloes.com.br
-1096 | Lucas | Msleiloes                     | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.msleiloes.com.br
-1097 | Lucas | Munizleiloes                  | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.munizleiloes.com.br
-1098 | Lucas | Npleiloes                     | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.npleiloes.com.br
-1099 | Lucas | Palaciodosleiloes             | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.palaciodosleiloes.com.br
-1104 | Lucas | Pandacolecoes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.pandacolecoes.com.br
-1105 | Lucas | Pbl                           | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.pbl.com.br
-1106 | Lucas | Pelesleiloeiro                | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.pelesleiloeiro.com.br
-1107 | Lucas | Pencerleiloes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.pencerleiloes.com.br
-1108 | Lucas | Perfilleiloes                 | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.perfilleiloes.com.br
-1109 | Lucas | Pestileleiloes                | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.pestileleiloes.com.br
+1090 | Lucas | Maxterleiloes                 | Seletores: OK | Paginação: Paginação: ERRO - Sem url no Href/OnCLick para os lotes | Visualização: OK | Revisão:  | www.maxterleiloes.com.br
+1091 | Lucas | Mcleilao                      | Seletores: SEM LOTES | Paginação:  | Visualização: SEM LOTES | Revisão:  | www.mcleilao.com.br
+1092 | Lucas | Mendesleiloes                 | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.mendesleiloes.com.br
+1093 | Lucas | Mercadoleiloes                | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.mercadoleiloes.com.br
+1094 | Lucas | Milhaoleiloes                 | Seletores: OK | Paginação: ERRO - Não retorna links dos lotes | Visualização: OK | Revisão:  | www.milhaoleiloes.com.br
+1096 | Lucas | Msleiloes                     | Seletores: SEM LOTES | Paginação:  | Visualização: SEM LOTES | Revisão:  | www.msleiloes.com.br
+1097 | Lucas | Munizleiloes                  | Seletores: OK | Paginação: Paginação: ERRO - Sem url no Href/OnCLick para os lotes | Visualização: OK | Revisão:  | www.munizleiloes.com.br
+1098 | Lucas | Npleiloes                     | Seletores: Preenchido - SEM LOTES | Paginação: Preenchido - SEM LOTES | Visualização: Preenchido - SEM LOTES | Revisão:  | www.npleiloes.com.br
+1099 | Lucas | Palaciodosleiloes             | Seletores: Preenchido - ERRO - Lotes possuem mesmo link | Paginação: ERRO - Parâmetro a mais no onclick, lotes com mesmo link | Visualização: Preenchido - ERRO - Lotes possuem mesmo link | Revisão:  | www.palaciodosleiloes.com.br
+1104 | Lucas | Pandacolecoes                 | Seletores: Preenchido - Algumas variáveis em modais | Paginação: ERRO - Página extra entre Url Paginação e URL leilão | Visualização: Preenchido - Algumas variáveis em modais | Revisão:  | www.pandacolecoes.com.br
+1105 | Lucas | Pbl                           | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.pbl.com.br
+1106 | Lucas | Pelesleiloeiro                | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.pelesleiloeiro.com.br
+1107 | Lucas | Pencerleiloes                 | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.pencerleiloes.com.br
+1108 | Lucas | Perfilleiloes                 | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.perfilleiloes.com.br
+1109 | Lucas | Pestileleiloes                | Seletores: SEM LOTES | Paginação:  | Visualização: SEM LOTES | Revisão:  | www.pestileleiloes.com.br
 1110 | Lucas | Planoleiloes                  | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.planoleiloes.com.br
 1111 | Lucas | Polileiloes                   | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.polileiloes.com.br
 1113 | Lucas | Portaldosleiloes              | Seletores:  | Paginação:  | Visualização:  | Revisão:  | http://portaldosleiloes.com/
