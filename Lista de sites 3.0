@@ -204,13 +204,13 @@
 1107 | Lucas | Pencerleiloes                 | Seletores: LEILOEIRO INDISPONÍVEL | Paginação:  | Visualização: LEILOEIRO INDISPONÍVEL | Revisão:  | www.pencerleiloes.com.br
 1108 | Lucas | Perfilleiloes                 | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.perfilleiloes.com.br
 1109 | Lucas | Pestileleiloes                | Seletores: SEM LOTES | Paginação:  | Visualização: SEM LOTES | Revisão:  | www.pestileleiloes.com.br
-1110 | Lucas | Planoleiloes                  | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.planoleiloes.com.br
-1111 | Lucas | Polileiloes                   | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.polileiloes.com.br
-1113 | Lucas | Portaldosleiloes              | Seletores:  | Paginação:  | Visualização:  | Revisão:  | http://portaldosleiloes.com/
-1114 | Lucas | Portoleiloes                  | Seletores:  | Paginação:  | Visualização:  | Revisão:  | https://www.portoleiloes.com.br/
-1115 | Lucas | Prhleiloes                    | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.prhleiloes.com.br
-1116 | Lucas | Realizaleiloes.denisleiloeiro | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.realizaleiloes.wixsite.com/denisleiloeiro 
-1117 | Lucas | Reginaaudeleiloes             | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.reginaaudeleiloes.com.br
+1110 | Lucas | Planoleiloes                  | Seletores: OK | Paginação: OK - Alguns lotes considerados como leilão (/detalhe_leilao/) | Visualização: OK | Revisão:  | www.planoleiloes.com.br
+1111 | Lucas | Polileiloes                   | Seletores: Preenchido - Funcionando somente no console | Paginação: Preenchido - ERRO - Tela em Branco | Visualização: Preenchido - ERRO - Tela em Branco | Revisão:  | www.polileiloes.com.br
+1113 | Lucas | Portaldosleiloes              | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | http://portaldosleiloes.com/
+1114 | Lucas | Portoleiloes                  | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | https://www.portoleiloes.com.br/
+1115 | Lucas | Prhleiloes                    | Seletores: Preenchido - Algumas variáveis em modais | Paginação: OK | Visualização: Preenchido - Algumas variáveis em modais | Revisão:  | www.prhleiloes.com.br
+1116 | Lucas | Realizaleiloes.denisleiloeiro | Seletores: SEM LOTES | Paginação:  | Visualização: SEM LOTES | Revisão:  | www.realizaleiloes.wixsite.com/denisleiloeiro 
+1117 | Lucas | Reginaaudeleiloes             | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.reginaaudeleiloes.com.br
 153  | Lucas PRO | Agenciadeleiloes      | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.agenciadeleiloes.com.br
 154  | Lucas PRO | Amtleiloes            | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.amtleiloes.com.br
 155  | Lucas PRO | Arnoldoleiloes        | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.arnoldoleiloes.com.br
@@ -218,13 +218,13 @@
 157  | Lucas PRO | Bianchileiloes        | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.bianchileiloes.com.br
 158  | Lucas PRO | Bidgo                 | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.bidgo.com.br
 199  | Lucas PRO | Bsbleiloes            | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.bsbleiloes.com.br
-159  | Lucas PRO | Clademirleiloeiro     | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.clademirleiloeiro.com.br
-160  | Lucas PRO | Clovisleiloeiro       | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.clovisleiloeiro.com.br
-161  | Lucas PRO | Cpkleiloes            | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.cpkleiloes.com.br
-162  | Lucas PRO | Dalaqualeiloes        | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.dalaqualeiloes.com.br
-163  | Lucas PRO | Deborabarzleiloes     | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.deborabarzleiloes.com.br
-195  | Lucas PRO | Deluccaleiloes        | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.deluccaleiloes.com.br
-164  | Lucas PRO | Eduardovivian         | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.eduardovivian.com.br
+159  | Lucas PRO | Clademirleiloeiro     | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.clademirleiloeiro.com.br
+160  | Lucas PRO | Clovisleiloeiro       | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.clovisleiloeiro.com.br
+161  | Lucas PRO | Cpkleiloes            | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.cpkleiloes.com.br
+162  | Lucas PRO | Dalaqualeiloes        | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.dalaqualeiloes.com.br
+163  | Lucas PRO | Deborabarzleiloes     | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.deborabarzleiloes.com.br
+195  | Lucas PRO | Deluccaleiloes        | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.deluccaleiloes.com.br
+164  | Lucas PRO | Eduardovivian         | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.eduardovivian.com.br
 165  | Lucas PRO | Fariasleiloes         | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.fariasleiloes.com.br
 166  | Lucas PRO | Fernandaleiloes       | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.fernandaleiloes.lel.br
 167  | Lucas PRO | Gabrielleiloes        | Seletores:  | Paginação:  | Visualização:  | Revisão:  |    www.gabrielleiloes.com.br
