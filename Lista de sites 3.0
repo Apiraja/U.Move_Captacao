@@ -94,6 +94,16 @@
 1151 | Breno | Verrileiloes | Seletores: OK | Paginação: Impossivel de pegar(Url não muda - Java) | Visualização: OK | Revisão:  | www.verrileiloes.com.br
 1152 | Breno | Wermelingerleiloes | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  | www.wermelingerleiloes.com.br
 1153 | Breno | Zampierileilao | Seletores:  | Paginação:  | Visualização: Erro - Java | Revisão:  | www.zampierileilao.com.br
+1026 | Breno | Dbsleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.dbsleiloes.com.br
+1027 | Breno | Diasleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | http://www.diasleiloes.com.br/
+1028 | Breno | Dilsonleiloeiro | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.dilsonleiloeiro.com
+1029 | Breno | Dloficiais | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.dloficiais.com.br
+1030 | Breno | Eckertleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.eckertleiloes.com.br
+1033 | Breno | Elydaluzramos | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.elydaluzramos.com.br
+1034 | Breno | Emidiomedeirosleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.emidiomedeirosleiloes.com.br
+1035 | Breno | Evaleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.evaleiloes.com.br
+1036 | Breno | Expressoleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.expressoleiloes.com.br
+1037 | Breno | Fabianebaldisseraleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.fabianebaldisseraleiloes.com.br
 441 | Josh | Castrolealleiloes | Seletores:    | Paginação:  | Visualização: SITE SEM LEILAO | Revisão:  |    www.castrolealleiloes.com.br
 442 | Josh | Conradoleiloeiro | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    www.conradoleiloeiro.com.br
 807 | Josh | dalcanaleleiloes | Seletores: OK | Paginação: OK | Visualização:  | Revisão:  |    https://dalcanaleleiloes.com.br/
@@ -161,16 +171,6 @@
 1023 | Josh | Correleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.correleiloes.com.br
 1024 | Josh | Custodioleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.custodioleiloes.com.br
 1025 | Josh | Danielchaiebleiloeiro | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.danielchaiebleiloeiro.com.br
-1026 | Josh | Dbsleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.dbsleiloes.com.br
-1027 | Josh | Diasleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | http://www.diasleiloes.com.br/
-1028 | Josh | Dilsonleiloeiro | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.dilsonleiloeiro.com
-1029 | Josh | Dloficiais | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.dloficiais.com.br
-1030 | Josh | Eckertleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.eckertleiloes.com.br
-1033 | Josh | Elydaluzramos | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.elydaluzramos.com.br
-1034 | Josh | Emidiomedeirosleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.emidiomedeirosleiloes.com.br
-1035 | Josh | Evaleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.evaleiloes.com.br
-1036 | Josh | Expressoleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.expressoleiloes.com.br
-1037 | Josh | Fabianebaldisseraleiloes | Seletores:  | Paginação:  | Visualização:  | Revisão:  | www.fabianebaldisseraleiloes.com.br
 616  | Lucas | Cristianoescolaleiloes        | Seletores: OK | Paginação: OK | Visualização: OK | Revisão:  |    www.cristianoescolaleiloes.com.br
 413  | Lucas | Donhaleiloes                  | Seletores: Preenchido - Funciona somente no console | Paginação: Preenchido - ERRO - Não retorna os links | Visualização: Preenchido - ERRO - Não carrega a página do lote | Revisão:  |    www.donhaleiloes.com
 587  | Lucas | Erleiloes                     | Seletores: OK | Paginação: Preenchido - ERRO - Páginas de informações do site com url semelhante ao lote | Visualização: OK | Revisão:  |    www.erleiloes.com.br
