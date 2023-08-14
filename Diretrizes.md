@@ -1,6 +1,11 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
 
+# 14/08
+## Diretrizes para revisão
+
+https://youtu.be/nrOm19tDrMw
+
 # 25/07
 ## URL do leilão e do lote fora do `<a>`
 
