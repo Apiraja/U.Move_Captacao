@@ -4,6 +4,17 @@ Pirmeira diretriz: Ler do Final para o Começo
 # 15/08
 ## Diretrizes para revisão
 https://1drv.ms/v/s!Asw-awJq2HdSgclj1rTUexfvrRvIZw
+Passo a passo prático
+0 - Tem lote?
+1 - Tem seletor?
+2 - O Seletor Funciona?
+3 - Está com delay?
+4 - Funciona sem delay? Para isso deve alterar o link para visualização
+5 - A Paginação realmente é AJAX?
+6 - Testar a captura de leilões e lotes. Todos foram capturados em todas as páginas?
+7 - O Download dos dados retornou dados?
+8 - Precisa duplicar?
+Fim
 
 # 14/08
 ## Diretrizes para revisão
