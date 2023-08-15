@@ -3,7 +3,7 @@ Pirmeira diretriz: Ler do Final para o Começo
 
 # 15/08
 ## Diretrizes para revisão
-https://1drv.ms/v/s!Asw-awJq2HdSgcliAI-f83Ywl8XbzQ
+https://1drv.ms/v/s!Asw-awJq2HdSgclj1rTUexfvrRvIZw
 
 # 14/08
 ## Diretrizes para revisão
