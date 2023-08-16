@@ -3,7 +3,7 @@ Pirmeira diretriz: Ler do Final para o Começo
 
 # 16/08 Passo a passo mais prático ainda
 
-## Dos Revisados
+### Dos Revisados
 
 Certeza que reduziu o delay o máximo possível?
 
@@ -13,9 +13,9 @@ Duplicou o site para todas os links? Veículos, Eletrônicos, Venda direta, Ence
 
 Testou primeiro a geração de links depois a de dados? O ideal era refazer isso limpando o cache antes.
 
-### Como o carregamento é muito demorado...
+Como o carregamento é muito demorado...
 
-## Preencher o passo a passo da planilha enquanto carrega
+### Preencher o passo a passo da planilha enquanto carrega
 
 1 - Copiar o link do painel e o link de origem de 10 leilões
 
@@ -27,7 +27,7 @@ Testou primeiro a geração de links depois a de dados? O ideal era refazer isso
 
 5 - Confirmar se o link de origem abrange todos os lotes, ou se é necessário duplicar.
 
-## Agora temos as informações necessárias para ir para o painel
+### Agora temos as informações necessárias para ir para o painel
 
 1 - corrigir tipo de paginação
 
@@ -56,6 +56,8 @@ Testou primeiro a geração de links depois a de dados? O ideal era refazer isso
 11 - Caso contrário procurar no fluxograma como indicar o erro corretamente
 
 12 - Avaliar se é necessário duplicar
+
+### FIM
 
 # 15/08
 ## Diretrizes para revisão
