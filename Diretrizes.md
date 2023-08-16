@@ -29,7 +29,33 @@ Testou primeiro a geração de links depois a de dados? O ideal era refazer isso
 
 ## Agora temos as informações necessárias para ir para o painel
 
+1 - corrigir tipo de paginação
 
+2 - inserrir o provável delay e atualizar
+
+3 - Apagar cache
+
+3 - Testar uma página de lote no preview (clicar no olho) e ver se a página carregou
+
+4 - Testar os seletores
+
+5 - Testar a página de origem no preview (clicar no olho) e ver se a página carregou
+
+6 - Fciar atento, as vezes pode não carregar normal, vale a pena dar uma coferida no inspecionar, pesquisando algum texto.
+
+6 - Avaliar se é necessário aumentar o delay, ou se pode ser reduzido, ideal trabalhar com o menor possível
+
+7 - Tudo parecendo funcionar Rodar o teste de captura de links
+
+8 - Conferir se os links de todas as páginas foram baixados, leilões e lotes
+
+9 - Rodar o teste de captura de dados, e verificar no download se veio com informação
+
+10 - Tudo isso funcionando, delay no mínimo, paginção correta, testes corretos, pode dar ok em tudo
+
+11 - Caso contrário procurar no fluxograma como indicar o erro corretamente
+
+12 - Avaliar se é necessário duplicar
 
 # 15/08
 ## Diretrizes para revisão
