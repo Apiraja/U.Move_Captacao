@@ -3,6 +3,8 @@ Pirmeira diretriz: Ler do Final para o Começo
 
 # 16/08 Passo a passo mais prático ainda
 
+https://1drv.ms/v/s!Asw-awJq2HdSgclnLp1BzeAWxKwV7g
+
 ### Dos Revisados
 
 Certeza que reduziu o delay o máximo possível?
@@ -27,17 +29,19 @@ Como o carregamento é muito demorado...
 
 5 - Confirmar se o link de origem abrange todos os lotes, ou se é necessário duplicar.
 
+6 - Carregar ir para a próxima etapa do primeiro link, enquanto carrega vai adiantando essa etapa dos demais
+
 ### Agora temos as informações necessárias para ir para o painel
 
 1 - corrigir tipo de paginação
 
-2 - inserrir o provável delay e atualizar
+2 - Testar seletores com delay 0 e depois inserir o provável delay e atualizar
 
 3 - Apagar cache
 
-3 - Testar uma página de lote no preview (clicar no olho) e ver se a página carregou
-
 4 - Testar os seletores
+
+3 - Se seletores não funcionar, Testar uma página de lote no preview (clicar no olho) e ver se a página carregou
 
 5 - Testar a página de origem no preview (clicar no olho) e ver se a página carregou
 
@@ -55,9 +59,14 @@ Como o carregamento é muito demorado...
 
 11 - Caso contrário procurar no fluxograma como indicar o erro corretamente
 
-12 - Avaliar se é necessário duplicar
+12 - Duplicar 
 
-### FIM
+13 - Alterar o nome do lote
+
+14 - Informar no git se está ok
+
+### Fim
+
 
 # 15/08
 ## Diretrizes para revisão
