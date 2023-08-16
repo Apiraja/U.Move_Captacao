@@ -1,6 +1,37 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
 
+# 16/08
+# Passo a passo mais prático ainda
+
+## Dos Revisados
+
+Certeza que reduziu o delay o máximo possível?
+
+Certeza que o tipo de paginação está certa? Normalmente é normal
+
+Duplicou o site para todas os links? Veículos, Eletrônicos, Venda direta, Encerrados (na condição)...
+
+Testou primeiro a geração de links depois a de dados? O ideal era refazer isso limpando o cache antes.
+
+### Como o carregamento é muito demorado...
+
+## Preencher o passo a passo da planilha enquanto carrega
+
+1 - Copiar o link do painel e o link de origem de 10 leilões
+
+2 - testar o link de origem e um link de leilão e lote com o javascript desabilitado
+        
+3 - Se as informações carregaram com ele desabilitado. O delay provavelmente será 0. Se não funcionou o delay deve ser pelo menos 1.
+ 
+4 - Confirmar se a paginação é AJAX ou Normal. Ou seja na página de origem, quando vai para a próxima página, ou rola para baixo, o link se altera, ou não. Se ele se altera é normal, se não se altera é ajax, basicamente isso.
+
+5 - Confirmar se o link de origem abrange todos os lotes, ou se é necessário duplicar.
+
+## Agora temos as informações necessárias para ir para o painel
+
+
+
 # 15/08
 ## Diretrizes para revisão
 https://1drv.ms/v/s!Asw-awJq2HdSgclj1rTUexfvrRvIZw
