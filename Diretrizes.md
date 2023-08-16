@@ -1,8 +1,7 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
 
-# 16/08
-# Passo a passo mais prático ainda
+# 16/08 Passo a passo mais prático ainda
 
 ## Dos Revisados
 
