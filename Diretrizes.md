@@ -1,6 +1,15 @@
 # Diretrizes
 Pirmeira diretriz: Ler do Final para o Começo
 
+# 31/08 Revisão dos seletores
+Video: https://1drv.ms/v/s!Asw-awJq2HdSgcsDebsMvLO_5UHH7A
+
+Outros tópicos:
+
+- Nos casos dos sites com direcionamento que temos que ativar dois com a mesma paginação, chamando em um lote de leilão e outro o leilão de leilão mesmo... Nesses casos, não ativar os dois um em seguida do outro. Ativar um, anotar e esperar um hora pelo menos para ativar o outro.
+
+- Não precisa testar tudo sempre. Se a paginação é simples, deu certo a visualização de página de origem, dos lotes, dos leilões... podem ativar. Que qualquer coisa analisamos na revisão depois de captado. Tem que ter bom senso para não sair ativando tudo de uma vez sem a certeza de que vai funcionar
+  
 # 16/08 Passo a passo mais prático ainda
 
 https://1drv.ms/v/s!Asw-awJq2HdSgclnLp1BzeAWxKwV7g
