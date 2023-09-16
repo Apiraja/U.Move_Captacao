@@ -56,7 +56,7 @@
 221	Leiloesrionegro	   www.leiloesrionegro.com.br - BRENO - Seletores: OK - Paginação: OK - Visualização: OK
 582	Leiloestaniaabreu	   https://leiloestaniaabreu.wixsite.com/leiloes/clients - BRENO - Sem lotes
 213	Lopesleiloes	   www.lopesleiloes.com.br - BRENO - Manutenção
-781	Loteleiloes	   www.loteleiloes.com.br - BRENO
+781	Loteleiloes	   www.loteleiloes.com.br - BRENO - Erro - Informações em modal
 559	Lumussaleiloes	   www.lumussaleiloes.com.br - BRENO- Seletores:OK  - Paginação:OK  - Visualização: Erro - Internal Server
 684	Maestroleiloes	   www.maestroleiloes.com.br - BRENO - Sem lotes
 414	Marangoni	   https://marangoni.canaljudicial.com.br/ - BRENO - Sem lotes
@@ -135,7 +135,7 @@
 5017	centrodeleiloescanoas	http://www.centrodeleiloescanoas.lel.br/ - BRENO -  Seletores: OK - Paginação: OK Visualização: OK
 5018	dhleiloes	http://www.dhleiloes.com.br/ - BRENO -  Seletores: OK - Paginação: OK Visualização: OK
 5019	gfleiloes	http://www.gfleiloes.com.br/ - BRENO - Seletores: OK - Paginação: ajax Visualização: OK
-5021	grupoleilo	http://www.grupoleilo.com.br/ - BRENO
+5021	grupoleilo	http://www.grupoleilo.com.br/ - BRENO - Erro - Seletores importantes não funcionam
 5022	hudsonleiloeiro	http://www.hudsonleiloeiro.com.br/ - BRENO - Sem lotes
 5023	josimarleiloeiro	http://www.josimarleiloeiro.com.br/ - BRENO -  Seletores: OK - Paginação: OK Visualização: OK
 5024	kcleilões	http://www.kcleilões.com.br/ - BRENO - Fpra do ar
@@ -148,29 +148,29 @@
 5031	nrnleiloes	http://www.nrnleiloes.com.br/ - BRENO -  Seletores: OK - Paginação: Ajax Visualização: OK
 5032	pamelaleiloeira	http://www.pamelaleiloeira.com.br/ - BRENO - Seletores: OK - Paginação: OK Visualização: OK
 5033	parahybaleiloes	http://www.parahybaleiloes.com.br/ - BRENO - Sem lotes
-5034	serranaleiloes	http://www.serranaleiloes.com.br/ - BRENO
+5034	serranaleiloes	http://www.serranaleiloes.com.br/ - BRENO -   Visualização: Erro JavaScript
 5035	sudesteleiloes	http://www.sudesteleiloes.com.br/ - BRENO - Sem lotes
 5036	vipleiloes	http://www.vipleiloes.com.br/ - BRENO - Seletores: OK - Paginação: OK Visualização: OK
 5037	weiderleiloes	http://www.weiderleiloes.com.br/ - BRENO - Sem lotes
 5038	atlanticoleiloes	https://atlanticoleiloes.com.br/ - BRENO - Seletores: OK - Paginação: OK Visualização: OK
 5039	br	https://br.antonioferreira.lel.br/default.asp - BRENO -  Seletores: OK - Paginação: OK Visualização: OK
-5040	kwara	https://kwara.com.br/ - BRENO
+5040	kwara	https://kwara.com.br/ - BRENO - Seletores: OK - Paginação: OK Visualização: OK
 5041	atleiloes	https://www.atleiloes.com.br/ - BRENO -  Seletores: OK - Paginação: OK Visualização: OK
 5042	atrioleiloes	https://www.atrioleiloes.com.br/proximos_leiloes/1/1/ - BRENO -  Seletores: OK - Paginação: OK Visualização: OK
-5043	bastosleiloes	https://www.bastosleiloes.com.br/ - BRENO
+5043	bastosleiloes	https://www.bastosleiloes.com.br/ - BRENO - Leilão de artigos e joias
 5044	brancoperonleiloeiro	https://www.brancoperonleiloeiro.com.br/default.asp - BRENO - Seletores: OK - Paginação: OK Visualização: OK
 5045	evanioalvesleiloeiro	https://www.evanioalvesleiloeiro.com.br/default.asp - BRENO - Seletores: OK - Paginação: OK Visualização: OK
-5046	horizonteleiloes	https://www.horizonteleiloes.com.br/ - BRENO
-5047	lmenezesleiloes	https://www.lmenezesleiloes.com.br/
-5048	renatobatistaleiloes	https://www.renatobatistaleiloes.com.br/
-5049	ricoleiloes	https://www.ricoleiloes.com.br/
-5050	rmoyses	http://www.rmoyses.com.br/
-5051	copart	www.copart.com.br
-5052	curiauleiloes	www.curiauleiloes.com.br
+5046	horizonteleiloes	https://www.horizonteleiloes.com.br/ - BRENO - Seletores: OK - Paginação: OK Visualização: OK
+5047	lmenezesleiloes	https://www.lmenezesleiloes.com.br/ - Leilao de colecionaveis
+5048	renatobatistaleiloes	https://www.renatobatistaleiloes.com.br/ - Sem lotes
+5049	ricoleiloes	https://www.ricoleiloes.com.br/ -  Seletores: OK - Paginação: OK Visualização: OK
+5050	rmoyses	http://www.rmoyses.com.br/ -  Visualização: Erro Superbid
+5051	copart	www.copart.com.br - BRENO
+5052	curiauleiloes	www.curiauleiloes.com.br - BRENO - Sem lotes
 5053	hastasp	www.hastasp.com.br - Não é propriamente leilões em meu nome ok, tem outros leiloeiros atuando nesse site.
-5054	hisaleiloes	www.hisaleiloes.com.br        -       www.satoleiloes.com.br
-5055	ktzleiloes	www.ktzleiloes.com.br
-5056	wspleiloes	www.wspleiloes.com.br
+5054	hisaleiloes	www.hisaleiloes.com.br - BRENO - Visualização: Erro JavaScript      
+5055	ktzleiloes	www.ktzleiloes.com.br - BRENO
+5056	wspleiloes	www.wspleiloes.com.br - BRENO - Seletores: OK - Paginação: OK Visualização: OK
 5057	Maçã Leilões 	Maçã Leilões 
 5058		 Campo Grande  MS
 5059		Meu site está sendo finalizado pra ser liberado, assim que tiver encaminho pra conhecimento
