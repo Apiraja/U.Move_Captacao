@@ -1,7 +1,8 @@
 # Melhoria de Seletores
 ## 02
+#### Arena Leilão_Encerrados
 #### https://www.arenaleilao.com.br/leiloes/510-falida-tm-solutions-tecnologia-da-informacao-ltda
-André: Está pegando o leilão como lote.
+André: Está pegando o leilão como lote. E não tem quase nenhum seletor funcionando, provavelmente pelo fato de estar crawleando o leilão e não o lote.
 
 
 
