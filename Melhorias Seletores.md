@@ -1,4 +1,21 @@
 # Melhoria de Seletores
+## 06 
+#### Todos esses não estão pegando o título, poucos pegam a descrição. verificar.
+
+Alexandre Pedrosa Leiloeiro
+Arena Leilão_Encerrados
+Barreto Leilões
+Bringel Leilões_Lote
+Casa Leiloeira_Lote
+Casa Reis Leiloes
+Daniel Garcia Leilões
+Ds Leiloes
+LeilãoVIP
+Leilões Mager_Lote
+Lunelli Leilões
+RJ Leiloes
+
+
 ## 05
 #### https://www.vipleiloes.com.br/Veiculos/DetalharVeiculo/79be9ac0-5b3b-4054-ac06-024a086db755
 
