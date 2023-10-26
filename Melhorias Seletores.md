@@ -1,4 +1,7 @@
 # Melhoria de Seletores
+## 05
+#### .
+
 ## 04
 #### https://www.judhastas.com.br/externo/lote/24288/geladeira
 Pegar descrição completa, confirmar se da pra pegar o endereço, ele já ta vindo nessa descrição completa, então não precisa colocar um seletor zuado pro endereço
