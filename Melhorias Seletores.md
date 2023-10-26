@@ -7,7 +7,7 @@ Status: Pendente
 
 André:Inserir este texto para data e valor. Avaliar se será efetivo para outros lotes deste leiloeiro 
 
-Breno:
+Breno:Precisa de Ajax pra pegar o preço
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/47384c39-1552-4a15-8327-0b34a7538b1c)
 
