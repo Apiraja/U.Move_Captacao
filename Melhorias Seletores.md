@@ -1,4 +1,9 @@
 # Melhoria de Seletores
+## 02
+#### https://www.arenaleilao.com.br/leiloes/510-falida-tm-solutions-tecnologia-da-informacao-ltda
+André: Está pegando o leilão como lote.
+
+
 
 ## 01 
 #### https://www.francoleiloes.com.br/Leiloes/Detalhe?id=2331&idLote=3711&estado=&cidade=
