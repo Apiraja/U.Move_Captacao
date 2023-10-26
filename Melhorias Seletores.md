@@ -1,11 +1,15 @@
 # Melhoria de Seletores
+## 03
+####https://www.barretoleiloes.com.br
+André: Pegar descrição completa! Sem título!
+![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/94b94566-2d72-4bfd-9b19-4cd7dc4b1a5f)
+
+
 ## 02
 #### Arena Leilão_Encerrados
 #### https://www.arenaleilao.com.br/leiloes/510-falida-tm-solutions-tecnologia-da-informacao-ltda
 Status: Finalizado
 André: Está pegando o leilão como lote. E não tem quase nenhum seletor funcionando, provavelmente pelo fato de estar crawleando o leilão e não o lote.
-
-
 
 ## 01 
 #### https://www.francoleiloes.com.br/Leiloes/Detalhe?id=2331&idLote=3711&estado=&cidade=
