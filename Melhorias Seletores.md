@@ -1,7 +1,8 @@
 # Melhoria de Seletores
 ## 05
-#### .
-
+#### https://www.vipleiloes.com.br/Veiculos/DetalharVeiculo/79be9ac0-5b3b-4054-ac06-024a086db755
+https://bidmap.com.br/painel/sites/form/idsite/1091
+Seletores todos errados
 
 ## 04
 #### https://www.judhastas.com.br/externo/lote/24288/geladeira
