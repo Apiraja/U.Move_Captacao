@@ -3,16 +3,27 @@
 #### Todos esses não estão pegando o título, poucos pegam a descrição. verificar.
 
 Alexandre Pedrosa Leiloeiro
+
 Arena Leilão_Encerrados
+
 Barreto Leilões
+
 Bringel Leilões_Lote
+
 Casa Leiloeira_Lote
+
 Casa Reis Leiloes
+
 Daniel Garcia Leilões
+
 Ds Leiloes
+
 LeilãoVIP
+
 Leilões Mager_Lote
+
 Lunelli Leilões
+
 RJ Leiloes
 
 
