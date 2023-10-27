@@ -52,6 +52,7 @@ Pegar descrição completa, confirmar se da pra pegar o endereço, ele já ta vi
 ## 03
 #### https://www.barretoleiloes.com.br
 André: Pegar descrição completa! Sem título!
+Breno: Agora ta pegando a descricao toda, mas o titulo é inexistente
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/94b94566-2d72-4bfd-9b19-4cd7dc4b1a5f)
 
 
@@ -60,6 +61,7 @@ André: Pegar descrição completa! Sem título!
 #### https://www.arenaleilao.com.br/leiloes/510-falida-tm-solutions-tecnologia-da-informacao-ltda
 Status: Finalizado
 André: Está pegando o leilão como lote. E não tem quase nenhum seletor funcionando, provavelmente pelo fato de estar crawleando o leilão e não o lote.
+Breno: Seletores funcionando e Leiloeiro atualizado para padrão Leiloes/Lote
 
 ## 01 
 #### https://www.francoleiloes.com.br/Leiloes/Detalhe?id=2331&idLote=3711&estado=&cidade=
