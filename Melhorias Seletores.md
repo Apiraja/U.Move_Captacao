@@ -2,29 +2,29 @@
 ## 06 
 #### Todos esses não estão pegando o título, poucos pegam a descrição. verificar.
 
-Alexandre Pedrosa Leiloeiro
+Alexandre Pedrosa Leiloeiro : Concluido
 
-Arena Leilão_Encerrados
+Arena Leilão_Encerrados : Concluido
 
-Barreto Leilões
+Barreto Leilões : Concluido
 
-Bringel Leilões_Lote
+Bringel Leilões_Lote : Sem titulo
 
-Casa Leiloeira_Lote
+Casa Leiloeira_Lote : Sem titulo
 
-Casa Reis Leiloes
+Casa Reis Leiloes : Concluido
 
-Daniel Garcia Leilões
+Daniel Garcia Leilões: Concluido
 
-Ds Leiloes
+Ds Leiloes : Sem titulo
 
-LeilãoVIP
+LeilãoVIP : Concluido
 
-Leilões Mager_Lote
+Leilões Mager_Lote: Sem titulo
 
-Lunelli Leilões
+Lunelli Leilões : Concluido
 
-RJ Leiloes
+RJ Leiloes: Concluido
 
 
 ## 05
@@ -33,6 +33,7 @@ RJ Leiloes
 https://bidmap.com.br/painel/sites/form/idsite/1091
 
 Seletores todos errados
+Breno: Corrigido
 
 ![image](https://github.com/Apiraja/U.Move_Captacao/assets/137231287/0d3e6ccc-6c95-4b82-8e07-802f66b2e57e)
 
